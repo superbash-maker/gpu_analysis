@@ -1,2 +1,1 @@
-# gpu_analysis
-# USED FOR LENGAU GPU usage analysis
+USED FOR LENGAU GPU usage analysis
