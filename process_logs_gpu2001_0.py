@@ -39,7 +39,7 @@ for day in range(len(form)):
 
     for i in range(len(gpunode)):
     # Ignore all null enteries as this means no GPU usage
-        if ((gpunum[i] == "0") and not (username[i] == "null")):
+        if ((gpunum[i] == "0")):
             codegpu=np.append(codegpu,app[i])
             usergpu=np.append(usergpu,username[i])
             date=np.append(date,form[day])
@@ -55,8 +55,12 @@ for day in range(len(form)):
         # Work out number of hours used by user
         # Keep in mind each instance of a user being found corresponds to 5 minutes
         # Convert the number of minutes that user was on GPU to hours
-        calcu=round((countu[j]*5)/60,1)
-        calcup=round((calcu/24)*100,1)
+        if (userid[j] == "null"):
+            calcu=round((countu[j]*5)/60,1)
+            calcup=calcu*0
+        else:
+            calcu=round((countu[j]*5)/60,1)
+            calcup=round((calcu/24)*100,1)
         useruse=np.append(useruse,calcu)
         userper=np.append(userper,calcup)
         fu.write(str(date[j])+","+"0"+","+str(userid[j])+","+str(userper[j])+"\n")
@@ -68,8 +72,12 @@ for day in range(len(form)):
         # Work out number of hours used per code
         # Keep in mind each instance of a code being found corresponds to 5 minutes
         # Convert the number of minutes that code was on GPU to hours
-        calcc=round((countc[k]*5)/60,1)
-        calccp=round((calcc/24)*100,1)
+        if (codeid[k] == "null"):
+            calcc=round((countc[k]*5)/60,1)
+            calccp=calcc*0
+        else:
+            calcc=round((countc[k]*5)/60,1)
+            calccp=round((calcc/24)*100,1)
         codeuse=np.append(codeuse,calcc)
         codeper=np.append(codeper,calccp)
         fc.write(str(date[k])+","+"0"+","+str(codeid[k])+","+str(codeper[k])+"\n")
