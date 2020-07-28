@@ -41,7 +41,7 @@ for i in range(1,4):
     title='GPU400'+j,
     xaxis_title='Date',
     yaxis_title='Code',
-    font=dict(family='Times New Roman', size=20, color='black'))
+    font=dict(family='Times New Roman', size=12, color='black'))
 #    fig.write_image("gpu400"+j+"_user.png", width=2560, height=1440)
-    fig.write_image("gpu400"+j+"_code.png", width=2560, height=1440)
+#    fig.write_image("gpu400"+j+"_code.png", width=2560, height=1440)
 #    fig.show()
