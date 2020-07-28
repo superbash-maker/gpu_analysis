@@ -46,7 +46,7 @@ for i in range(1,7):
     fig.update_layout(
     title='GPU200'+j,
     xaxis_title='Date',
-    yaxis_title='Code',
+    yaxis_title='Percent',
     font=dict(family='Times New Roman', size=12, color='black'))
 #    fig.write_image("gpu200"+j+"_user.png", width=2560, height=1440)
 #    fig.write_image("gpu200"+j+"_code.png", width=2560, height=1440)

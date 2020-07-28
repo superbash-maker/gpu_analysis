@@ -35,10 +35,10 @@ for i in range(1,4):
     df['date'] = pd.to_datetime(df["date"], format="%Y%m%d %H:%M")
     # Count the number of times a specific user appears per day
     df['day'] = df['date'].apply(lambda x: "%d-%d-%d" % (x.year,x.month,x.day))
-    df1 = (df.groupby(['day', 'user']).size()*100/864).round(1).reset_index(name='percent')
+    df1 = (df.groupby(['day', 'user']).size()*100/1152).round(1).reset_index(name='percent')
 #    print(df1)
     # Count the number of times a specific code appears per day
-    df2 = (df.groupby(['day', 'code']).size()*100/864).round(1).reset_index(name='percent')
+    df2 = (df.groupby(['day', 'code']).size()*100/1152).round(1).reset_index(name='percent')
     # This gives 2D plot of date and user/code
 #    fig = px.bar(df1, x = 'day', y = 'percent', color = 'user')
     fig = px.bar(df2, x = 'day', y = 'percent', color='code')
@@ -46,7 +46,7 @@ for i in range(1,4):
     fig.update_layout(
     title='GPU400'+j,
     xaxis_title='Date',
-    yaxis_title='Code',
+    yaxis_title='Percent',
     font=dict(family='Times New Roman', size=12, color='black'))
 #    fig.write_image("gpu400"+j+"_user.png", width=2560, height=1440)
 #    fig.write_image("gpu400"+j+"_code.png", width=2560, height=1440)
