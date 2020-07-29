@@ -40,14 +40,17 @@ for i in range(1,7):
     # Count the number of times a specific code appears per day
     df2 = (df.groupby(['day', 'code']).size()*100/864).round(1).reset_index(name='percent')
     # This gives 2D plot of date and user/code
-#    fig = px.bar(df1, x = 'day', y = 'percent', color = 'user')
-    fig = px.bar(df2, x = 'day', y = 'percent', color='code')
-    # This is to get 3D plot per GPUID
+    fig = px.bar(df1, x = 'day', y = 'percent', color = 'user')
     fig.update_layout(
     title='GPU200'+j,
     xaxis_title='Date',
     yaxis_title='Percent',
     font=dict(family='Times New Roman', size=12, color='black'))
-#    fig.write_image("gpu200"+j+"percent_user.png", width=2560, height=1440)
-#    fig.write_image("gpu200"+j+"percent_code.png", width=2560, height=1440)
-    fig.show()
+    fig.write_html('gpu200'+j+'_percent_user.html')
+    fig = px.bar(df2, x = 'day', y = 'percent', color='code')
+    fig.update_layout(
+    title='GPU200'+j,
+    xaxis_title='Date',
+    yaxis_title='Percent',
+    font=dict(family='Times New Roman', size=12, color='black'))
+    fig.write_html('gpu200'+j+'_percent_code.html')

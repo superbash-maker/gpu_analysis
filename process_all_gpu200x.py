@@ -34,15 +34,20 @@ for i in range(1,7):
     df = pd.read_csv("logs/gpu/gpu200"+j+"/all", names=cols, header=None, low_memory=False)
     df['date'] = pd.to_datetime(df["date"], format="%Y%m%d %H:%M")
     # This gives 2D plot of date and user/code
-#    fig = px.scatter(df, x = 'date', y = 'user', color='user')
+    fig = px.scatter(df, x = 'date', y = 'user', color='user')
+    fig.update_layout(
+    title='GPU200'+j,
+    xaxis_title='Date',
+    yaxis_title='Username',
+    font=dict(family='Times New Roman', size=12, color='black'))
+    fig.write_html('gpu200'+j+'_user.html')
     fig = px.scatter(df, x = 'date', y = 'code', color='code')
-    # This is to get 3D plot per GPUID
-#    fig = px.scatter_3d(df, x = 'date', y = 'user', z = 'code', color='code')
     fig.update_layout(
     title='GPU200'+j,
     xaxis_title='Date',
     yaxis_title='Code',
     font=dict(family='Times New Roman', size=12, color='black'))
-#    fig.write_image("gpu200"+j+"_user.png", width=2560, height=1440)
-#    fig.write_image("gpu200"+j+"_code.png", width=2560, height=1440)
-    fig.show()
+    fig.write_html('gpu200'+j+'_code.html')
+    # This is to get 3D plot per GPUID
+    fig = px.scatter_3d(df, x = 'date', y = 'user', z = 'code', color='code')
+    fig.write_html('gpu200'+j+'_user_and_code.html')
