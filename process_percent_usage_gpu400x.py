@@ -48,6 +48,6 @@ for i in range(1,4):
     xaxis_title='Date',
     yaxis_title='Percent',
     font=dict(family='Times New Roman', size=12, color='black'))
-#    fig.write_image("gpu400"+j+"_user.png", width=2560, height=1440)
-#    fig.write_image("gpu400"+j+"_code.png", width=2560, height=1440)
+#    fig.write_image("gpu400"+j+"percent_user.png", width=2560, height=1440)
+#    fig.write_image("gpu400"+j+"percent_code.png", width=2560, height=1440)
     fig.show()
