@@ -99,13 +99,16 @@ monthly_percent3 = appended_data[appended_data['yearmonth'].isin(options3)]
 monthly_percent3 = (monthly_percent3.groupby(['yearmonth','code']).sum()/(9*28)).round(1).reset_index()
 frames = [monthly_percent1, monthly_percent2, monthly_percent3]
 merge_percent = pd.concat(frames)
-print(merge_percent)
+merge_percent = merge_percent.sort_values(by=['yearmonth','percent'])
+merge_percent = merge_percent.reset_index(drop=True)
 # This gives 2D plot of date and code
-#fig = px.bar(monthly_percent, x = 'month', y = 'percent', color='code')
-#fig.update_layout(
-#title='GPU_USAGE',
-#xaxis_title='Month',
-#yaxis_title='Percent Usage',
-#font=dict(family='Times New Roman', size=12, color='black'))
+fig = px.bar(merge_percent, x = 'yearmonth', y = 'percent', color='code')
+fig.update_layout(
+title='GPU_USAGE',
+xaxis_title='Month',
+yaxis_title='Percent Usage',
+xaxis_ticktext=["May 2020", "June 2020", "July 2020"],
+xaxis_tickvals=["2020-5", "2020-6", "2020-7"],
+font=dict(family='Times New Roman', size=15, color='black'))
 ##fig.write_html('gpu200'+j+'_percent_code.html')
-#fig.show()
+fig.show()
