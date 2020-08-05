@@ -3,13 +3,11 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import numpy as np
 from datetime import date
-import os
 import subprocess
-import datetime
 
 # Get the date range that you want to process
 form=np.array([])
-start_date = date(2020, 5, 1)
+start_date = date(2020, 2, 1)
 end_date = date(2020, 7, 31)
 daterange = pd.date_range(start_date, end_date)
 for single_day in daterange:
@@ -89,26 +87,28 @@ options1 = ['2020-4', '2020-6', '2020-9', '2020-11']
 options2 = ['2020-1', '2020-3', '2020-5', '2020-7', '2020-8', '2020-10', '2020-11']
 options3 = ['2020-2']
 # Compute the GPU percentage usage per month by summing up all percentages per day
-# And divide by total number of GPU nodes on the cluster (9 nodes)
-# Also divide by the number of days of a month
+# And divide by total number of GPU nodes on the cluster (9 nodes) and the number of days in a month
+# Keep in mind Feb was a leap year in 2020, so use 29 days instead of 28
 monthly_percent1 = appended_data[appended_data['yearmonth'].isin(options1)]
 monthly_percent1 = (monthly_percent1.groupby(['yearmonth','code']).sum()/(9*30)).round(1).reset_index()
 monthly_percent2 = appended_data[appended_data['yearmonth'].isin(options2)]
 monthly_percent2 = (monthly_percent2.groupby(['yearmonth','code']).sum()/(9*31)).round(1).reset_index()
 monthly_percent3 = appended_data[appended_data['yearmonth'].isin(options3)]
-monthly_percent3 = (monthly_percent3.groupby(['yearmonth','code']).sum()/(9*28)).round(1).reset_index()
-frames = [monthly_percent1, monthly_percent2, monthly_percent3]
-merge_percent = pd.concat(frames)
+monthly_percent3 = (monthly_percent3.groupby(['yearmonth','code']).sum()/(9*29)).round(1).reset_index()
+# Put all dataframes for each month together
+combine_percent = [monthly_percent1, monthly_percent2, monthly_percent3]
+merge_percent = pd.concat(combine_percent)
+# Sort the list in order of months and reindex
 merge_percent = merge_percent.sort_values(by=['yearmonth','percent'])
 merge_percent = merge_percent.reset_index(drop=True)
-# This gives 2D plot of date and code
+# This gives 2D plot of month and percent usage for each code
 fig = px.bar(merge_percent, x = 'yearmonth', y = 'percent', color='code')
 fig.update_layout(
 title='GPU_USAGE',
 xaxis_title='Month',
 yaxis_title='Percent Usage',
-xaxis_ticktext=["May 2020", "June 2020", "July 2020"],
-xaxis_tickvals=["2020-5", "2020-6", "2020-7"],
-font=dict(family='Times New Roman', size=15, color='black'))
-##fig.write_html('gpu200'+j+'_percent_code.html')
-fig.show()
+xaxis_ticktext=["Feb 2020", "Mar 2020", "Apr 2020", "May 2020", "Jun 2020", "Jul 2020"],
+xaxis_tickvals=["2020-2", "2020-3", "2020-4", "2020-5", "2020-6", "2020-7"],
+font=dict(family='Times New Roman', size=14, color='black'))
+fig.write_html('overall_percent_gpu_usage_code.html')
+#fig.show()
