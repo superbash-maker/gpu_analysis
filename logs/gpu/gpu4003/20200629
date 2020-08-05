@@ -1,0 +1,1152 @@
+20200629 00:00, gpu4003, 0, 00000000:1A:00.0,52,75,15, zgill, guppy_basecaller, 395919
+20200629 00:00, gpu4003, 1, 00000000:1C:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 00:00, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 00:00, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:05, gpu4003, 0, 00000000:1A:00.0,51,88,18, zgill, guppy_basecaller, 395919
+20200629 00:05, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 00:05, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 00:05, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:10, gpu4003, 0, 00000000:1A:00.0,54,90,20, zgill, guppy_basecaller, 395919
+20200629 00:10, gpu4003, 1, 00000000:1C:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:10, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 00:10, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:15, gpu4003, 0, 00000000:1A:00.0,54,89,18, zgill, guppy_basecaller, 395919
+20200629 00:15, gpu4003, 1, 00000000:1C:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 00:15, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 00:15, gpu4003, 3, 00000000:1E:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 00:20, gpu4003, 0, 00000000:1A:00.0,54,93,15, zgill, guppy_basecaller, 395919
+20200629 00:20, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 00:20, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 00:20, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:25, gpu4003, 0, 00000000:1A:00.0,49,0,0, zgill, guppy_basecaller, 395919
+20200629 00:25, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 00:25, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 00:25, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:30, gpu4003, 0, 00000000:1A:00.0,48,91,20, zgill, guppy_basecaller, 395919
+20200629 00:30, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 00:30, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 00:30, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:35, gpu4003, 0, 00000000:1A:00.0,51,90,19, zgill, guppy_basecaller, 395919
+20200629 00:35, gpu4003, 1, 00000000:1C:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:35, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 00:35, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:40, gpu4003, 0, 00000000:1A:00.0,54,90,22, zgill, guppy_basecaller, 395919
+20200629 00:40, gpu4003, 1, 00000000:1C:00.0,41,0,0, zgill, guppy_basecaller, 395919
+20200629 00:40, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 00:40, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:45, gpu4003, 0, 00000000:1A:00.0,53,92,18, zgill, guppy_basecaller, 395919
+20200629 00:45, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 00:45, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 00:45, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:50, gpu4003, 0, 00000000:1A:00.0,53,91,18, zgill, guppy_basecaller, 395919
+20200629 00:50, gpu4003, 1, 00000000:1C:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 00:50, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 00:50, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:55, gpu4003, 0, 00000000:1A:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 00:55, gpu4003, 1, 00000000:1C:00.0,35,0,0, zgill, guppy_basecaller, 395919
+20200629 00:55, gpu4003, 2, 00000000:1D:00.0,35,0,0, zgill, guppy_basecaller, 395919
+20200629 00:55, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:00, gpu4003, 0, 00000000:1A:00.0,52,90,15, zgill, guppy_basecaller, 395919
+20200629 01:00, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 01:00, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 01:00, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:05, gpu4003, 0, 00000000:1A:00.0,44,0,0, zgill, guppy_basecaller, 395919
+20200629 01:05, gpu4003, 1, 00000000:1C:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 01:05, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 01:05, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:10, gpu4003, 0, 00000000:1A:00.0,52,90,18, zgill, guppy_basecaller, 395919
+20200629 01:10, gpu4003, 1, 00000000:1C:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:10, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 01:10, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:15, gpu4003, 0, 00000000:1A:00.0,54,90,19, zgill, guppy_basecaller, 395919
+20200629 01:15, gpu4003, 1, 00000000:1C:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:15, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 01:15, gpu4003, 3, 00000000:1E:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 01:20, gpu4003, 0, 00000000:1A:00.0,52,86,15, zgill, guppy_basecaller, 395919
+20200629 01:20, gpu4003, 1, 00000000:1C:00.0,42,79,16, zgill, guppy_basecaller, 395919
+20200629 01:20, gpu4003, 2, 00000000:1D:00.0,38,79,16, zgill, guppy_basecaller, 395919
+20200629 01:20, gpu4003, 3, 00000000:1E:00.0,41,75,13, zgill, guppy_basecaller, 395919
+20200629 01:25, gpu4003, 0, 00000000:1A:00.0,41,71,16, zgill, guppy_basecaller, 395919
+20200629 01:25, gpu4003, 1, 00000000:1C:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 01:25, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 01:25, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:30, gpu4003, 0, 00000000:1A:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 01:30, gpu4003, 1, 00000000:1C:00.0,35,0,0, zgill, guppy_basecaller, 395919
+20200629 01:30, gpu4003, 2, 00000000:1D:00.0,35,0,0, zgill, guppy_basecaller, 395919
+20200629 01:30, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:35, gpu4003, 0, 00000000:1A:00.0,53,88,18, zgill, guppy_basecaller, 395919
+20200629 01:35, gpu4003, 1, 00000000:1C:00.0,44,4,0, zgill, guppy_basecaller, 395919
+20200629 01:35, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 01:35, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:40, gpu4003, 0, 00000000:1A:00.0,50,91,19, zgill, guppy_basecaller, 395919
+20200629 01:40, gpu4003, 1, 00000000:1C:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 01:40, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 01:40, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:45, gpu4003, 0, 00000000:1A:00.0,53,90,17, zgill, guppy_basecaller, 395919
+20200629 01:45, gpu4003, 1, 00000000:1C:00.0,44,88,17, zgill, guppy_basecaller, 395919
+20200629 01:45, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 01:45, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:50, gpu4003, 0, 00000000:1A:00.0,45,0,0, zgill, guppy_basecaller, 395919
+20200629 01:50, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 01:50, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 01:50, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 01:55, gpu4003, 0, 00000000:1A:00.0,53,88,19, zgill, guppy_basecaller, 395919
+20200629 01:55, gpu4003, 1, 00000000:1C:00.0,44,86,17, zgill, guppy_basecaller, 395919
+20200629 01:55, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 01:55, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 02:00, gpu4003, 0, 00000000:1A:00.0,49,34,7, zgill, guppy_basecaller, 395919
+20200629 02:00, gpu4003, 1, 00000000:1C:00.0,41,0,0, zgill, guppy_basecaller, 395919
+20200629 02:00, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 02:00, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 02:05, gpu4003, 0, 00000000:1A:00.0,46,0,0, zgill, guppy_basecaller, 395919
+20200629 02:05, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 02:05, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 02:05, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 02:10, gpu4003, 0, 00000000:1A:00.0,46,84,16, zgill, guppy_basecaller, 395919
+20200629 02:10, gpu4003, 1, 00000000:1C:00.0,43,90,17, zgill, guppy_basecaller, 395919
+20200629 02:10, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 02:10, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 02:15, gpu4003, 0, 00000000:1A:00.0,52,89,16, zgill, guppy_basecaller, 395919
+20200629 02:15, gpu4003, 1, 00000000:1C:00.0,43,86,16, zgill, guppy_basecaller, 395919
+20200629 02:15, gpu4003, 2, 00000000:1D:00.0,41,86,16, zgill, guppy_basecaller, 395919
+20200629 02:15, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 02:20, gpu4003, 0, 00000000:1A:00.0,52,92,20, zgill, guppy_basecaller, 395919
+20200629 02:20, gpu4003, 1, 00000000:1C:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 02:20, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 02:20, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 02:25, gpu4003, 0, 00000000:1A:00.0,53,91,18, zgill, guppy_basecaller, 395919
+20200629 02:25, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 02:25, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 02:25, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 02:30, gpu4003, 0, 00000000:1A:00.0,53,90,19, zgill, guppy_basecaller, 395919
+20200629 02:30, gpu4003, 1, 00000000:1C:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 02:30, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 02:30, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 02:35, gpu4003, 0, 00000000:1A:00.0,53,85,17, zgill, guppy_basecaller, 395919
+20200629 02:35, gpu4003, 1, 00000000:1C:00.0,42,86,16, zgill, guppy_basecaller, 395919
+20200629 02:35, gpu4003, 2, 00000000:1D:00.0,41,86,16, zgill, guppy_basecaller, 395919
+20200629 02:35, gpu4003, 3, 00000000:1E:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 02:40, gpu4003, 0, 00000000:1A:00.0,53,91,17, zgill, guppy_basecaller, 395919
+20200629 02:40, gpu4003, 1, 00000000:1C:00.0,41,0,0, zgill, guppy_basecaller, 395919
+20200629 02:40, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 02:40, gpu4003, 3, 00000000:1E:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 02:45, gpu4003, 0, 00000000:1A:00.0,50,0,0, zgill, guppy_basecaller, 395919
+20200629 02:45, gpu4003, 1, 00000000:1C:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 02:45, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 02:45, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 02:50, gpu4003, 0, 00000000:1A:00.0,53,82,16, zgill, guppy_basecaller, 395919
+20200629 02:50, gpu4003, 1, 00000000:1C:00.0,44,31,4, zgill, guppy_basecaller, 395919
+20200629 02:50, gpu4003, 2, 00000000:1D:00.0,41,83,16, zgill, guppy_basecaller, 395919
+20200629 02:50, gpu4003, 3, 00000000:1E:00.0,43,83,17, zgill, guppy_basecaller, 395919
+20200629 02:55, gpu4003, 0, 00000000:1A:00.0,53,93,17, zgill, guppy_basecaller, 395919
+20200629 02:55, gpu4003, 1, 00000000:1C:00.0,42,0,0, zgill, guppy_basecaller, 395919
+20200629 02:55, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 02:55, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:00, gpu4003, 0, 00000000:1A:00.0,54,92,19, zgill, guppy_basecaller, 395919
+20200629 03:00, gpu4003, 1, 00000000:1C:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 03:00, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:00, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:05, gpu4003, 0, 00000000:1A:00.0,53,92,18, zgill, guppy_basecaller, 395919
+20200629 03:05, gpu4003, 1, 00000000:1C:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:05, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:05, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:10, gpu4003, 0, 00000000:1A:00.0,49,0,0, zgill, guppy_basecaller, 395919
+20200629 03:10, gpu4003, 1, 00000000:1C:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:10, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:10, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:15, gpu4003, 0, 00000000:1A:00.0,51,90,17, zgill, guppy_basecaller, 395919
+20200629 03:15, gpu4003, 1, 00000000:1C:00.0,44,75,15, zgill, guppy_basecaller, 395919
+20200629 03:15, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 03:15, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:20, gpu4003, 0, 00000000:1A:00.0,52,92,18, zgill, guppy_basecaller, 395919
+20200629 03:20, gpu4003, 1, 00000000:1C:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 03:20, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:20, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:25, gpu4003, 0, 00000000:1A:00.0,49,0,0, zgill, guppy_basecaller, 395919
+20200629 03:25, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 03:25, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:25, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:30, gpu4003, 0, 00000000:1A:00.0,50,0,0, zgill, guppy_basecaller, 395919
+20200629 03:30, gpu4003, 1, 00000000:1C:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 03:30, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:30, gpu4003, 3, 00000000:1E:00.0,40,0,0, zgill, guppy_basecaller, 395919
+20200629 03:35, gpu4003, 0, 00000000:1A:00.0,53,91,18, zgill, guppy_basecaller, 395919
+20200629 03:35, gpu4003, 1, 00000000:1C:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:35, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:35, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:40, gpu4003, 0, 00000000:1A:00.0,50,0,0, zgill, guppy_basecaller, 395919
+20200629 03:40, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 03:40, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:40, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:45, gpu4003, 0, 00000000:1A:00.0,51,91,16, zgill, guppy_basecaller, 395919
+20200629 03:45, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 03:45, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:45, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:50, gpu4003, 0, 00000000:1A:00.0,52,87,17, zgill, guppy_basecaller, 395919
+20200629 03:50, gpu4003, 1, 00000000:1C:00.0,43,85,17, zgill, guppy_basecaller, 395919
+20200629 03:50, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:50, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 03:55, gpu4003, 0, 00000000:1A:00.0,50,0,0, zgill, guppy_basecaller, 395919
+20200629 03:55, gpu4003, 1, 00000000:1C:00.0,41,0,0, zgill, guppy_basecaller, 395919
+20200629 03:55, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 03:55, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 04:00, gpu4003, 0, 00000000:1A:00.0,53,93,18, zgill, guppy_basecaller, 395919
+20200629 04:00, gpu4003, 1, 00000000:1C:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 04:00, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 04:00, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 04:05, gpu4003, 0, 00000000:1A:00.0,52,89,18, zgill, guppy_basecaller, 395919
+20200629 04:05, gpu4003, 1, 00000000:1C:00.0,43,87,18, zgill, guppy_basecaller, 395919
+20200629 04:05, gpu4003, 2, 00000000:1D:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 04:05, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 04:10, gpu4003, 0, 00000000:1A:00.0,53,90,19, zgill, guppy_basecaller, 395919
+20200629 04:10, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 04:10, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 04:10, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 04:15, gpu4003, 0, 00000000:1A:00.0,53,90,18, zgill, guppy_basecaller, 395919
+20200629 04:15, gpu4003, 1, 00000000:1C:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 04:15, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 04:15, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 04:20, gpu4003, 0, 00000000:1A:00.0,53,90,19, zgill, guppy_basecaller, 395919
+20200629 04:20, gpu4003, 1, 00000000:1C:00.0,38,0,0, zgill, guppy_basecaller, 395919
+20200629 04:20, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 04:20, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 04:25, gpu4003, 0, 00000000:1A:00.0,53,93,18, zgill, guppy_basecaller, 395919
+20200629 04:25, gpu4003, 1, 00000000:1C:00.0,37,0,0, zgill, guppy_basecaller, 395919
+20200629 04:25, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 04:25, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 04:30, gpu4003, 0, 00000000:1A:00.0,49,28,6, zgill, guppy_basecaller, 395919
+20200629 04:30, gpu4003, 1, 00000000:1C:00.0,39,68,14, zgill, guppy_basecaller, 395919
+20200629 04:30, gpu4003, 2, 00000000:1D:00.0,36,0,0, zgill, guppy_basecaller, 395919
+20200629 04:30, gpu4003, 3, 00000000:1E:00.0,39,0,0, zgill, guppy_basecaller, 395919
+20200629 04:35, gpu4003, 0, 00000000:1A:00.0,34,0,0, null, null, null
+20200629 04:35, gpu4003, 1, 00000000:1C:00.0,32,0,0, null, null, null
+20200629 04:35, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 04:35, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 04:40, gpu4003, 0, 00000000:1A:00.0,35,0,0, evanderwesthuizen, nnet3-chain-train, 419640 419643
+20200629 04:40, gpu4003, 1, 00000000:1C:00.0,45,92,41, evanderwesthuizen, nnet3-chain-train, 419640 419643
+20200629 04:40, gpu4003, 2, 00000000:1D:00.0,45,76,24, evanderwesthuizen, nnet3-chain-train, 419604 419610
+20200629 04:40, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 419604 419610
+20200629 04:45, gpu4003, 0, 00000000:1A:00.0,45,48,16, evanderwesthuizen, nnet3-chain-train, 425882 425885
+20200629 04:45, gpu4003, 1, 00000000:1C:00.0,42,68,27, evanderwesthuizen, nnet3-chain-train, 425882 425885
+20200629 04:45, gpu4003, 2, 00000000:1D:00.0,41,33,10, evanderwesthuizen, nnet3-chain-train, 425948 425953
+20200629 04:45, gpu4003, 3, 00000000:1E:00.0,47,81,37, evanderwesthuizen, nnet3-chain-train, 425948 425953
+20200629 04:50, gpu4003, 0, 00000000:1A:00.0,48,98,50, evanderwesthuizen, nnet3-chain-train, 432092 432093
+20200629 04:50, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 432092 432093
+20200629 04:50, gpu4003, 2, 00000000:1D:00.0,45,93,41, evanderwesthuizen, nnet3-chain-train, 432226 432228
+20200629 04:50, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 432226 432228
+20200629 04:55, gpu4003, 0, 00000000:1A:00.0,49,98,46, evanderwesthuizen, nnet3-chain-train, 438359 438363
+20200629 04:55, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 438359 438363
+20200629 04:55, gpu4003, 2, 00000000:1D:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 438550 438553
+20200629 04:55, gpu4003, 3, 00000000:1E:00.0,49,90,36, evanderwesthuizen, nnet3-chain-train, 438550 438553
+20200629 05:00, gpu4003, 0, 00000000:1A:00.0,46,80,34, evanderwesthuizen, nnet3-chain-train, 444688 444923
+20200629 05:00, gpu4003, 1, 00000000:1C:00.0,42,55,19, evanderwesthuizen, nnet3-chain-train, 444688 444923
+20200629 05:00, gpu4003, 2, 00000000:1D:00.0,42,84,44, evanderwesthuizen, nnet3-chain-train, 444811 444814
+20200629 05:00, gpu4003, 3, 00000000:1E:00.0,47,91,46, evanderwesthuizen, nnet3-chain-train, 444811 444814
+20200629 05:05, gpu4003, 0, 00000000:1A:00.0,47,49,16, evanderwesthuizen, nnet3-chain-train, 451652 451656
+20200629 05:05, gpu4003, 1, 00000000:1C:00.0,43,77,33, evanderwesthuizen, nnet3-chain-train, 451652 451656
+20200629 05:05, gpu4003, 2, 00000000:1D:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 450719 450725
+20200629 05:05, gpu4003, 3, 00000000:1E:00.0,49,98,52, evanderwesthuizen, nnet3-chain-train, 450719 450725
+20200629 05:10, gpu4003, 0, 00000000:1A:00.0,47,68,25, evanderwesthuizen, nnet3-chain-train, 457516 457517
+20200629 05:10, gpu4003, 1, 00000000:1C:00.0,42,50,16, evanderwesthuizen, nnet3-chain-train, 457516 457517
+20200629 05:10, gpu4003, 2, 00000000:1D:00.0,42,46,14, evanderwesthuizen, nnet3-chain-train, 457390 457394
+20200629 05:10, gpu4003, 3, 00000000:1E:00.0,47,39,12, evanderwesthuizen, nnet3-chain-train, 457390 457394
+20200629 05:15, gpu4003, 0, 00000000:1A:00.0,47,85,37, evanderwesthuizen, nnet3-chain-train, 5552 5555
+20200629 05:15, gpu4003, 1, 00000000:1C:00.0,41,0,0, evanderwesthuizen, [nnet3-chain-tra], 5552 5555
+20200629 05:15, gpu4003, 2, 00000000:1D:00.0,38,0,0, evanderwesthuizen, nnet3-chain-train, 8465 8466
+20200629 05:15, gpu4003, 3, 00000000:1E:00.0,45,73,26, evanderwesthuizen, nnet3-chain-train, 8465 8466
+20200629 05:20, gpu4003, 0, 00000000:1A:00.0,36,0,0, evanderwesthuizen, nnet3-chain-train, 11847 11850
+20200629 05:20, gpu4003, 1, 00000000:1C:00.0,46,96,45, evanderwesthuizen, nnet3-chain-train, 11847 11850
+20200629 05:20, gpu4003, 2, 00000000:1D:00.0,45,94,42, evanderwesthuizen, nnet3-chain-train, 11643 11644
+20200629 05:20, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 11643 11644
+20200629 05:25, gpu4003, 0, 00000000:1A:00.0,46,29,8, evanderwesthuizen, nnet3-chain-train, 18589 18591
+20200629 05:25, gpu4003, 1, 00000000:1C:00.0,43,91,47, evanderwesthuizen, nnet3-chain-train, 18589 18591
+20200629 05:25, gpu4003, 2, 00000000:1D:00.0,45,93,45, evanderwesthuizen, nnet3-chain-train, 17690 17691
+20200629 05:25, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 17690 17691
+20200629 05:30, gpu4003, 0, 00000000:1A:00.0,49,97,45, evanderwesthuizen, nnet3-chain-train, 24820 24822
+20200629 05:30, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 24820 24822
+20200629 05:30, gpu4003, 2, 00000000:1D:00.0,45,77,25, evanderwesthuizen, nnet3-chain-train, 24081 24085
+20200629 05:30, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 24081 24085
+20200629 05:35, gpu4003, 0, 00000000:1A:00.0,48,89,34, evanderwesthuizen, nnet3-chain-train, 31636 31640
+20200629 05:35, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 31636 31640
+20200629 05:35, gpu4003, 2, 00000000:1D:00.0,46,80,24, evanderwesthuizen, nnet3-chain-train, 29953 29955
+20200629 05:35, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 29953 29955
+20200629 05:40, gpu4003, 0, 00000000:1A:00.0,36,0,0, evanderwesthuizen, nnet3-chain-train, 37941 37942
+20200629 05:40, gpu4003, 1, 00000000:1C:00.0,46,89,27, evanderwesthuizen, nnet3-chain-train, 37941 37942
+20200629 05:40, gpu4003, 2, 00000000:1D:00.0,45,87,29, evanderwesthuizen, nnet3-chain-train, 36204 36208
+20200629 05:40, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 36204 36208
+20200629 05:45, gpu4003, 0, 00000000:1A:00.0,50,86,29, evanderwesthuizen, nnet3-chain-train, 44599 44601
+20200629 05:45, gpu4003, 1, 00000000:1C:00.0,34,0,0, evanderwesthuizen, nnet3-chain-train, 44599 44601
+20200629 05:45, gpu4003, 2, 00000000:1D:00.0,36,0,0, evanderwesthuizen, nnet3-chain-train, 45196 45197
+20200629 05:45, gpu4003, 3, 00000000:1E:00.0,48,90,39, evanderwesthuizen, nnet3-chain-train, 45196 45197
+20200629 05:50, gpu4003, 0, 00000000:1A:00.0,47,47,16, evanderwesthuizen, nnet3-chain-train, 50571 50572
+20200629 05:50, gpu4003, 1, 00000000:1C:00.0,44,75,30, evanderwesthuizen, nnet3-chain-train, 50571 50572
+20200629 05:50, gpu4003, 2, 00000000:1D:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 48566 48570
+20200629 05:50, gpu4003, 3, 00000000:1E:00.0,49,80,27, evanderwesthuizen, nnet3-chain-train, 48566 48570
+20200629 05:55, gpu4003, 0, 00000000:1A:00.0,46,36,10, evanderwesthuizen, nnet3-chain-train, 56749 56753
+20200629 05:55, gpu4003, 1, 00000000:1C:00.0,44,88,44, evanderwesthuizen, nnet3-chain-train, 56749 56753
+20200629 05:55, gpu4003, 2, 00000000:1D:00.0,46,94,47, evanderwesthuizen, nnet3-chain-train, 55263 55268
+20200629 05:55, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 55263 55268
+20200629 06:00, gpu4003, 0, 00000000:1A:00.0,48,90,38, evanderwesthuizen, nnet3-chain-train, 63292 63293
+20200629 06:00, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 63292 63293
+20200629 06:00, gpu4003, 2, 00000000:1D:00.0,42,90,46, evanderwesthuizen, nnet3-chain-train, 64280 64281
+20200629 06:00, gpu4003, 3, 00000000:1E:00.0,48,59,19, evanderwesthuizen, nnet3-chain-train, 64280 64281
+20200629 06:05, gpu4003, 0, 00000000:1A:00.0,44,26,8, evanderwesthuizen, nnet3-chain-train, 70342 70347
+20200629 06:05, gpu4003, 1, 00000000:1C:00.0,40,28,9, evanderwesthuizen, nnet3-chain-train, 70342 70347
+20200629 06:05, gpu4003, 2, 00000000:1D:00.0,42,36,11, evanderwesthuizen, nnet3-chain-train, 70087 70146
+20200629 06:05, gpu4003, 3, 00000000:1E:00.0,46,77,35, evanderwesthuizen, nnet3-chain-train, 70087 70146
+20200629 06:10, gpu4003, 0, 00000000:1A:00.0,47,82,42, evanderwesthuizen, nnet3-chain-train, 76098 76103
+20200629 06:10, gpu4003, 1, 00000000:1C:00.0,43,88,46, evanderwesthuizen, nnet3-chain-train, 76098 76103
+20200629 06:10, gpu4003, 2, 00000000:1D:00.0,45,98,52, evanderwesthuizen, nnet3-chain-train, 77086 77088
+20200629 06:10, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 77086 77088
+20200629 06:15, gpu4003, 0, 00000000:1A:00.0,48,79,25, evanderwesthuizen, nnet3-chain-train, 82651 82652
+20200629 06:15, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 82651 82652
+20200629 06:15, gpu4003, 2, 00000000:1D:00.0,45,95,44, evanderwesthuizen, nnet3-chain-train, 82978 82980
+20200629 06:15, gpu4003, 3, 00000000:1E:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 82978 82980
+20200629 06:20, gpu4003, 0, 00000000:1A:00.0,47,84,42, evanderwesthuizen, nnet3-chain-train, 88911 88914
+20200629 06:20, gpu4003, 1, 00000000:1C:00.0,42,36,11, evanderwesthuizen, nnet3-chain-train, 88911 88914
+20200629 06:20, gpu4003, 2, 00000000:1D:00.0,42,85,44, evanderwesthuizen, nnet3-chain-train, 89270 89271
+20200629 06:20, gpu4003, 3, 00000000:1E:00.0,47,65,24, evanderwesthuizen, nnet3-chain-train, 89270 89271
+20200629 06:25, gpu4003, 0, 00000000:1A:00.0,44,1,0, evanderwesthuizen, nnet3-chain-train, 97926 97927
+20200629 06:25, gpu4003, 1, 00000000:1C:00.0,39,4,0, evanderwesthuizen, nnet3-chain-train, 97926 97927
+20200629 06:25, gpu4003, 2, 00000000:1D:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 95494 95497
+20200629 06:25, gpu4003, 3, 00000000:1E:00.0,49,98,47, evanderwesthuizen, nnet3-chain-train, 95494 95497
+20200629 06:30, gpu4003, 0, 00000000:1A:00.0,50,98,49, evanderwesthuizen, nnet3-chain-train, 101835 101836
+20200629 06:30, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 101835 101836
+20200629 06:30, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 06:30, gpu4003, 3, 00000000:1E:00.0,35,0,0, null, null, null
+20200629 06:35, gpu4003, 0, 00000000:1A:00.0,48,65,24, evanderwesthuizen, nnet3-chain-train, 105091 105095
+20200629 06:35, gpu4003, 1, 00000000:1C:00.0,45,59,19, evanderwesthuizen, nnet3-chain-train, 105091 105095
+20200629 06:35, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 06:35, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 06:40, gpu4003, 0, 00000000:1A:00.0,50,100,63, evanderwesthuizen, nnet3-chain-train, 109849 109851
+20200629 06:40, gpu4003, 1, 00000000:1C:00.0,34,0,0, evanderwesthuizen, nnet3-chain-train, 109849 109851
+20200629 06:40, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 06:40, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 06:45, gpu4003, 0, 00000000:1A:00.0,47,62,23, evanderwesthuizen, nnet3-chain-train, 113041 113045
+20200629 06:45, gpu4003, 1, 00000000:1C:00.0,42,71,26, evanderwesthuizen, nnet3-chain-train, 113041 113045
+20200629 06:45, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 06:45, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 06:50, gpu4003, 0, 00000000:1A:00.0,49,97,48, evanderwesthuizen, nnet3-chain-train, 116192 116197
+20200629 06:50, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 116192 116197
+20200629 06:50, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 06:50, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 06:55, gpu4003, 0, 00000000:1A:00.0,46,84,20, evanderwesthuizen, nnet3-chain-train, 120923 120926
+20200629 06:55, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 120923 120926
+20200629 06:55, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 06:55, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:00, gpu4003, 0, 00000000:1A:00.0,47,54,17, evanderwesthuizen, nnet3-chain-train, 124110 124113
+20200629 07:00, gpu4003, 1, 00000000:1C:00.0,44,52,16, evanderwesthuizen, nnet3-chain-train, 124110 124113
+20200629 07:00, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:00, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:05, gpu4003, 0, 00000000:1A:00.0,49,93,35, evanderwesthuizen, nnet3-chain-train, 127378 127379
+20200629 07:05, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 127378 127379
+20200629 07:05, gpu4003, 2, 00000000:1D:00.0,31,0,0, null, null, null
+20200629 07:05, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:10, gpu4003, 0, 00000000:1A:00.0,50,97,51, evanderwesthuizen, nnet3-chain-train, 130583 130585
+20200629 07:10, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 130583 130585
+20200629 07:10, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:10, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:15, gpu4003, 0, 00000000:1A:00.0,50,98,43, evanderwesthuizen, nnet3-chain-train, 135302 135305
+20200629 07:15, gpu4003, 1, 00000000:1C:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 135302 135305
+20200629 07:15, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:15, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:20, gpu4003, 0, 00000000:1A:00.0,50,98,45, evanderwesthuizen, nnet3-chain-train, 138506 138509
+20200629 07:20, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 138506 138509
+20200629 07:20, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:20, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:25, gpu4003, 0, 00000000:1A:00.0,50,99,63, evanderwesthuizen, nnet3-chain-train, 143230 143232
+20200629 07:25, gpu4003, 1, 00000000:1C:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 143230 143232
+20200629 07:25, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:25, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:30, gpu4003, 0, 00000000:1A:00.0,50,97,50, evanderwesthuizen, nnet3-chain-train, 146431 146433
+20200629 07:30, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 146431 146433
+20200629 07:30, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:30, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:35, gpu4003, 0, 00000000:1A:00.0,49,94,51, evanderwesthuizen, nnet3-chain-train, 149692 149694
+20200629 07:35, gpu4003, 1, 00000000:1C:00.0,44,86,39, evanderwesthuizen, nnet3-chain-train, 149692 149694
+20200629 07:35, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:35, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:40, gpu4003, 0, 00000000:1A:00.0,50,98,46, evanderwesthuizen, nnet3-chain-train, 154445 154446
+20200629 07:40, gpu4003, 1, 00000000:1C:00.0,34,0,0, evanderwesthuizen, nnet3-chain-train, 154445 154446
+20200629 07:40, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:40, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:45, gpu4003, 0, 00000000:1A:00.0,49,91,44, evanderwesthuizen, nnet3-chain-train, 157603 157605
+20200629 07:45, gpu4003, 1, 00000000:1C:00.0,44,82,38, evanderwesthuizen, nnet3-chain-train, 157603 157605
+20200629 07:45, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:45, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:50, gpu4003, 0, 00000000:1A:00.0,49,87,37, evanderwesthuizen, nnet3-chain-train, 162311 162313
+20200629 07:50, gpu4003, 1, 00000000:1C:00.0,41,77,32, evanderwesthuizen, nnet3-chain-train, 162311 162313
+20200629 07:50, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:50, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 07:55, gpu4003, 0, 00000000:1A:00.0,50,98,48, evanderwesthuizen, nnet3-chain-train, 165488 165489
+20200629 07:55, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 165488 165489
+20200629 07:55, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 07:55, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:00, gpu4003, 0, 00000000:1A:00.0,50,94,34, evanderwesthuizen, nnet3-chain-train, 168694 168698
+20200629 08:00, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 168694 168698
+20200629 08:00, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 08:00, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:05, gpu4003, 0, 00000000:1A:00.0,49,44,21, evanderwesthuizen, [nnet3-chain-tra], 171975
+20200629 08:05, gpu4003, 1, 00000000:1C:00.0,32,0,0, null, null, null
+20200629 08:05, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 08:05, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:10, gpu4003, 0, 00000000:1A:00.0,50,90,29, evanderwesthuizen, nnet3-chain-train, 176684 176685
+20200629 08:10, gpu4003, 1, 00000000:1C:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 176684 176685
+20200629 08:10, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 08:10, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:15, gpu4003, 0, 00000000:1A:00.0,51,98,50, evanderwesthuizen, nnet3-chain-train, 179868 179870
+20200629 08:15, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 179868 179870
+20200629 08:15, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 08:15, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:20, gpu4003, 0, 00000000:1A:00.0,51,99,47, evanderwesthuizen, nnet3-chain-train, 183046 183049
+20200629 08:20, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 183046 183049
+20200629 08:20, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 08:20, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:25, gpu4003, 0, 00000000:1A:00.0,50,94,34, evanderwesthuizen, nnet3-chain-train, 186259 186263
+20200629 08:25, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 186259 186263
+20200629 08:25, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 08:25, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:30, gpu4003, 0, 00000000:1A:00.0,49,97,44, evanderwesthuizen, nnet3-chain-train, 191005 191006
+20200629 08:30, gpu4003, 1, 00000000:1C:00.0,38,0,0, evanderwesthuizen, nnet3-chain-train, 191005 191006
+20200629 08:30, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 08:30, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:35, gpu4003, 0, 00000000:1A:00.0,49,49,15, evanderwesthuizen, nnet3-chain-train, 194260 194262
+20200629 08:35, gpu4003, 1, 00000000:1C:00.0,45,64,21, evanderwesthuizen, nnet3-chain-train, 194260 194262
+20200629 08:35, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 08:35, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:40, gpu4003, 0, 00000000:1A:00.0,49,95,36, evanderwesthuizen, nnet3-chain-train, 198955 198958
+20200629 08:40, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 198955 198958
+20200629 08:40, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 08:40, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:45, gpu4003, 0, 00000000:1A:00.0,49,95,38, evanderwesthuizen, nnet3-chain-train, 202153 202155
+20200629 08:45, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 202153 202155
+20200629 08:45, gpu4003, 2, 00000000:1D:00.0,31,0,0, null, null, null
+20200629 08:45, gpu4003, 3, 00000000:1E:00.0,34,0,0, null, null, null
+20200629 08:50, gpu4003, 0, 00000000:1A:00.0,48,82,35, evanderwesthuizen, nnet3-chain-train, 205410 205413
+20200629 08:50, gpu4003, 1, 00000000:1C:00.0,43,92,48, evanderwesthuizen, nnet3-chain-train, 205410 205413
+20200629 08:50, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 203896
+20200629 08:50, gpu4003, 3, 00000000:1E:00.0,38,0,0, null, null, null
+20200629 08:55, gpu4003, 0, 00000000:1A:00.0,50,98,48, evanderwesthuizen, nnet3-chain-train, 208596 208598
+20200629 08:55, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 208596 208598
+20200629 08:55, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 203896
+20200629 08:55, gpu4003, 3, 00000000:1E:00.0,39,0,0, null, null, null
+20200629 09:00, gpu4003, 0, 00000000:1A:00.0,50,97,40, evanderwesthuizen, nnet3-chain-train, 213344 213345
+20200629 09:00, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 213344 213345
+20200629 09:00, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 203896
+20200629 09:00, gpu4003, 3, 00000000:1E:00.0,39,0,0, null, null, null
+20200629 09:05, gpu4003, 0, 00000000:1A:00.0,48,97,41, evanderwesthuizen, nnet3-chain-train, 216633 216637
+20200629 09:05, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 216633 216637
+20200629 09:05, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 203896
+20200629 09:05, gpu4003, 3, 00000000:1E:00.0,39,0,0, null, null, null
+20200629 09:10, gpu4003, 0, 00000000:1A:00.0,49,86,41, evanderwesthuizen, nnet3-chain-train, 221387 221388
+20200629 09:10, gpu4003, 1, 00000000:1C:00.0,44,81,36, evanderwesthuizen, nnet3-chain-train, 221387 221388
+20200629 09:10, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 203896
+20200629 09:10, gpu4003, 3, 00000000:1E:00.0,39,0,0, null, null, null
+20200629 09:15, gpu4003, 0, 00000000:1A:00.0,49,96,33, evanderwesthuizen, nnet3-chain-train, 226129 226133
+20200629 09:15, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 226129 226133
+20200629 09:15, gpu4003, 2, 00000000:1D:00.0,54,88,36, smaphumulo, pmemd.cuda, 203896
+20200629 09:15, gpu4003, 3, 00000000:1E:00.0,39,0,0, null, null, null
+20200629 09:20, gpu4003, 0, 00000000:1A:00.0,49,98,46, evanderwesthuizen, nnet3-chain-train, 229341 229342
+20200629 09:20, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 229341 229342
+20200629 09:20, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 229375
+20200629 09:20, gpu4003, 3, 00000000:1E:00.0,39,0,0, null, null, null
+20200629 09:25, gpu4003, 0, 00000000:1A:00.0,50,98,43, evanderwesthuizen, nnet3-chain-train, 232583 232588
+20200629 09:25, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 232583 232588
+20200629 09:25, gpu4003, 2, 00000000:1D:00.0,55,98,40, smaphumulo, pmemd.cuda, 229375
+20200629 09:25, gpu4003, 3, 00000000:1E:00.0,39,0,0, null, null, null
+20200629 09:30, gpu4003, 0, 00000000:1A:00.0,49,74,26, evanderwesthuizen, nnet3-chain-train, 235868 235870
+20200629 09:30, gpu4003, 1, 00000000:1C:00.0,44,56,18, evanderwesthuizen, nnet3-chain-train, 235868 235870
+20200629 09:30, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 229375
+20200629 09:30, gpu4003, 3, 00000000:1E:00.0,64,98,39, hothman, pmemd.cuda, 236181
+20200629 09:35, gpu4003, 0, 00000000:1A:00.0,49,92,52, evanderwesthuizen, nnet3-chain-train, 240708 240710
+20200629 09:35, gpu4003, 1, 00000000:1C:00.0,43,58,19, evanderwesthuizen, nnet3-chain-train, 240708 240710
+20200629 09:35, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 229375
+20200629 09:35, gpu4003, 3, 00000000:1E:00.0,64,98,39, hothman, pmemd.cuda, 240771
+20200629 09:40, gpu4003, 0, 00000000:1A:00.0,47,0,0, evanderwesthuizen, nnet3-chain-train, 245505 245507
+20200629 09:40, gpu4003, 1, 00000000:1C:00.0,41,0,0, evanderwesthuizen, nnet3-chain-train, 245505 245507
+20200629 09:40, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 229375
+20200629 09:40, gpu4003, 3, 00000000:1E:00.0,66,96,27, hothman, pmemd.cuda, 245324
+20200629 09:45, gpu4003, 0, 00000000:1A:00.0,46,20,1, evanderwesthuizen, nnet3-chain-train, 250274 250275
+20200629 09:45, gpu4003, 1, 00000000:1C:00.0,41,13,0, evanderwesthuizen, nnet3-chain-train, 250274 250275
+20200629 09:45, gpu4003, 2, 00000000:1D:00.0,54,97,39, smaphumulo, pmemd.cuda, 229375
+20200629 09:45, gpu4003, 3, 00000000:1E:00.0,69,95,26, hothman, pmemd.cuda, 245324
+20200629 09:50, gpu4003, 0, 00000000:1A:00.0,50,98,47, evanderwesthuizen, nnet3-chain-train, 253485 253490
+20200629 09:50, gpu4003, 1, 00000000:1C:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 253485 253490
+20200629 09:50, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 229375
+20200629 09:50, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 09:55, gpu4003, 0, 00000000:1A:00.0,50,97,45, evanderwesthuizen, nnet3-chain-train, 256677 256678
+20200629 09:55, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 256677 256678
+20200629 09:55, gpu4003, 2, 00000000:1D:00.0,54,89,36, smaphumulo, pmemd.cuda, 255421
+20200629 09:55, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 10:00, gpu4003, 0, 00000000:1A:00.0,49,96,42, evanderwesthuizen, nnet3-chain-train, 261439 261441
+20200629 10:00, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 261439 261441
+20200629 10:00, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 255421
+20200629 10:00, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 10:05, gpu4003, 0, 00000000:1A:00.0,50,98,45, evanderwesthuizen, nnet3-chain-train, 264741 264744
+20200629 10:05, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 264741 264744
+20200629 10:05, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 255421
+20200629 10:05, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 10:10, gpu4003, 0, 00000000:1A:00.0,51,99,54, evanderwesthuizen, nnet3-chain-train, 267951 267952
+20200629 10:10, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 267951 267952
+20200629 10:10, gpu4003, 2, 00000000:1D:00.0,54,88,36, smaphumulo, pmemd.cuda, 255421
+20200629 10:10, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 10:15, gpu4003, 0, 00000000:1A:00.0,45,71,26, evanderwesthuizen, nnet3-chain-train, 272727 272730
+20200629 10:15, gpu4003, 1, 00000000:1C:00.0,40,74,27, evanderwesthuizen, nnet3-chain-train, 272727 272730
+20200629 10:15, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 255421
+20200629 10:15, gpu4003, 3, 00000000:1E:00.0,70,96,26, hothman, pmemd.cuda, 245324
+20200629 10:20, gpu4003, 0, 00000000:1A:00.0,48,93,51, evanderwesthuizen, nnet3-chain-train, 275925 275927
+20200629 10:20, gpu4003, 1, 00000000:1C:00.0,43,81,37, evanderwesthuizen, nnet3-chain-train, 275925 275927
+20200629 10:20, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 255421
+20200629 10:20, gpu4003, 3, 00000000:1E:00.0,70,96,26, hothman, pmemd.cuda, 245324
+20200629 10:25, gpu4003, 0, 00000000:1A:00.0,47,99,44, evanderwesthuizen, nnet3-chain-train, 280690 280694
+20200629 10:25, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 280690 280694
+20200629 10:25, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 280435
+20200629 10:25, gpu4003, 3, 00000000:1E:00.0,70,97,27, hothman, pmemd.cuda, 245324
+20200629 10:30, gpu4003, 0, 00000000:1A:00.0,50,99,53, evanderwesthuizen, nnet3-chain-train, 282344 282345
+20200629 10:30, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 282344 282345
+20200629 10:30, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 280435
+20200629 10:30, gpu4003, 3, 00000000:1E:00.0,70,96,26, hothman, pmemd.cuda, 245324
+20200629 10:35, gpu4003, 0, 00000000:1A:00.0,50,93,32, evanderwesthuizen, nnet3-chain-train, 287166 287168
+20200629 10:35, gpu4003, 1, 00000000:1C:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 287166 287168
+20200629 10:35, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 280435
+20200629 10:35, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 10:40, gpu4003, 0, 00000000:1A:00.0,50,93,36, evanderwesthuizen, nnet3-chain-train, 290363 290367
+20200629 10:40, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 290363 290367
+20200629 10:40, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 280435
+20200629 10:40, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 10:45, gpu4003, 0, 00000000:1A:00.0,49,91,30, evanderwesthuizen, nnet3-chain-train, 293586 293591
+20200629 10:45, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 293586 293591
+20200629 10:45, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 280435
+20200629 10:45, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 10:50, gpu4003, 0, 00000000:1A:00.0,48,90,43, evanderwesthuizen, nnet3-chain-train, 296802 296804
+20200629 10:50, gpu4003, 1, 00000000:1C:00.0,44,56,18, evanderwesthuizen, nnet3-chain-train, 296802 296804
+20200629 10:50, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 280435
+20200629 10:50, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 10:55, gpu4003, 0, 00000000:1A:00.0,47,55,18, evanderwesthuizen, nnet3-chain-train, 301554 301555
+20200629 10:55, gpu4003, 1, 00000000:1C:00.0,43,53,17, evanderwesthuizen, nnet3-chain-train, 301554 301555
+20200629 10:55, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 280435
+20200629 10:55, gpu4003, 3, 00000000:1E:00.0,70,97,27, hothman, pmemd.cuda, 245324
+20200629 11:00, gpu4003, 0, 00000000:1A:00.0,50,98,44, evanderwesthuizen, nnet3-chain-train, 304764 304765
+20200629 11:00, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 304764 304765
+20200629 11:00, gpu4003, 2, 00000000:1D:00.0,54,89,36, smaphumulo, pmemd.cuda, 303656
+20200629 11:00, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 11:05, gpu4003, 0, 00000000:1A:00.0,48,87,37, evanderwesthuizen, nnet3-chain-train, 308062 308065
+20200629 11:05, gpu4003, 1, 00000000:1C:00.0,44,81,34, evanderwesthuizen, nnet3-chain-train, 308062 308065
+20200629 11:05, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 303656
+20200629 11:05, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 11:10, gpu4003, 0, 00000000:1A:00.0,39,0,0, evanderwesthuizen, nnet3-chain-train, 311435
+20200629 11:10, gpu4003, 1, 00000000:1C:00.0,40,0,0, evanderwesthuizen, nnet3-chain-train, 311435
+20200629 11:10, gpu4003, 2, 00000000:1D:00.0,51,50,21, smaphumulo, pmemd.cuda, 303656
+20200629 11:10, gpu4003, 3, 00000000:1E:00.0,68,98,27, hothman, pmemd.cuda, 245324
+20200629 11:15, gpu4003, 0, 00000000:1A:00.0,49,85,23, evanderwesthuizen, nnet3-chain-train, 316063 316066
+20200629 11:15, gpu4003, 1, 00000000:1C:00.0,36,0,0, evanderwesthuizen, nnet3-chain-train, 316063 316066
+20200629 11:15, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 303656
+20200629 11:15, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 11:20, gpu4003, 0, 00000000:1A:00.0,49,96,49, evanderwesthuizen, nnet3-chain-train, 319277 319278
+20200629 11:20, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 319277 319278
+20200629 11:20, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 303656
+20200629 11:20, gpu4003, 3, 00000000:1E:00.0,70,97,27, hothman, pmemd.cuda, 245324
+20200629 11:25, gpu4003, 0, 00000000:1A:00.0,50,92,52, evanderwesthuizen, nnet3-chain-train, 322459 322461
+20200629 11:25, gpu4003, 1, 00000000:1C:00.0,45,87,41, evanderwesthuizen, nnet3-chain-train, 322459 322461
+20200629 11:25, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 303656
+20200629 11:25, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 11:30, gpu4003, 0, 00000000:1A:00.0,50,96,35, evanderwesthuizen, nnet3-chain-train, 325639 325641
+20200629 11:30, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 325639 325641
+20200629 11:30, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 303656
+20200629 11:30, gpu4003, 3, 00000000:1E:00.0,69,90,25, hothman, pmemd.cuda, 245324
+20200629 11:35, gpu4003, 0, 00000000:1A:00.0,51,98,55, evanderwesthuizen, nnet3-chain-train, 330509 330510
+20200629 11:35, gpu4003, 1, 00000000:1C:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 330509 330510
+20200629 11:35, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 327129
+20200629 11:35, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 11:40, gpu4003, 0, 00000000:1A:00.0,49,98,51, evanderwesthuizen, nnet3-chain-train, 333728 333729
+20200629 11:40, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 333728 333729
+20200629 11:40, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 327129
+20200629 11:40, gpu4003, 3, 00000000:1E:00.0,70,96,26, hothman, pmemd.cuda, 245324
+20200629 11:45, gpu4003, 0, 00000000:1A:00.0,50,94,35, evanderwesthuizen, nnet3-chain-train, 336921 336923
+20200629 11:45, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 336921 336923
+20200629 11:45, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 327129
+20200629 11:45, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 11:50, gpu4003, 0, 00000000:1A:00.0,50,100,59, evanderwesthuizen, nnet3-chain-train, 340124 340125
+20200629 11:50, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 340124 340125
+20200629 11:50, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 327129
+20200629 11:50, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 11:55, gpu4003, 0, 00000000:1A:00.0,45,7,0, evanderwesthuizen, nnet3-chain-train, 344925 344927
+20200629 11:55, gpu4003, 1, 00000000:1C:00.0,32,8,0, evanderwesthuizen, nnet3-chain-train, 344925 344927
+20200629 11:55, gpu4003, 2, 00000000:1D:00.0,53,98,40, smaphumulo, pmemd.cuda, 327129
+20200629 11:55, gpu4003, 3, 00000000:1E:00.0,69,98,27, hothman, pmemd.cuda, 245324
+20200629 12:00, gpu4003, 0, 00000000:1A:00.0,46,9,0, evanderwesthuizen, nnet3-chain-train, 349711 349712
+20200629 12:00, gpu4003, 1, 00000000:1C:00.0,41,8,0, evanderwesthuizen, nnet3-chain-train, 349711 349712
+20200629 12:00, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 327129
+20200629 12:00, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 12:05, gpu4003, 0, 00000000:1A:00.0,50,94,33, evanderwesthuizen, nnet3-chain-train, 352964 352968
+20200629 12:05, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 352964 352968
+20200629 12:05, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 352354
+20200629 12:05, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 12:10, gpu4003, 0, 00000000:1A:00.0,50,96,44, evanderwesthuizen, nnet3-chain-train, 356189 356190
+20200629 12:10, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 356189 356190
+20200629 12:10, gpu4003, 2, 00000000:1D:00.0,54,87,36, smaphumulo, pmemd.cuda, 352354
+20200629 12:10, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 12:15, gpu4003, 0, 00000000:1A:00.0,50,96,50, evanderwesthuizen, nnet3-chain-train, 360964 360965
+20200629 12:15, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 360964 360965
+20200629 12:15, gpu4003, 2, 00000000:1D:00.0,53,98,40, smaphumulo, pmemd.cuda, 352354
+20200629 12:15, gpu4003, 3, 00000000:1E:00.0,69,98,27, hothman, pmemd.cuda, 245324
+20200629 12:20, gpu4003, 0, 00000000:1A:00.0,50,98,52, evanderwesthuizen, nnet3-chain-train, 365695 365699
+20200629 12:20, gpu4003, 1, 00000000:1C:00.0,36,0,0, evanderwesthuizen, nnet3-chain-train, 365695 365699
+20200629 12:20, gpu4003, 2, 00000000:1D:00.0,55,98,40, smaphumulo, pmemd.cuda, 352354
+20200629 12:20, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 12:25, gpu4003, 0, 00000000:1A:00.0,49,98,45, evanderwesthuizen, nnet3-chain-train, 368925 368930
+20200629 12:25, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 368925 368930
+20200629 12:25, gpu4003, 2, 00000000:1D:00.0,55,98,40, smaphumulo, pmemd.cuda, 352354
+20200629 12:25, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 12:30, gpu4003, 0, 00000000:1A:00.0,49,95,34, evanderwesthuizen, nnet3-chain-train, 372124 372127
+20200629 12:30, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 372124 372127
+20200629 12:30, gpu4003, 2, 00000000:1D:00.0,55,98,40, smaphumulo, pmemd.cuda, 352354
+20200629 12:30, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 12:35, gpu4003, 0, 00000000:1A:00.0,49,91,30, evanderwesthuizen, nnet3-chain-train, 375410 375414
+20200629 12:35, gpu4003, 1, 00000000:1C:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 375410 375414
+20200629 12:35, gpu4003, 2, 00000000:1D:00.0,54,87,36, smaphumulo, pmemd.cuda, 352354
+20200629 12:35, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 12:40, gpu4003, 0, 00000000:1A:00.0,44,19,1, evanderwesthuizen, nnet3-chain-train, 378657 378660
+20200629 12:40, gpu4003, 1, 00000000:1C:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 378657 378660
+20200629 12:40, gpu4003, 2, 00000000:1D:00.0,55,98,40, smaphumulo, pmemd.cuda, 376121
+20200629 12:40, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 245324
+20200629 12:45, gpu4003, 0, 00000000:1A:00.0,46,76,30, evanderwesthuizen, nnet3-chain-train, 381904 381909
+20200629 12:45, gpu4003, 1, 00000000:1C:00.0,37,73,26, evanderwesthuizen, nnet3-chain-train, 381904 381909
+20200629 12:45, gpu4003, 2, 00000000:1D:00.0,52,88,36, smaphumulo, pmemd.cuda, 376121
+20200629 12:45, gpu4003, 3, 00000000:1E:00.0,64,98,39, hothman, pmemd.cuda, 381592
+20200629 12:50, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 12:50, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 12:50, gpu4003, 2, 00000000:1D:00.0,53,98,40, smaphumulo, pmemd.cuda, 376121
+20200629 12:50, gpu4003, 3, 00000000:1E:00.0,63,98,39, hothman, pmemd.cuda, 383550
+20200629 12:55, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 12:55, gpu4003, 1, 00000000:1C:00.0,32,0,0, null, null, null
+20200629 12:55, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 376121
+20200629 12:55, gpu4003, 3, 00000000:1E:00.0,69,98,27, hothman, pmemd.cuda, 383686
+20200629 13:00, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 13:00, gpu4003, 1, 00000000:1C:00.0,32,0,0, null, null, null
+20200629 13:00, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 376121
+20200629 13:00, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 383686
+20200629 13:05, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 13:05, gpu4003, 1, 00000000:1C:00.0,32,0,0, null, null, null
+20200629 13:05, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 376121
+20200629 13:05, gpu4003, 3, 00000000:1E:00.0,70,96,26, hothman, pmemd.cuda, 383686
+20200629 13:10, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 13:10, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:10, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 376121
+20200629 13:10, gpu4003, 3, 00000000:1E:00.0,70,98,27, hothman, pmemd.cuda, 383686
+20200629 13:15, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 13:15, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:15, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 384168
+20200629 13:15, gpu4003, 3, 00000000:1E:00.0,69,98,27, hothman, pmemd.cuda, 383686
+20200629 13:20, gpu4003, 0, 00000000:1A:00.0,32,0,0, null, null, null
+20200629 13:20, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:20, gpu4003, 2, 00000000:1D:00.0,53,98,40, smaphumulo, pmemd.cuda, 384168
+20200629 13:20, gpu4003, 3, 00000000:1E:00.0,69,98,27, hothman, pmemd.cuda, 383686
+20200629 13:25, gpu4003, 0, 00000000:1A:00.0,32,0,0, null, null, null
+20200629 13:25, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:25, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 384168
+20200629 13:25, gpu4003, 3, 00000000:1E:00.0,69,98,27, hothman, pmemd.cuda, 383686
+20200629 13:30, gpu4003, 0, 00000000:1A:00.0,32,0,0, null, null, null
+20200629 13:30, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:30, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 384168
+20200629 13:30, gpu4003, 3, 00000000:1E:00.0,69,98,27, hothman, pmemd.cuda, 383686
+20200629 13:35, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 13:35, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:35, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 384168
+20200629 13:35, gpu4003, 3, 00000000:1E:00.0,70,91,25, hothman, pmemd.cuda, 383686
+20200629 13:40, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 13:40, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:40, gpu4003, 2, 00000000:1D:00.0,54,94,38, smaphumulo, pmemd.cuda, 384168
+20200629 13:40, gpu4003, 3, 00000000:1E:00.0,70,90,25, hothman, pmemd.cuda, 383686
+20200629 13:45, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 13:45, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:45, gpu4003, 2, 00000000:1D:00.0,54,98,40, smaphumulo, pmemd.cuda, 384879
+20200629 13:45, gpu4003, 3, 00000000:1E:00.0,69,98,27, hothman, pmemd.cuda, 383686
+20200629 13:50, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 13:50, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:50, gpu4003, 2, 00000000:1D:00.0,33,0,0, null, null, null
+20200629 13:50, gpu4003, 3, 00000000:1E:00.0,65,98,27, hothman, pmemd.cuda, 383686
+20200629 13:55, gpu4003, 0, 00000000:1A:00.0,32,0,0, null, null, null
+20200629 13:55, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 13:55, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 13:55, gpu4003, 3, 00000000:1E:00.0,65,98,27, hothman, pmemd.cuda, 383686
+20200629 14:00, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 14:00, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 14:00, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 14:00, gpu4003, 3, 00000000:1E:00.0,65,98,27, hothman, pmemd.cuda, 383686
+20200629 14:05, gpu4003, 0, 00000000:1A:00.0,32,0,0, null, null, null
+20200629 14:05, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 14:05, gpu4003, 2, 00000000:1D:00.0,31,0,0, null, null, null
+20200629 14:05, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686
+20200629 14:10, gpu4003, 0, 00000000:1A:00.0,33,0,0, null, null, null
+20200629 14:10, gpu4003, 1, 00000000:1C:00.0,31,0,0, null, null, null
+20200629 14:10, gpu4003, 2, 00000000:1D:00.0,32,0,0, null, null, null
+20200629 14:10, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686
+20200629 14:15, gpu4003, 0, 00000000:1A:00.0,49,72,6, sperera, gmx_mpi, 385632
+20200629 14:15, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 14:15, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 14:15, gpu4003, 3, 00000000:1E:00.0,64,95,26, hothman, pmemd.cuda, 383686 385632
+20200629 14:20, gpu4003, 0, 00000000:1A:00.0,51,72,6, sperera, gmx_mpi, 385632
+20200629 14:20, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 14:20, gpu4003, 2, 00000000:1D:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 14:20, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 14:25, gpu4003, 0, 00000000:1A:00.0,51,77,7, sperera, gmx_mpi, 385632
+20200629 14:25, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 14:25, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 14:25, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 14:30, gpu4003, 0, 00000000:1A:00.0,51,72,6, sperera, gmx_mpi, 385632
+20200629 14:30, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 14:30, gpu4003, 2, 00000000:1D:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 14:30, gpu4003, 3, 00000000:1E:00.0,63,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 14:35, gpu4003, 0, 00000000:1A:00.0,50,76,7, sperera, gmx_mpi, 385632
+20200629 14:35, gpu4003, 1, 00000000:1C:00.0,30,0,0, sperera, gmx_mpi, 385632
+20200629 14:35, gpu4003, 2, 00000000:1D:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 14:35, gpu4003, 3, 00000000:1E:00.0,62,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 14:40, gpu4003, 0, 00000000:1A:00.0,52,76,7, sperera, gmx_mpi, 385632
+20200629 14:40, gpu4003, 1, 00000000:1C:00.0,41,85,33, sperera, gmx_mpi, 385632 387583
+20200629 14:40, gpu4003, 2, 00000000:1D:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 14:40, gpu4003, 3, 00000000:1E:00.0,62,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 14:45, gpu4003, 0, 00000000:1A:00.0,54,71,7, sperera, gmx_mpi, 385632
+20200629 14:45, gpu4003, 1, 00000000:1C:00.0,45,85,38, sperera, gmx_mpi, 385632 391243
+20200629 14:45, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 14:45, gpu4003, 3, 00000000:1E:00.0,63,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 14:50, gpu4003, 0, 00000000:1A:00.0,52,76,8, sperera, gmx_mpi, 385632
+20200629 14:50, gpu4003, 1, 00000000:1C:00.0,40,88,35, sperera, gmx_mpi, 385632 394059
+20200629 14:50, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 14:50, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 14:55, gpu4003, 0, 00000000:1A:00.0,54,76,8, sperera, gmx_mpi, 385632
+20200629 14:55, gpu4003, 1, 00000000:1C:00.0,43,61,18, sperera, gmx_mpi, 385632 397530
+20200629 14:55, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 14:55, gpu4003, 3, 00000000:1E:00.0,63,96,26, hothman, pmemd.cuda, 383686 385632
+20200629 15:00, gpu4003, 0, 00000000:1A:00.0,53,79,8, sperera, gmx_mpi, 385632
+20200629 15:00, gpu4003, 1, 00000000:1C:00.0,40,81,32, sperera, gmx_mpi, 385632 400321
+20200629 15:00, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:00, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:05, gpu4003, 0, 00000000:1A:00.0,55,77,8, sperera, gmx_mpi, 385632
+20200629 15:05, gpu4003, 1, 00000000:1C:00.0,44,92,52, sperera, gmx_mpi, 385632 403839
+20200629 15:05, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:05, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:10, gpu4003, 0, 00000000:1A:00.0,53,76,8, sperera, gmx_mpi, 385632
+20200629 15:10, gpu4003, 1, 00000000:1C:00.0,39,62,19, sperera, gmx_mpi, 385632 406612
+20200629 15:10, gpu4003, 2, 00000000:1D:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 15:10, gpu4003, 3, 00000000:1E:00.0,63,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:15, gpu4003, 0, 00000000:1A:00.0,55,82,9, sperera, gmx_mpi, 385632
+20200629 15:15, gpu4003, 1, 00000000:1C:00.0,45,93,49, sperera, gmx_mpi, 385632 409541
+20200629 15:15, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:15, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:20, gpu4003, 0, 00000000:1A:00.0,55,71,7, sperera, gmx_mpi, 385632
+20200629 15:20, gpu4003, 1, 00000000:1C:00.0,44,92,51, sperera, gmx_mpi, 385632 412677
+20200629 15:20, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:20, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:25, gpu4003, 0, 00000000:1A:00.0,55,75,7, sperera, gmx_mpi, 385632
+20200629 15:25, gpu4003, 1, 00000000:1C:00.0,41,2,0, sperera, gmx_mpi, 385632 415823
+20200629 15:25, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:25, gpu4003, 3, 00000000:1E:00.0,64,95,26, hothman, pmemd.cuda, 383686 385632
+20200629 15:30, gpu4003, 0, 00000000:1A:00.0,51,75,8, sperera, gmx_mpi, 385632
+20200629 15:30, gpu4003, 1, 00000000:1C:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:30, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:30, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:35, gpu4003, 0, 00000000:1A:00.0,52,72,7, sperera, gmx_mpi, 385632
+20200629 15:35, gpu4003, 1, 00000000:1C:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:35, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:35, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:40, gpu4003, 0, 00000000:1A:00.0,52,72,7, sperera, gmx_mpi, 385632
+20200629 15:40, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 15:40, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:40, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:45, gpu4003, 0, 00000000:1A:00.0,51,73,7, sperera, gmx_mpi, 385632
+20200629 15:45, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 15:45, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:45, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:50, gpu4003, 0, 00000000:1A:00.0,51,77,8, sperera, gmx_mpi, 385632
+20200629 15:50, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 15:50, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:50, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 15:55, gpu4003, 0, 00000000:1A:00.0,52,73,7, sperera, gmx_mpi, 385632
+20200629 15:55, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 15:55, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 15:55, gpu4003, 3, 00000000:1E:00.0,64,98,27, hothman, pmemd.cuda, 383686 385632
+20200629 16:00, gpu4003, 0, 00000000:1A:00.0,51,72,7, sperera, gmx_mpi, 385632
+20200629 16:00, gpu4003, 1, 00000000:1C:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:00, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:00, gpu4003, 3, 00000000:1E:00.0,59,98,39, sperera, gmx_mpi, 385632 427512
+20200629 16:05, gpu4003, 0, 00000000:1A:00.0,52,77,8, sperera, gmx_mpi, 385632
+20200629 16:05, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 16:05, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:05, gpu4003, 3, 00000000:1E:00.0,59,98,39, sperera, gmx_mpi, 385632 427749
+20200629 16:10, gpu4003, 0, 00000000:1A:00.0,52,77,7, sperera, gmx_mpi, 385632
+20200629 16:10, gpu4003, 1, 00000000:1C:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:10, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:10, gpu4003, 3, 00000000:1E:00.0,63,98,27, sperera, gmx_mpi, 385632 427917
+20200629 16:15, gpu4003, 0, 00000000:1A:00.0,52,73,7, sperera, gmx_mpi, 385632
+20200629 16:15, gpu4003, 1, 00000000:1C:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:15, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:15, gpu4003, 3, 00000000:1E:00.0,65,98,27, sperera, gmx_mpi, 385632 427917
+20200629 16:20, gpu4003, 0, 00000000:1A:00.0,52,77,8, sperera, gmx_mpi, 385632
+20200629 16:20, gpu4003, 1, 00000000:1C:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:20, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:20, gpu4003, 3, 00000000:1E:00.0,62,98,27, sperera, gmx_mpi, 385632 427917
+20200629 16:25, gpu4003, 0, 00000000:1A:00.0,52,72,7, sperera, gmx_mpi, 385632
+20200629 16:25, gpu4003, 1, 00000000:1C:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:25, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:25, gpu4003, 3, 00000000:1E:00.0,65,95,26, sperera, gmx_mpi, 385632 427917
+20200629 16:30, gpu4003, 0, 00000000:1A:00.0,51,73,7, sperera, gmx_mpi, 385632
+20200629 16:30, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 16:30, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:30, gpu4003, 3, 00000000:1E:00.0,65,98,27, sperera, gmx_mpi, 385632 427917
+20200629 16:35, gpu4003, 0, 00000000:1A:00.0,52,73,7, sperera, gmx_mpi, 385632
+20200629 16:35, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 16:35, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:35, gpu4003, 3, 00000000:1E:00.0,65,98,27, sperera, gmx_mpi, 385632 427917
+20200629 16:40, gpu4003, 0, 00000000:1A:00.0,51,77,8, sperera, gmx_mpi, 385632
+20200629 16:40, gpu4003, 1, 00000000:1C:00.0,31,0,0, sperera, gmx_mpi, 385632
+20200629 16:40, gpu4003, 2, 00000000:1D:00.0,32,0,0, sperera, gmx_mpi, 385632
+20200629 16:40, gpu4003, 3, 00000000:1E:00.0,64,98,27, sperera, gmx_mpi, 385632 427917
+20200629 16:45, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 16:45, gpu4003, 1, 00000000:1C:00.0,40,0,0, sperera, gmx_mpi, 385632 428901
+20200629 16:45, gpu4003, 2, 00000000:1D:00.0,36,94,15, sperera, gmx_mpi, 385632 428996
+20200629 16:45, gpu4003, 3, 00000000:1E:00.0,65,98,27, sperera, gmx_mpi, 385632 427917
+20200629 16:50, gpu4003, 0, 00000000:1A:00.0,55,80,8, sperera, gmx_mpi, 385632
+20200629 16:50, gpu4003, 1, 00000000:1C:00.0,48,72,25, sperera, gmx_mpi, 385632 428901
+20200629 16:50, gpu4003, 2, 00000000:1D:00.0,44,89,14, sperera, gmx_mpi, 385632 428996
+20200629 16:50, gpu4003, 3, 00000000:1E:00.0,67,96,26, sperera, gmx_mpi, 385632 427917
+20200629 16:55, gpu4003, 0, 00000000:1A:00.0,56,80,8, sperera, gmx_mpi, 385632
+20200629 16:55, gpu4003, 1, 00000000:1C:00.0,47,4,2, sperera, gmx_mpi, 385632 428901
+20200629 16:55, gpu4003, 2, 00000000:1D:00.0,44,94,15, sperera, gmx_mpi, 385632 428996
+20200629 16:55, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:00, gpu4003, 0, 00000000:1A:00.0,56,75,8, sperera, gmx_mpi, 385632
+20200629 17:00, gpu4003, 1, 00000000:1C:00.0,49,98,34, sperera, gmx_mpi, 385632 428901
+20200629 17:00, gpu4003, 2, 00000000:1D:00.0,44,38,6, sperera, gmx_mpi, 385632 428996
+20200629 17:00, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:05, gpu4003, 0, 00000000:1A:00.0,55,75,7, sperera, gmx_mpi, 385632
+20200629 17:05, gpu4003, 1, 00000000:1C:00.0,48,98,34, sperera, gmx_mpi, 385632 428901
+20200629 17:05, gpu4003, 2, 00000000:1D:00.0,45,87,14, sperera, gmx_mpi, 385632 428996
+20200629 17:05, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:10, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 17:10, gpu4003, 1, 00000000:1C:00.0,47,65,23, sperera, gmx_mpi, 385632 428901
+20200629 17:10, gpu4003, 2, 00000000:1D:00.0,45,59,9, sperera, gmx_mpi, 385632 428996
+20200629 17:10, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:15, gpu4003, 0, 00000000:1A:00.0,56,75,8, sperera, gmx_mpi, 385632
+20200629 17:15, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 17:15, gpu4003, 2, 00000000:1D:00.0,45,85,13, sperera, gmx_mpi, 385632 428996
+20200629 17:15, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:20, gpu4003, 0, 00000000:1A:00.0,55,75,8, sperera, gmx_mpi, 385632
+20200629 17:20, gpu4003, 1, 00000000:1C:00.0,45,0,0, sperera, gmx_mpi, 385632 428901
+20200629 17:20, gpu4003, 2, 00000000:1D:00.0,44,94,15, sperera, gmx_mpi, 385632 428996
+20200629 17:20, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:25, gpu4003, 0, 00000000:1A:00.0,56,71,6, sperera, gmx_mpi, 385632
+20200629 17:25, gpu4003, 1, 00000000:1C:00.0,48,98,35, sperera, gmx_mpi, 385632 428901
+20200629 17:25, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 17:25, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:30, gpu4003, 0, 00000000:1A:00.0,55,71,6, sperera, gmx_mpi, 385632
+20200629 17:30, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 17:30, gpu4003, 2, 00000000:1D:00.0,45,10,1, sperera, gmx_mpi, 385632 428996
+20200629 17:30, gpu4003, 3, 00000000:1E:00.0,68,95,26, sperera, gmx_mpi, 385632 427917
+20200629 17:35, gpu4003, 0, 00000000:1A:00.0,56,75,8, sperera, gmx_mpi, 385632
+20200629 17:35, gpu4003, 1, 00000000:1C:00.0,47,19,7, sperera, gmx_mpi, 385632 428901
+20200629 17:35, gpu4003, 2, 00000000:1D:00.0,45,74,12, sperera, gmx_mpi, 385632 428996
+20200629 17:35, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:40, gpu4003, 0, 00000000:1A:00.0,56,75,8, sperera, gmx_mpi, 385632
+20200629 17:40, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 17:40, gpu4003, 2, 00000000:1D:00.0,45,24,4, sperera, gmx_mpi, 385632 428996
+20200629 17:40, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:45, gpu4003, 0, 00000000:1A:00.0,56,76,8, sperera, gmx_mpi, 385632
+20200629 17:45, gpu4003, 1, 00000000:1C:00.0,45,0,0, sperera, gmx_mpi, 385632 428901
+20200629 17:45, gpu4003, 2, 00000000:1D:00.0,39,0,0, sperera, gmx_mpi, 385632 428996
+20200629 17:45, gpu4003, 3, 00000000:1E:00.0,67,95,26, sperera, gmx_mpi, 385632 427917
+20200629 17:50, gpu4003, 0, 00000000:1A:00.0,56,75,8, sperera, gmx_mpi, 385632
+20200629 17:50, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 17:50, gpu4003, 2, 00000000:1D:00.0,45,32,5, sperera, gmx_mpi, 385632 428996
+20200629 17:50, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 17:55, gpu4003, 0, 00000000:1A:00.0,56,75,8, sperera, gmx_mpi, 385632
+20200629 17:55, gpu4003, 1, 00000000:1C:00.0,47,0,0, sperera, gmx_mpi, 385632 428901
+20200629 17:55, gpu4003, 2, 00000000:1D:00.0,45,45,7, sperera, gmx_mpi, 385632 428996
+20200629 17:55, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:00, gpu4003, 0, 00000000:1A:00.0,55,75,7, sperera, gmx_mpi, 385632
+20200629 18:00, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 18:00, gpu4003, 2, 00000000:1D:00.0,43,89,14, sperera, gmx_mpi, 385632 428996
+20200629 18:00, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:05, gpu4003, 0, 00000000:1A:00.0,56,73,8, sperera, gmx_mpi, 385632
+20200629 18:05, gpu4003, 1, 00000000:1C:00.0,47,83,30, sperera, gmx_mpi, 385632 428901
+20200629 18:05, gpu4003, 2, 00000000:1D:00.0,45,37,6, sperera, gmx_mpi, 385632 428996
+20200629 18:05, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:10, gpu4003, 0, 00000000:1A:00.0,55,71,6, sperera, gmx_mpi, 385632
+20200629 18:10, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 18:10, gpu4003, 2, 00000000:1D:00.0,44,94,15, sperera, gmx_mpi, 385632 428996
+20200629 18:10, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:15, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 18:15, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 18:15, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 18:15, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:20, gpu4003, 0, 00000000:1A:00.0,55,74,8, sperera, gmx_mpi, 385632
+20200629 18:20, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 18:20, gpu4003, 2, 00000000:1D:00.0,44,54,9, sperera, gmx_mpi, 385632 428996
+20200629 18:20, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:25, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 18:25, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 18:25, gpu4003, 2, 00000000:1D:00.0,44,18,3, sperera, gmx_mpi, 385632 428996
+20200629 18:25, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:30, gpu4003, 0, 00000000:1A:00.0,56,58,6, sperera, gmx_mpi, 385632
+20200629 18:30, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 18:30, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 18:30, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:35, gpu4003, 0, 00000000:1A:00.0,56,75,7, sperera, gmx_mpi, 385632
+20200629 18:35, gpu4003, 1, 00000000:1C:00.0,48,98,35, sperera, gmx_mpi, 385632 428901
+20200629 18:35, gpu4003, 2, 00000000:1D:00.0,44,10,2, sperera, gmx_mpi, 385632 428996
+20200629 18:35, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:40, gpu4003, 0, 00000000:1A:00.0,56,75,8, sperera, gmx_mpi, 385632
+20200629 18:40, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 18:40, gpu4003, 2, 00000000:1D:00.0,46,94,15, sperera, gmx_mpi, 385632 428996
+20200629 18:40, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:45, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 18:45, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 18:45, gpu4003, 2, 00000000:1D:00.0,45,88,14, sperera, gmx_mpi, 385632 428996
+20200629 18:45, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:50, gpu4003, 0, 00000000:1A:00.0,56,75,8, sperera, gmx_mpi, 385632
+20200629 18:50, gpu4003, 1, 00000000:1C:00.0,47,98,35, sperera, gmx_mpi, 385632 428901
+20200629 18:50, gpu4003, 2, 00000000:1D:00.0,45,51,8, sperera, gmx_mpi, 385632 428996
+20200629 18:50, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 18:55, gpu4003, 0, 00000000:1A:00.0,55,75,7, sperera, gmx_mpi, 385632
+20200629 18:55, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 18:55, gpu4003, 2, 00000000:1D:00.0,43,45,7, sperera, gmx_mpi, 385632 428996
+20200629 18:55, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 19:00, gpu4003, 0, 00000000:1A:00.0,56,75,8, sperera, gmx_mpi, 385632
+20200629 19:00, gpu4003, 1, 00000000:1C:00.0,48,84,30, sperera, gmx_mpi, 385632 428901
+20200629 19:00, gpu4003, 2, 00000000:1D:00.0,45,38,6, sperera, gmx_mpi, 385632 428996
+20200629 19:00, gpu4003, 3, 00000000:1E:00.0,68,98,27, sperera, gmx_mpi, 385632 427917
+20200629 19:05, gpu4003, 0, 00000000:1A:00.0,55,71,6, sperera, gmx_mpi, 385632
+20200629 19:05, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 19:05, gpu4003, 2, 00000000:1D:00.0,44,52,8, sperera, gmx_mpi, 385632 428996
+20200629 19:05, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 19:10, gpu4003, 0, 00000000:1A:00.0,56,74,7, sperera, gmx_mpi, 385632
+20200629 19:10, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 19:10, gpu4003, 2, 00000000:1D:00.0,43,44,7, sperera, gmx_mpi, 385632 428996
+20200629 19:10, gpu4003, 3, 00000000:1E:00.0,67,98,27, sperera, gmx_mpi, 385632 427917
+20200629 19:15, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 19:15, gpu4003, 1, 00000000:1C:00.0,47,62,22, sperera, gmx_mpi, 385632 428901
+20200629 19:15, gpu4003, 2, 00000000:1D:00.0,44,33,5, sperera, gmx_mpi, 385632 428996
+20200629 19:15, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 19:20, gpu4003, 0, 00000000:1A:00.0,54,76,7, sperera, gmx_mpi, 385632
+20200629 19:20, gpu4003, 1, 00000000:1C:00.0,38,0,0, sperera, gmx_mpi, 385632 428901
+20200629 19:20, gpu4003, 2, 00000000:1D:00.0,37,0,0, sperera, gmx_mpi, 385632 428996
+20200629 19:20, gpu4003, 3, 00000000:1E:00.0,36,0,0, sperera, gmx_mpi, 385632
+20200629 19:25, gpu4003, 0, 00000000:1A:00.0,55,80,8, sperera, gmx_mpi, 385632
+20200629 19:25, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 19:25, gpu4003, 2, 00000000:1D:00.0,45,17,3, sperera, gmx_mpi, 385632 428996
+20200629 19:25, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 19:30, gpu4003, 0, 00000000:1A:00.0,56,71,6, sperera, gmx_mpi, 385632
+20200629 19:30, gpu4003, 1, 00000000:1C:00.0,48,98,35, sperera, gmx_mpi, 385632 428901
+20200629 19:30, gpu4003, 2, 00000000:1D:00.0,44,54,8, sperera, gmx_mpi, 385632 428996
+20200629 19:30, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 19:35, gpu4003, 0, 00000000:1A:00.0,55,77,7, sperera, gmx_mpi, 385632
+20200629 19:35, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 19:35, gpu4003, 2, 00000000:1D:00.0,44,25,4, sperera, gmx_mpi, 385632 428996
+20200629 19:35, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 19:40, gpu4003, 0, 00000000:1A:00.0,55,71,6, sperera, gmx_mpi, 385632
+20200629 19:40, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 19:40, gpu4003, 2, 00000000:1D:00.0,43,35,6, sperera, gmx_mpi, 385632 428996
+20200629 19:40, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 19:45, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 19:45, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 19:45, gpu4003, 2, 00000000:1D:00.0,44,36,6, sperera, gmx_mpi, 385632 428996
+20200629 19:45, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 19:50, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 19:50, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 19:50, gpu4003, 2, 00000000:1D:00.0,45,70,11, sperera, gmx_mpi, 385632 428996
+20200629 19:50, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 19:55, gpu4003, 0, 00000000:1A:00.0,54,75,7, sperera, gmx_mpi, 385632
+20200629 19:55, gpu4003, 1, 00000000:1C:00.0,47,16,6, sperera, gmx_mpi, 385632 428901
+20200629 19:55, gpu4003, 2, 00000000:1D:00.0,44,94,15, sperera, gmx_mpi, 385632 428996
+20200629 19:55, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:00, gpu4003, 0, 00000000:1A:00.0,55,75,7, sperera, gmx_mpi, 385632
+20200629 20:00, gpu4003, 1, 00000000:1C:00.0,47,54,20, sperera, gmx_mpi, 385632 428901
+20200629 20:00, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 20:00, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:05, gpu4003, 0, 00000000:1A:00.0,56,76,7, sperera, gmx_mpi, 385632
+20200629 20:05, gpu4003, 1, 00000000:1C:00.0,45,0,0, sperera, gmx_mpi, 385632 428901
+20200629 20:05, gpu4003, 2, 00000000:1D:00.0,44,94,15, sperera, gmx_mpi, 385632 428996
+20200629 20:05, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:10, gpu4003, 0, 00000000:1A:00.0,55,81,8, sperera, gmx_mpi, 385632
+20200629 20:10, gpu4003, 1, 00000000:1C:00.0,48,59,21, sperera, gmx_mpi, 385632 428901
+20200629 20:10, gpu4003, 2, 00000000:1D:00.0,44,89,14, sperera, gmx_mpi, 385632 428996
+20200629 20:10, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:15, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 20:15, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 20:15, gpu4003, 2, 00000000:1D:00.0,45,59,9, sperera, gmx_mpi, 385632 428996
+20200629 20:15, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:20, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 20:20, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 20:20, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 20:20, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:25, gpu4003, 0, 00000000:1A:00.0,55,71,6, sperera, gmx_mpi, 385632
+20200629 20:25, gpu4003, 1, 00000000:1C:00.0,45,0,0, sperera, gmx_mpi, 385632 428901
+20200629 20:25, gpu4003, 2, 00000000:1D:00.0,43,94,15, sperera, gmx_mpi, 385632 428996
+20200629 20:25, gpu4003, 3, 00000000:1E:00.0,36,0,0, sperera, gmx_mpi, 385632
+20200629 20:30, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 20:30, gpu4003, 1, 00000000:1C:00.0,48,0,0, sperera, gmx_mpi, 385632 428901
+20200629 20:30, gpu4003, 2, 00000000:1D:00.0,44,61,10, sperera, gmx_mpi, 385632 428996
+20200629 20:30, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:35, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 20:35, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 20:35, gpu4003, 2, 00000000:1D:00.0,43,29,5, sperera, gmx_mpi, 385632 428996
+20200629 20:35, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:40, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 20:40, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 20:40, gpu4003, 2, 00000000:1D:00.0,45,93,15, sperera, gmx_mpi, 385632 428996
+20200629 20:40, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:45, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 20:45, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 20:45, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 20:45, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:50, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 20:50, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 20:50, gpu4003, 2, 00000000:1D:00.0,45,86,14, sperera, gmx_mpi, 385632 428996
+20200629 20:50, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 20:55, gpu4003, 0, 00000000:1A:00.0,56,72,6, sperera, gmx_mpi, 385632
+20200629 20:55, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 20:55, gpu4003, 2, 00000000:1D:00.0,45,57,9, sperera, gmx_mpi, 385632 428996
+20200629 20:55, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:00, gpu4003, 0, 00000000:1A:00.0,56,77,7, sperera, gmx_mpi, 385632
+20200629 21:00, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 21:00, gpu4003, 2, 00000000:1D:00.0,44,53,8, sperera, gmx_mpi, 385632 428996
+20200629 21:00, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:05, gpu4003, 0, 00000000:1A:00.0,55,70,6, sperera, gmx_mpi, 385632
+20200629 21:05, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 21:05, gpu4003, 2, 00000000:1D:00.0,44,34,5, sperera, gmx_mpi, 385632 428996
+20200629 21:05, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:10, gpu4003, 0, 00000000:1A:00.0,55,70,6, sperera, gmx_mpi, 385632
+20200629 21:10, gpu4003, 1, 00000000:1C:00.0,47,0,0, sperera, gmx_mpi, 385632 428901
+20200629 21:10, gpu4003, 2, 00000000:1D:00.0,44,40,6, sperera, gmx_mpi, 385632 428996
+20200629 21:10, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:15, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 21:15, gpu4003, 1, 00000000:1C:00.0,45,0,0, sperera, gmx_mpi, 385632 428901
+20200629 21:15, gpu4003, 2, 00000000:1D:00.0,44,55,9, sperera, gmx_mpi, 385632 428996
+20200629 21:15, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:20, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 21:20, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 21:20, gpu4003, 2, 00000000:1D:00.0,44,94,15, sperera, gmx_mpi, 385632 428996
+20200629 21:20, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:25, gpu4003, 0, 00000000:1A:00.0,56,72,6, sperera, gmx_mpi, 385632
+20200629 21:25, gpu4003, 1, 00000000:1C:00.0,45,0,0, sperera, gmx_mpi, 385632 428901
+20200629 21:25, gpu4003, 2, 00000000:1D:00.0,44,55,9, sperera, gmx_mpi, 385632 428996
+20200629 21:25, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:30, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 21:30, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 21:30, gpu4003, 2, 00000000:1D:00.0,45,90,14, sperera, gmx_mpi, 385632 428996
+20200629 21:30, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:35, gpu4003, 0, 00000000:1A:00.0,55,71,6, sperera, gmx_mpi, 385632
+20200629 21:35, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 21:35, gpu4003, 2, 00000000:1D:00.0,45,90,14, sperera, gmx_mpi, 385632 428996
+20200629 21:35, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:40, gpu4003, 0, 00000000:1A:00.0,56,77,7, sperera, gmx_mpi, 385632
+20200629 21:40, gpu4003, 1, 00000000:1C:00.0,47,17,6, sperera, gmx_mpi, 385632 428901
+20200629 21:40, gpu4003, 2, 00000000:1D:00.0,45,86,14, sperera, gmx_mpi, 385632 428996
+20200629 21:40, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:45, gpu4003, 0, 00000000:1A:00.0,56,72,6, sperera, gmx_mpi, 385632
+20200629 21:45, gpu4003, 1, 00000000:1C:00.0,48,78,28, sperera, gmx_mpi, 385632 428901
+20200629 21:45, gpu4003, 2, 00000000:1D:00.0,45,86,14, sperera, gmx_mpi, 385632 428996
+20200629 21:45, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:50, gpu4003, 0, 00000000:1A:00.0,55,75,7, sperera, gmx_mpi, 385632
+20200629 21:50, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 21:50, gpu4003, 2, 00000000:1D:00.0,45,66,10, sperera, gmx_mpi, 385632 428996
+20200629 21:50, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 21:55, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 21:55, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 21:55, gpu4003, 2, 00000000:1D:00.0,45,80,13, sperera, gmx_mpi, 385632 428996
+20200629 21:55, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:00, gpu4003, 0, 00000000:1A:00.0,55,71,6, sperera, gmx_mpi, 385632
+20200629 22:00, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 22:00, gpu4003, 2, 00000000:1D:00.0,44,14,2, sperera, gmx_mpi, 385632 428996
+20200629 22:00, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:05, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 22:05, gpu4003, 1, 00000000:1C:00.0,48,84,30, sperera, gmx_mpi, 385632 428901
+20200629 22:05, gpu4003, 2, 00000000:1D:00.0,45,63,10, sperera, gmx_mpi, 385632 428996
+20200629 22:05, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:10, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 22:10, gpu4003, 1, 00000000:1C:00.0,45,0,0, sperera, gmx_mpi, 385632 428901
+20200629 22:10, gpu4003, 2, 00000000:1D:00.0,45,38,6, sperera, gmx_mpi, 385632 428996
+20200629 22:10, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:15, gpu4003, 0, 00000000:1A:00.0,55,71,6, sperera, gmx_mpi, 385632
+20200629 22:15, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 22:15, gpu4003, 2, 00000000:1D:00.0,45,61,10, sperera, gmx_mpi, 385632 428996
+20200629 22:15, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:20, gpu4003, 0, 00000000:1A:00.0,54,76,7, sperera, gmx_mpi, 385632
+20200629 22:20, gpu4003, 1, 00000000:1C:00.0,46,98,35, sperera, gmx_mpi, 385632 428901
+20200629 22:20, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 22:20, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:25, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 22:25, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 22:25, gpu4003, 2, 00000000:1D:00.0,44,25,4, sperera, gmx_mpi, 385632 428996
+20200629 22:25, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:30, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 22:30, gpu4003, 1, 00000000:1C:00.0,48,83,29, sperera, gmx_mpi, 385632 428901
+20200629 22:30, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 22:30, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:35, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 22:35, gpu4003, 1, 00000000:1C:00.0,48,97,34, sperera, gmx_mpi, 385632 428901
+20200629 22:35, gpu4003, 2, 00000000:1D:00.0,44,94,15, sperera, gmx_mpi, 385632 428996
+20200629 22:35, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:40, gpu4003, 0, 00000000:1A:00.0,56,76,7, sperera, gmx_mpi, 385632
+20200629 22:40, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 22:40, gpu4003, 2, 00000000:1D:00.0,44,42,7, sperera, gmx_mpi, 385632 428996
+20200629 22:40, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:45, gpu4003, 0, 00000000:1A:00.0,55,69,6, sperera, gmx_mpi, 385632
+20200629 22:45, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 22:45, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 22:45, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:50, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 22:50, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 22:50, gpu4003, 2, 00000000:1D:00.0,44,75,12, sperera, gmx_mpi, 385632 428996
+20200629 22:50, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 22:55, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 22:55, gpu4003, 1, 00000000:1C:00.0,47,34,12, sperera, gmx_mpi, 385632 428901
+20200629 22:55, gpu4003, 2, 00000000:1D:00.0,44,58,9, sperera, gmx_mpi, 385632 428996
+20200629 22:55, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 23:00, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 23:00, gpu4003, 1, 00000000:1C:00.0,49,98,35, sperera, gmx_mpi, 385632 428901
+20200629 23:00, gpu4003, 2, 00000000:1D:00.0,45,54,9, sperera, gmx_mpi, 385632 428996
+20200629 23:00, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 23:05, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 23:05, gpu4003, 1, 00000000:1C:00.0,49,79,29, sperera, gmx_mpi, 385632 428901
+20200629 23:05, gpu4003, 2, 00000000:1D:00.0,44,47,8, sperera, gmx_mpi, 385632 428996
+20200629 23:05, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 23:10, gpu4003, 0, 00000000:1A:00.0,56,72,6, sperera, gmx_mpi, 385632
+20200629 23:10, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 23:10, gpu4003, 2, 00000000:1D:00.0,44,18,3, sperera, gmx_mpi, 385632 428996
+20200629 23:10, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 23:15, gpu4003, 0, 00000000:1A:00.0,55,77,7, sperera, gmx_mpi, 385632
+20200629 23:15, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 23:15, gpu4003, 2, 00000000:1D:00.0,45,87,14, sperera, gmx_mpi, 385632 428996
+20200629 23:15, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 23:20, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 23:20, gpu4003, 1, 00000000:1C:00.0,46,55,20, sperera, gmx_mpi, 385632 428901
+20200629 23:20, gpu4003, 2, 00000000:1D:00.0,44,94,15, sperera, gmx_mpi, 385632 428996
+20200629 23:20, gpu4003, 3, 00000000:1E:00.0,36,0,0, sperera, gmx_mpi, 385632
+20200629 23:25, gpu4003, 0, 00000000:1A:00.0,55,72,6, sperera, gmx_mpi, 385632
+20200629 23:25, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 23:25, gpu4003, 2, 00000000:1D:00.0,45,57,9, sperera, gmx_mpi, 385632 428996
+20200629 23:25, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 23:30, gpu4003, 0, 00000000:1A:00.0,54,77,7, sperera, gmx_mpi, 385632
+20200629 23:30, gpu4003, 1, 00000000:1C:00.0,47,91,33, sperera, gmx_mpi, 385632 428901
+20200629 23:30, gpu4003, 2, 00000000:1D:00.0,44,27,4, sperera, gmx_mpi, 385632 428996
+20200629 23:30, gpu4003, 3, 00000000:1E:00.0,36,0,0, sperera, gmx_mpi, 385632
+20200629 23:35, gpu4003, 0, 00000000:1A:00.0,55,72,7, sperera, gmx_mpi, 385632
+20200629 23:35, gpu4003, 1, 00000000:1C:00.0,47,10,4, sperera, gmx_mpi, 385632 428901
+20200629 23:35, gpu4003, 2, 00000000:1D:00.0,43,94,15, sperera, gmx_mpi, 385632 428996
+20200629 23:35, gpu4003, 3, 00000000:1E:00.0,36,0,0, sperera, gmx_mpi, 385632
+20200629 23:40, gpu4003, 0, 00000000:1A:00.0,55,77,7, sperera, gmx_mpi, 385632
+20200629 23:40, gpu4003, 1, 00000000:1C:00.0,46,0,0, sperera, gmx_mpi, 385632 428901
+20200629 23:40, gpu4003, 2, 00000000:1D:00.0,45,94,15, sperera, gmx_mpi, 385632 428996
+20200629 23:40, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 23:45, gpu4003, 0, 00000000:1A:00.0,55,56,5, sperera, gmx_mpi, 385632
+20200629 23:45, gpu4003, 1, 00000000:1C:00.0,50,98,35, sperera, gmx_mpi, 385632 428901
+20200629 23:45, gpu4003, 2, 00000000:1D:00.0,44,44,7, sperera, gmx_mpi, 385632 428996
+20200629 23:45, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 23:50, gpu4003, 0, 00000000:1A:00.0,55,76,7, sperera, gmx_mpi, 385632
+20200629 23:50, gpu4003, 1, 00000000:1C:00.0,48,98,35, sperera, gmx_mpi, 385632 428901
+20200629 23:50, gpu4003, 2, 00000000:1D:00.0,44,91,14, sperera, gmx_mpi, 385632 428996
+20200629 23:50, gpu4003, 3, 00000000:1E:00.0,37,0,0, sperera, gmx_mpi, 385632
+20200629 23:55, gpu4003, 0, 00000000:1A:00.0,54,72,6, sperera, gmx_mpi, 385632
+20200629 23:55, gpu4003, 1, 00000000:1C:00.0,41,0,0, sperera, gmx_mpi, 385632 428901
+20200629 23:55, gpu4003, 2, 00000000:1D:00.0,43,25,4, sperera, gmx_mpi, 385632 428996
+20200629 23:55, gpu4003, 3, 00000000:1E:00.0,36,0,0, sperera, gmx_mpi, 385632

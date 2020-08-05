@@ -1,0 +1,864 @@
+20200615 00:00, gpu2005, 0, 00000000:3B:00.0,43,73,24, dshadrack, gmx_mpi, 311186 364626
+20200615 00:00, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:00, gpu2005, 2, 00000000:D8:00.0,40,36,5, dshadrack, gmx_mpi, 311186
+20200615 00:05, gpu2005, 0, 00000000:3B:00.0,44,74,24, dshadrack, gmx_mpi, 311186 367535
+20200615 00:05, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:05, gpu2005, 2, 00000000:D8:00.0,41,45,7, dshadrack, gmx_mpi, 311186
+20200615 00:10, gpu2005, 0, 00000000:3B:00.0,43,81,31, dshadrack, gmx_mpi, 311186 370359
+20200615 00:10, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:10, gpu2005, 2, 00000000:D8:00.0,40,43,7, dshadrack, gmx_mpi, 311186
+20200615 00:15, gpu2005, 0, 00000000:3B:00.0,44,95,52, dshadrack, gmx_mpi, 311186 374059
+20200615 00:15, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:15, gpu2005, 2, 00000000:D8:00.0,41,39,6, dshadrack, gmx_mpi, 311186
+20200615 00:20, gpu2005, 0, 00000000:3B:00.0,45,96,53, dshadrack, gmx_mpi, 311186 376835
+20200615 00:20, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:20, gpu2005, 2, 00000000:D8:00.0,41,44,7, dshadrack, gmx_mpi, 311186
+20200615 00:25, gpu2005, 0, 00000000:3B:00.0,43,95,46, dshadrack, gmx_mpi, 311186 379655
+20200615 00:25, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:25, gpu2005, 2, 00000000:D8:00.0,39,40,6, dshadrack, gmx_mpi, 311186
+20200615 00:30, gpu2005, 0, 00000000:3B:00.0,43,75,24, dshadrack, gmx_mpi, 311186 383359
+20200615 00:30, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:30, gpu2005, 2, 00000000:D8:00.0,40,42,7, dshadrack, gmx_mpi, 311186
+20200615 00:35, gpu2005, 0, 00000000:3B:00.0,44,96,55, dshadrack, gmx_mpi, 311186 386241
+20200615 00:35, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:35, gpu2005, 2, 00000000:D8:00.0,40,43,7, dshadrack, gmx_mpi, 311186
+20200615 00:40, gpu2005, 0, 00000000:3B:00.0,44,90,38, dshadrack, gmx_mpi, 311186 389080
+20200615 00:40, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:40, gpu2005, 2, 00000000:D8:00.0,41,44,7, dshadrack, gmx_mpi, 311186
+20200615 00:45, gpu2005, 0, 00000000:3B:00.0,41,10,1, dshadrack, gmx_mpi, 311186
+20200615 00:45, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:45, gpu2005, 2, 00000000:D8:00.0,40,40,6, dshadrack, gmx_mpi, 311186
+20200615 00:50, gpu2005, 0, 00000000:3B:00.0,42,96,54, dshadrack, gmx_mpi, 311186 395570
+20200615 00:50, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:50, gpu2005, 2, 00000000:D8:00.0,40,45,7, dshadrack, gmx_mpi, 311186
+20200615 00:55, gpu2005, 0, 00000000:3B:00.0,43,76,25, dshadrack, gmx_mpi, 311186 398373
+20200615 00:55, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 00:55, gpu2005, 2, 00000000:D8:00.0,40,42,7, dshadrack, gmx_mpi, 311186
+20200615 01:00, gpu2005, 0, 00000000:3B:00.0,42,73,24, dshadrack, gmx_mpi, 311186 401170
+20200615 01:00, gpu2005, 1, 00000000:AF:00.0,29,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:00, gpu2005, 2, 00000000:D8:00.0,39,42,7, dshadrack, gmx_mpi, 311186
+20200615 01:05, gpu2005, 0, 00000000:3B:00.0,42,75,25, dshadrack, gmx_mpi, 311186 404980
+20200615 01:05, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:05, gpu2005, 2, 00000000:D8:00.0,39,35,5, dshadrack, gmx_mpi, 311186
+20200615 01:10, gpu2005, 0, 00000000:3B:00.0,42,70,22, dshadrack, gmx_mpi, 311186 407813
+20200615 01:10, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:10, gpu2005, 2, 00000000:D8:00.0,39,43,7, dshadrack, gmx_mpi, 311186
+20200615 01:15, gpu2005, 0, 00000000:3B:00.0,43,94,41, dshadrack, gmx_mpi, 311186 410625
+20200615 01:15, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:15, gpu2005, 2, 00000000:D8:00.0,39,39,6, dshadrack, gmx_mpi, 311186
+20200615 01:20, gpu2005, 0, 00000000:3B:00.0,44,98,54, dshadrack, gmx_mpi, 311186 413424
+20200615 01:20, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:20, gpu2005, 2, 00000000:D8:00.0,40,42,7, dshadrack, gmx_mpi, 311186
+20200615 01:25, gpu2005, 0, 00000000:3B:00.0,42,96,51, dshadrack, gmx_mpi, 311186 417159
+20200615 01:25, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:25, gpu2005, 2, 00000000:D8:00.0,39,41,7, dshadrack, gmx_mpi, 311186
+20200615 01:30, gpu2005, 0, 00000000:3B:00.0,42,95,50, dshadrack, gmx_mpi, 311186 419955
+20200615 01:30, gpu2005, 1, 00000000:AF:00.0,30,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:30, gpu2005, 2, 00000000:D8:00.0,39,37,6, dshadrack, gmx_mpi, 311186
+20200615 01:35, gpu2005, 0, 00000000:3B:00.0,45,96,51, dshadrack, gmx_mpi, 311186 422914
+20200615 01:35, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:35, gpu2005, 2, 00000000:D8:00.0,41,37,6, dshadrack, gmx_mpi, 311186
+20200615 01:40, gpu2005, 0, 00000000:3B:00.0,43,77,27, dshadrack, gmx_mpi, 311186 426694
+20200615 01:40, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:40, gpu2005, 2, 00000000:D8:00.0,40,36,6, dshadrack, gmx_mpi, 311186
+20200615 01:45, gpu2005, 0, 00000000:3B:00.0,44,94,45, dshadrack, gmx_mpi, 311186 429507
+20200615 01:45, gpu2005, 1, 00000000:AF:00.0,31,0,0, dshadrack, gmx_mpi, 311186
+20200615 01:45, gpu2005, 2, 00000000:D8:00.0,41,37,6, dshadrack, gmx_mpi, 311186
+20200615 01:50, gpu2005, 0, 00000000:3B:00.0,42,95,50, evanderwesthuizen, nnet3-chain-train, 432418
+20200615 01:50, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 01:50, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 01:55, gpu2005, 0, 00000000:3B:00.0,45,94,50, evanderwesthuizen, nnet3-chain-train, 436154
+20200615 01:55, gpu2005, 1, 00000000:AF:00.0,32,0,0, null, null, null
+20200615 01:55, gpu2005, 2, 00000000:D8:00.0,32,0,0, null, null, null
+20200615 02:00, gpu2005, 0, 00000000:3B:00.0,44,81,28, evanderwesthuizen, nnet3-chain-train, 438935
+20200615 02:00, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 02:00, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 02:05, gpu2005, 0, 00000000:3B:00.0,42,77,26, evanderwesthuizen, nnet3-chain-train, 442055
+20200615 02:05, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 02:05, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 02:10, gpu2005, 0, 00000000:3B:00.0,42,72,40, evanderwesthuizen, nnet3-chain-train, 444881
+20200615 02:10, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 02:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 02:15, gpu2005, 0, 00000000:3B:00.0,44,91,35, evanderwesthuizen, nnet3-chain-train, 448604
+20200615 02:15, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 02:15, gpu2005, 2, 00000000:D8:00.0,32,0,0, null, null, null
+20200615 02:20, gpu2005, 0, 00000000:3B:00.0,45,79,26, evanderwesthuizen, nnet3-chain-train, 451396
+20200615 02:20, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 02:20, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 02:25, gpu2005, 0, 00000000:3B:00.0,43,77,27, evanderwesthuizen, nnet3-chain-train, 454200
+20200615 02:25, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 02:25, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 02:30, gpu2005, 0, 00000000:3B:00.0,43,74,25, evanderwesthuizen, nnet3-chain-train, 457876
+20200615 02:30, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 02:30, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 02:35, gpu2005, 0, 00000000:3B:00.0,44,82,31, evanderwesthuizen, nnet3-chain-train, 2355
+20200615 02:35, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 02:35, gpu2005, 2, 00000000:D8:00.0,32,0,0, null, null, null
+20200615 02:40, gpu2005, 0, 00000000:3B:00.0,45,76,26, evanderwesthuizen, nnet3-chain-train, 5184
+20200615 02:40, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 02:40, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 02:45, gpu2005, 0, 00000000:3B:00.0,43,93,47, evanderwesthuizen, nnet3-chain-train, 8892
+20200615 02:45, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 02:45, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 02:50, gpu2005, 0, 00000000:3B:00.0,43,96,55, evanderwesthuizen, nnet3-chain-train, 11695
+20200615 02:50, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 02:50, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 02:55, gpu2005, 0, 00000000:3B:00.0,43,85,35, evanderwesthuizen, nnet3-chain-train, 14631
+20200615 02:55, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 02:55, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 03:00, gpu2005, 0, 00000000:3B:00.0,42,76,26, evanderwesthuizen, nnet3-chain-train, 18526
+20200615 03:00, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 03:00, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 03:05, gpu2005, 0, 00000000:3B:00.0,43,78,27, evanderwesthuizen, nnet3-chain-train, 21403
+20200615 03:05, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 03:05, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 03:10, gpu2005, 0, 00000000:3B:00.0,44,86,36, evanderwesthuizen, nnet3-chain-train, 24234
+20200615 03:10, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 03:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 03:15, gpu2005, 0, 00000000:3B:00.0,45,90,34, evanderwesthuizen, nnet3-chain-train, 27955
+20200615 03:15, gpu2005, 1, 00000000:AF:00.0,32,0,0, null, null, null
+20200615 03:15, gpu2005, 2, 00000000:D8:00.0,32,0,0, null, null, null
+20200615 03:20, gpu2005, 0, 00000000:3B:00.0,43,84,36, evanderwesthuizen, nnet3-chain-train, 30737
+20200615 03:20, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 03:20, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 03:25, gpu2005, 0, 00000000:3B:00.0,44,96,53, evanderwesthuizen, nnet3-chain-train, 33569
+20200615 03:25, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 03:25, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 03:30, gpu2005, 0, 00000000:3B:00.0,44,95,50, evanderwesthuizen, nnet3-chain-train, 37240
+20200615 03:30, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 03:30, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 03:35, gpu2005, 0, 00000000:3B:00.0,44,78,27, evanderwesthuizen, nnet3-chain-train, 40086
+20200615 03:35, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 03:35, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 03:40, gpu2005, 0, 00000000:3B:00.0,44,81,28, evanderwesthuizen, nnet3-chain-train, 42985
+20200615 03:40, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 03:40, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 03:45, gpu2005, 0, 00000000:3B:00.0,42,74,25, evanderwesthuizen, nnet3-chain-train, 46693
+20200615 03:45, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 03:45, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 03:50, gpu2005, 0, 00000000:3B:00.0,41,86,36, evanderwesthuizen, nnet3-chain-train, 49521
+20200615 03:50, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 03:50, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 03:55, gpu2005, 0, 00000000:3B:00.0,43,81,30, evanderwesthuizen, nnet3-chain-train, 52340
+20200615 03:55, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 03:55, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 04:00, gpu2005, 0, 00000000:3B:00.0,43,90,36, evanderwesthuizen, nnet3-chain-train, 55107
+20200615 04:00, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 04:00, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 04:05, gpu2005, 0, 00000000:3B:00.0,42,97,53, evanderwesthuizen, nnet3-chain-train, 58877
+20200615 04:05, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 04:05, gpu2005, 2, 00000000:D8:00.0,29,0,0, null, null, null
+20200615 04:10, gpu2005, 0, 00000000:3B:00.0,43,84,36, evanderwesthuizen, nnet3-chain-train, 61717
+20200615 04:10, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 04:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 04:15, gpu2005, 0, 00000000:3B:00.0,42,78,29, evanderwesthuizen, nnet3-chain-train, 64506
+20200615 04:15, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 04:15, gpu2005, 2, 00000000:D8:00.0,29,0,0, null, null, null
+20200615 04:20, gpu2005, 0, 00000000:3B:00.0,41,82,34, evanderwesthuizen, nnet3-chain-train, 68214
+20200615 04:20, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 04:20, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 04:25, gpu2005, 0, 00000000:3B:00.0,43,73,24, evanderwesthuizen, nnet3-chain-train, 71066
+20200615 04:25, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 04:25, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 04:30, gpu2005, 0, 00000000:3B:00.0,42,72,24, evanderwesthuizen, nnet3-chain-train, 73839
+20200615 04:30, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 04:30, gpu2005, 2, 00000000:D8:00.0,29,0,0, null, null, null
+20200615 04:35, gpu2005, 0, 00000000:3B:00.0,42,95,55, evanderwesthuizen, nnet3-chain-train, 77570
+20200615 04:35, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 04:35, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 04:40, gpu2005, 0, 00000000:3B:00.0,44,96,52, evanderwesthuizen, nnet3-chain-train, 80396
+20200615 04:40, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 04:40, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 04:45, gpu2005, 0, 00000000:3B:00.0,44,78,27, evanderwesthuizen, nnet3-chain-train, 83214
+20200615 04:45, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 04:45, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 04:50, gpu2005, 0, 00000000:3B:00.0,41,4,0, null, null, null
+20200615 04:50, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 04:50, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 04:55, gpu2005, 0, 00000000:3B:00.0,43,91,43, evanderwesthuizen, nnet3-chain-train, 89745
+20200615 04:55, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 04:55, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 05:00, gpu2005, 0, 00000000:3B:00.0,44,76,25, evanderwesthuizen, nnet3-chain-train, 92538
+20200615 05:00, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 05:00, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 05:05, gpu2005, 0, 00000000:3B:00.0,42,94,46, evanderwesthuizen, nnet3-chain-train, 96292
+20200615 05:05, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 05:05, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 05:10, gpu2005, 0, 00000000:3B:00.0,43,68,21, evanderwesthuizen, nnet3-chain-train, 99136
+20200615 05:10, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 05:10, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 05:15, gpu2005, 0, 00000000:3B:00.0,44,87,31, evanderwesthuizen, nnet3-chain-train, 101940
+20200615 05:15, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 05:15, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 05:20, gpu2005, 0, 00000000:3B:00.0,43,95,46, evanderwesthuizen, nnet3-chain-train, 104736
+20200615 05:20, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 05:20, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 05:25, gpu2005, 0, 00000000:3B:00.0,42,95,55, evanderwesthuizen, nnet3-chain-train, 108481
+20200615 05:25, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 05:25, gpu2005, 2, 00000000:D8:00.0,29,0,0, null, null, null
+20200615 05:30, gpu2005, 0, 00000000:3B:00.0,44,97,53, evanderwesthuizen, nnet3-chain-train, 111267
+20200615 05:30, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 05:30, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 05:35, gpu2005, 0, 00000000:3B:00.0,41,4,0, evanderwesthuizen, nnet3-chain-train, 115020
+20200615 05:35, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 05:35, gpu2005, 2, 00000000:D8:00.0,32,0,0, null, null, null
+20200615 05:40, gpu2005, 0, 00000000:3B:00.0,42,69,23, evanderwesthuizen, nnet3-chain-train, 117829
+20200615 05:40, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 05:40, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 05:45, gpu2005, 0, 00000000:3B:00.0,43,95,51, evanderwesthuizen, nnet3-chain-train, 120640
+20200615 05:45, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 05:45, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 05:50, gpu2005, 0, 00000000:3B:00.0,43,91,37, evanderwesthuizen, nnet3-chain-train, 123425
+20200615 05:50, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 05:50, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 05:55, gpu2005, 0, 00000000:3B:00.0,43,96,54, evanderwesthuizen, nnet3-chain-train, 127169
+20200615 05:55, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 05:55, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 06:00, gpu2005, 0, 00000000:3B:00.0,44,72,24, evanderwesthuizen, nnet3-chain-train, 129972
+20200615 06:00, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 06:00, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 06:05, gpu2005, 0, 00000000:3B:00.0,45,95,54, evanderwesthuizen, nnet3-chain-train, 132840
+20200615 06:05, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 06:05, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 06:10, gpu2005, 0, 00000000:3B:00.0,43,97,54, evanderwesthuizen, nnet3-chain-train, 136540
+20200615 06:10, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 06:10, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 06:15, gpu2005, 0, 00000000:3B:00.0,43,95,51, evanderwesthuizen, nnet3-chain-train, 139337
+20200615 06:15, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 06:15, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 06:20, gpu2005, 0, 00000000:3B:00.0,43,94,42, evanderwesthuizen, nnet3-chain-train, 142142
+20200615 06:20, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 06:20, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 06:25, gpu2005, 0, 00000000:3B:00.0,41,96,54, evanderwesthuizen, nnet3-chain-train, 145896
+20200615 06:25, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 06:25, gpu2005, 2, 00000000:D8:00.0,29,0,0, null, null, null
+20200615 06:30, gpu2005, 0, 00000000:3B:00.0,44,89,35, evanderwesthuizen, nnet3-chain-train, 148685
+20200615 06:30, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 06:30, gpu2005, 2, 00000000:D8:00.0,32,0,0, null, null, null
+20200615 06:35, gpu2005, 0, 00000000:3B:00.0,44,90,34, evanderwesthuizen, nnet3-chain-train, 151549
+20200615 06:35, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 06:35, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 06:40, gpu2005, 0, 00000000:3B:00.0,40,82,34, evanderwesthuizen, nnet3-chain-train, 155250
+20200615 06:40, gpu2005, 1, 00000000:AF:00.0,29,0,0, null, null, null
+20200615 06:40, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 06:45, gpu2005, 0, 00000000:3B:00.0,43,92,42, evanderwesthuizen, nnet3-chain-train, 158030
+20200615 06:45, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 06:45, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 06:50, gpu2005, 0, 00000000:3B:00.0,45,96,52, evanderwesthuizen, nnet3-chain-train, 160824
+20200615 06:50, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 06:50, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 06:55, gpu2005, 0, 00000000:3B:00.0,45,78,27, evanderwesthuizen, nnet3-chain-train, 163645
+20200615 06:55, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 06:55, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 07:00, gpu2005, 0, 00000000:3B:00.0,43,80,29, evanderwesthuizen, nnet3-chain-train, 167378
+20200615 07:00, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 07:00, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 07:05, gpu2005, 0, 00000000:3B:00.0,44,77,27, evanderwesthuizen, nnet3-chain-train, 170257
+20200615 07:05, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 07:05, gpu2005, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200615 07:10, gpu2005, 0, 00000000:3B:00.0,42,89,40, evanderwesthuizen, nnet3-chain-train, 176335
+20200615 07:10, gpu2005, 1, 00000000:AF:00.0,39,0,0, abiswas, nnet3-chain-train, 173575
+20200615 07:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, abiswas, nnet3-chain-train, 173575
+20200615 07:15, gpu2005, 0, 00000000:3B:00.0,42,94,48, evanderwesthuizen, nnet3-chain-train, 182107
+20200615 07:15, gpu2005, 1, 00000000:AF:00.0,43,99,49, abiswas, nnet3-chain-train, 181048 181053
+20200615 07:15, gpu2005, 2, 00000000:D8:00.0,30,0,0, abiswas, nnet3-chain-train, 181048 181053
+20200615 07:20, gpu2005, 0, 00000000:3B:00.0,42,94,52, evanderwesthuizen, nnet3-chain-train, 188012
+20200615 07:20, gpu2005, 1, 00000000:AF:00.0,41,77,29, abiswas, nnet3-chain-train, 189180 189191
+20200615 07:20, gpu2005, 2, 00000000:D8:00.0,39,82,32, abiswas, nnet3-chain-train, 189180 189191
+20200615 07:25, gpu2005, 0, 00000000:3B:00.0,44,85,37, evanderwesthuizen, nnet3-chain-train, 193740
+20200615 07:25, gpu2005, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200615 07:25, gpu2005, 2, 00000000:D8:00.0,32,0,0, null, null, null
+20200615 07:30, gpu2005, 0, 00000000:3B:00.0,44,94,50, evanderwesthuizen, nnet3-chain-train, 197074
+20200615 07:30, gpu2005, 1, 00000000:AF:00.0,40,85,38, evanderwesthuizen, nnet3-chain-train, 196728 196729
+20200615 07:30, gpu2005, 2, 00000000:D8:00.0,41,84,38, evanderwesthuizen, nnet3-chain-train, 196728 196729
+20200615 07:35, gpu2005, 0, 00000000:3B:00.0,43,84,32, evanderwesthuizen, nnet3-chain-train, 203302
+20200615 07:35, gpu2005, 1, 00000000:AF:00.0,44,97,36, evanderwesthuizen, nnet3-chain-train, 202427 202432
+20200615 07:35, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 202427 202432
+20200615 07:40, gpu2005, 0, 00000000:3B:00.0,43,96,51, evanderwesthuizen, nnet3-chain-train, 208945
+20200615 07:40, gpu2005, 1, 00000000:AF:00.0,43,98,49, evanderwesthuizen, nnet3-chain-train, 208420 208421
+20200615 07:40, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 208420 208421
+20200615 07:45, gpu2005, 0, 00000000:3B:00.0,41,94,53, evanderwesthuizen, nnet3-chain-train, 214583
+20200615 07:45, gpu2005, 1, 00000000:AF:00.0,40,79,31, evanderwesthuizen, nnet3-chain-train, 214421 214422
+20200615 07:45, gpu2005, 2, 00000000:D8:00.0,40,93,51, evanderwesthuizen, nnet3-chain-train, 214421 214422
+20200615 07:50, gpu2005, 0, 00000000:3B:00.0,43,75,28, evanderwesthuizen, nnet3-chain-train, 221265
+20200615 07:50, gpu2005, 1, 00000000:AF:00.0,43,67,22, evanderwesthuizen, nnet3-chain-train, 222385 222389
+20200615 07:50, gpu2005, 2, 00000000:D8:00.0,39,94,51, evanderwesthuizen, nnet3-chain-train, 222385 222389
+20200615 07:55, gpu2005, 0, 00000000:3B:00.0,43,74,24, evanderwesthuizen, nnet3-chain-train, 228124
+20200615 07:55, gpu2005, 1, 00000000:AF:00.0,44,94,34, evanderwesthuizen, nnet3-chain-train, 227342 227345
+20200615 07:55, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 227342 227345
+20200615 08:00, gpu2005, 0, 00000000:3B:00.0,42,72,24, evanderwesthuizen, nnet3-chain-train, 234308
+20200615 08:00, gpu2005, 1, 00000000:AF:00.0,36,12,0, evanderwesthuizen, nnet3-chain-train, 236160 236164
+20200615 08:00, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 236160 236164
+20200615 08:05, gpu2005, 0, 00000000:3B:00.0,39,9,0, evanderwesthuizen, nnet3-chain-train, 242350
+20200615 08:05, gpu2005, 1, 00000000:AF:00.0,42,98,51, evanderwesthuizen, nnet3-chain-train, 241643 241646
+20200615 08:05, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 241643 241646
+20200615 08:10, gpu2005, 0, 00000000:3B:00.0,41,95,50, evanderwesthuizen, nnet3-chain-train, 248523
+20200615 08:10, gpu2005, 1, 00000000:AF:00.0,43,99,65, evanderwesthuizen, nnet3-chain-train, 247141 247143
+20200615 08:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 247141 247143
+20200615 08:15, gpu2005, 0, 00000000:3B:00.0,40,81,34, evanderwesthuizen, nnet3-chain-train, 253850
+20200615 08:15, gpu2005, 1, 00000000:AF:00.0,41,97,44, evanderwesthuizen, nnet3-chain-train, 253538 253539
+20200615 08:15, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 253538 253539
+20200615 08:20, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 08:20, gpu2005, 1, 00000000:AF:00.0,41,94,48, evanderwesthuizen, nnet3-chain-train, 258641 258642
+20200615 08:20, gpu2005, 2, 00000000:D8:00.0,42,95,49, evanderwesthuizen, nnet3-chain-train, 258641 258642
+20200615 08:25, gpu2005, 0, 00000000:3B:00.0,32,0,0, null, null, null
+20200615 08:25, gpu2005, 1, 00000000:AF:00.0,45,100,55, evanderwesthuizen, nnet3-chain-train, 263628 263636
+20200615 08:25, gpu2005, 2, 00000000:D8:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 263628 263636
+20200615 08:30, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 08:30, gpu2005, 1, 00000000:AF:00.0,45,98,40, evanderwesthuizen, nnet3-chain-train, 265339 265341
+20200615 08:30, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 265339 265341
+20200615 08:35, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 08:35, gpu2005, 1, 00000000:AF:00.0,44,95,35, evanderwesthuizen, nnet3-chain-train, 268786 268788
+20200615 08:35, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 268786 268788
+20200615 08:40, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 08:40, gpu2005, 1, 00000000:AF:00.0,44,100,60, evanderwesthuizen, nnet3-chain-train, 272190 272192
+20200615 08:40, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 272190 272192
+20200615 08:45, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 08:45, gpu2005, 1, 00000000:AF:00.0,44,98,38, evanderwesthuizen, nnet3-chain-train, 275565 275567
+20200615 08:45, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 275565 275567
+20200615 08:50, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 08:50, gpu2005, 1, 00000000:AF:00.0,45,99,39, evanderwesthuizen, nnet3-chain-train, 278952 278953
+20200615 08:50, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 278952 278953
+20200615 08:55, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 08:55, gpu2005, 1, 00000000:AF:00.0,43,98,42, evanderwesthuizen, nnet3-chain-train, 282342 282344
+20200615 08:55, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 282342 282344
+20200615 09:00, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 09:00, gpu2005, 1, 00000000:AF:00.0,44,99,39, evanderwesthuizen, nnet3-chain-train, 285705 285706
+20200615 09:00, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 285705 285706
+20200615 09:05, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 09:05, gpu2005, 1, 00000000:AF:00.0,44,98,37, evanderwesthuizen, nnet3-chain-train, 289237 289240
+20200615 09:05, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 289237 289240
+20200615 09:10, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 09:10, gpu2005, 1, 00000000:AF:00.0,44,99,40, evanderwesthuizen, nnet3-chain-train, 292644 292646
+20200615 09:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 292644 292646
+20200615 09:15, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 09:15, gpu2005, 1, 00000000:AF:00.0,43,100,53, evanderwesthuizen, nnet3-chain-train, 296009 296012
+20200615 09:15, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 296009 296012
+20200615 09:20, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 09:20, gpu2005, 1, 00000000:AF:00.0,44,98,42, evanderwesthuizen, nnet3-chain-train, 299398 299402
+20200615 09:20, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 299398 299402
+20200615 09:25, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 09:25, gpu2005, 1, 00000000:AF:00.0,44,100,63, evanderwesthuizen, nnet3-chain-train, 302759 302760
+20200615 09:25, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 302759 302760
+20200615 09:30, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 09:30, gpu2005, 1, 00000000:AF:00.0,44,99,39, evanderwesthuizen, nnet3-chain-train, 306154 306157
+20200615 09:30, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 306154 306157
+20200615 09:35, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 09:35, gpu2005, 1, 00000000:AF:00.0,43,99,55, evanderwesthuizen, nnet3-chain-train, 309593 309596
+20200615 09:35, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 309593 309596
+20200615 09:40, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 09:40, gpu2005, 1, 00000000:AF:00.0,44,99,40, evanderwesthuizen, nnet3-chain-train, 312942 312944
+20200615 09:40, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 312942 312944
+20200615 09:45, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 09:45, gpu2005, 1, 00000000:AF:00.0,43,97,40, evanderwesthuizen, nnet3-chain-train, 316332 316333
+20200615 09:45, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 316332 316333
+20200615 09:50, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 09:50, gpu2005, 1, 00000000:AF:00.0,44,98,42, evanderwesthuizen, nnet3-chain-train, 319689 319690
+20200615 09:50, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 319689 319690
+20200615 09:55, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 09:55, gpu2005, 1, 00000000:AF:00.0,43,99,46, evanderwesthuizen, nnet3-chain-train, 323133 323135
+20200615 09:55, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 323133 323135
+20200615 10:00, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 10:00, gpu2005, 1, 00000000:AF:00.0,42,97,40, evanderwesthuizen, nnet3-chain-train, 328086 328088
+20200615 10:00, gpu2005, 2, 00000000:D8:00.0,35,0,0, evanderwesthuizen, nnet3-chain-train, 328086 328088
+20200615 10:05, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 10:05, gpu2005, 1, 00000000:AF:00.0,43,98,45, evanderwesthuizen, nnet3-chain-train, 331541 331543
+20200615 10:05, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 331541 331543
+20200615 10:10, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 10:10, gpu2005, 1, 00000000:AF:00.0,42,96,33, evanderwesthuizen, nnet3-chain-train, 334913 334915
+20200615 10:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 334913 334915
+20200615 10:15, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 10:15, gpu2005, 1, 00000000:AF:00.0,39,14,0, evanderwesthuizen, nnet3-chain-train, 338300 338303
+20200615 10:15, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 338300 338303
+20200615 10:20, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 10:20, gpu2005, 1, 00000000:AF:00.0,42,15,5, evanderwesthuizen, nnet3-chain-train, 340055
+20200615 10:20, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 340055
+20200615 10:25, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 10:25, gpu2005, 1, 00000000:AF:00.0,44,100,53, evanderwesthuizen, nnet3-chain-train, 343440 343442
+20200615 10:25, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 343440 343442
+20200615 10:30, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 10:30, gpu2005, 1, 00000000:AF:00.0,44,98,34, evanderwesthuizen, nnet3-chain-train, 346830 346831
+20200615 10:30, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 346830 346831
+20200615 10:35, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 10:35, gpu2005, 1, 00000000:AF:00.0,44,99,40, evanderwesthuizen, nnet3-chain-train, 350280 350283
+20200615 10:35, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 350280 350283
+20200615 10:40, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 10:40, gpu2005, 1, 00000000:AF:00.0,44,100,52, evanderwesthuizen, nnet3-chain-train, 353637 353638
+20200615 10:40, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 353637 353638
+20200615 10:45, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 10:45, gpu2005, 1, 00000000:AF:00.0,44,98,43, evanderwesthuizen, nnet3-chain-train, 357089 357090
+20200615 10:45, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 357089 357090
+20200615 10:50, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 10:50, gpu2005, 1, 00000000:AF:00.0,44,98,38, evanderwesthuizen, nnet3-chain-train, 360491 360492
+20200615 10:50, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 360491 360492
+20200615 10:55, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 10:55, gpu2005, 1, 00000000:AF:00.0,44,98,48, evanderwesthuizen, nnet3-chain-train, 363863 363864
+20200615 10:55, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 363863 363864
+20200615 11:00, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 11:00, gpu2005, 1, 00000000:AF:00.0,44,99,49, evanderwesthuizen, nnet3-chain-train, 367252 367255
+20200615 11:00, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 367252 367255
+20200615 11:05, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 11:05, gpu2005, 1, 00000000:AF:00.0,44,99,52, evanderwesthuizen, nnet3-chain-train, 370701 370703
+20200615 11:05, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 370701 370703
+20200615 11:10, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 11:10, gpu2005, 1, 00000000:AF:00.0,44,97,38, evanderwesthuizen, nnet3-chain-train, 374095 374098
+20200615 11:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 374095 374098
+20200615 11:15, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 11:15, gpu2005, 1, 00000000:AF:00.0,44,99,55, evanderwesthuizen, nnet3-chain-train, 377466 377470
+20200615 11:15, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 377466 377470
+20200615 11:20, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 11:20, gpu2005, 1, 00000000:AF:00.0,44,99,44, evanderwesthuizen, nnet3-chain-train, 380864 380865
+20200615 11:20, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 380864 380865
+20200615 11:25, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 11:25, gpu2005, 1, 00000000:AF:00.0,44,99,48, evanderwesthuizen, nnet3-chain-train, 384254 384255
+20200615 11:25, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 384254 384255
+20200615 11:30, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 11:30, gpu2005, 1, 00000000:AF:00.0,44,98,41, evanderwesthuizen, nnet3-chain-train, 387611 387613
+20200615 11:30, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 387611 387613
+20200615 11:35, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 11:35, gpu2005, 1, 00000000:AF:00.0,43,98,52, evanderwesthuizen, nnet3-chain-train, 391120 391121
+20200615 11:35, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 391120 391121
+20200615 11:40, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 11:40, gpu2005, 1, 00000000:AF:00.0,43,98,37, evanderwesthuizen, nnet3-chain-train, 394517 394518
+20200615 11:40, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 394517 394518
+20200615 11:45, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 11:45, gpu2005, 1, 00000000:AF:00.0,43,96,35, evanderwesthuizen, nnet3-chain-train, 397881 397883
+20200615 11:45, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 397881 397883
+20200615 11:50, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 11:50, gpu2005, 1, 00000000:AF:00.0,43,100,53, evanderwesthuizen, nnet3-chain-train, 401260 401262
+20200615 11:50, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 401260 401262
+20200615 11:55, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 11:55, gpu2005, 1, 00000000:AF:00.0,43,95,30, evanderwesthuizen, nnet3-chain-train, 404633 404635
+20200615 11:55, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 404633 404635
+20200615 12:00, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 12:00, gpu2005, 1, 00000000:AF:00.0,43,99,60, evanderwesthuizen, nnet3-chain-train, 408020 408022
+20200615 12:00, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 408020 408022
+20200615 12:05, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 12:05, gpu2005, 1, 00000000:AF:00.0,42,95,31, evanderwesthuizen, nnet3-chain-train, 411486 411488
+20200615 12:05, gpu2005, 2, 00000000:D8:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 411486 411488
+20200615 12:10, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 12:10, gpu2005, 1, 00000000:AF:00.0,41,0,0, null, null, null
+20200615 12:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 12:15, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 12:15, gpu2005, 1, 00000000:AF:00.0,37,0,0, evanderwesthuizen, nnet3-chain-train, 418591 418592
+20200615 12:15, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 418591 418592
+20200615 12:20, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 12:20, gpu2005, 1, 00000000:AF:00.0,35,0,0, evanderwesthuizen, nnet3-chain-train, 418591 418592
+20200615 12:20, gpu2005, 2, 00000000:D8:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 418591 418592
+20200615 12:25, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 12:25, gpu2005, 1, 00000000:AF:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 420669 420684
+20200615 12:25, gpu2005, 2, 00000000:D8:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 420669 420684
+20200615 12:30, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 12:30, gpu2005, 1, 00000000:AF:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 420669 420684
+20200615 12:30, gpu2005, 2, 00000000:D8:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 420669 420684
+20200615 12:35, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 12:35, gpu2005, 1, 00000000:AF:00.0,31,0,0, evanderwesthuizen, nnet3-chain-train, 420669
+20200615 12:35, gpu2005, 2, 00000000:D8:00.0,36,95,46, evanderwesthuizen, nnet3-chain-train, 420669
+20200615 12:40, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 12:40, gpu2005, 1, 00000000:AF:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 423212 423243
+20200615 12:40, gpu2005, 2, 00000000:D8:00.0,35,97,53, evanderwesthuizen, nnet3-chain-train, 423212 423243
+20200615 12:45, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 12:45, gpu2005, 1, 00000000:AF:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 423212 423243
+20200615 12:45, gpu2005, 2, 00000000:D8:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 423212 423243
+20200615 12:50, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 12:50, gpu2005, 1, 00000000:AF:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 423212 423243
+20200615 12:50, gpu2005, 2, 00000000:D8:00.0,34,25,7, evanderwesthuizen, nnet3-chain-train, 423212 423243
+20200615 12:55, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 12:55, gpu2005, 1, 00000000:AF:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 425890 425918
+20200615 12:55, gpu2005, 2, 00000000:D8:00.0,32,0,0, evanderwesthuizen, nnet3-chain-train, 425890 425918
+20200615 13:00, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 13:00, gpu2005, 1, 00000000:AF:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 425890 425918
+20200615 13:00, gpu2005, 2, 00000000:D8:00.0,35,19,3, evanderwesthuizen, nnet3-chain-train, 425890 425918
+20200615 13:05, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 13:05, gpu2005, 1, 00000000:AF:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 425890 425918
+20200615 13:05, gpu2005, 2, 00000000:D8:00.0,37,99,48, evanderwesthuizen, nnet3-chain-train, 425890 425918
+20200615 13:10, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 13:10, gpu2005, 1, 00000000:AF:00.0,30,0,0, evanderwesthuizen, nnet3-chain-train, 425890 425918
+20200615 13:10, gpu2005, 2, 00000000:D8:00.0,34,0,0, evanderwesthuizen, nnet3-chain-train, 425890 425918
+20200615 13:15, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 13:15, gpu2005, 1, 00000000:AF:00.0,31,1,0, evanderwesthuizen, nnet3-chain-train, 429015 429019
+20200615 13:15, gpu2005, 2, 00000000:D8:00.0,32,6,0, evanderwesthuizen, nnet3-chain-train, 429015 429019
+20200615 13:20, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 13:20, gpu2005, 1, 00000000:AF:00.0,33,0,0, null, null, null
+20200615 13:20, gpu2005, 2, 00000000:D8:00.0,35,10,1, null, null, null
+20200615 13:25, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 13:25, gpu2005, 1, 00000000:AF:00.0,35,60,18, evanderwesthuizen, nnet3-chain-train, 432756 432759
+20200615 13:25, gpu2005, 2, 00000000:D8:00.0,37,95,52, evanderwesthuizen, nnet3-chain-train, 432756 432759
+20200615 13:30, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 13:30, gpu2005, 1, 00000000:AF:00.0,36,0,0, evanderwesthuizen, nnet3-chain-train, 434562 434563
+20200615 13:30, gpu2005, 2, 00000000:D8:00.0,37,80,29, evanderwesthuizen, nnet3-chain-train, 434562 434563
+20200615 13:35, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 13:35, gpu2005, 1, 00000000:AF:00.0,35,0,0, evanderwesthuizen, nnet3-chain-train, 438072 438073
+20200615 13:35, gpu2005, 2, 00000000:D8:00.0,37,94,44, evanderwesthuizen, nnet3-chain-train, 438072 438073
+20200615 13:40, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 13:40, gpu2005, 1, 00000000:AF:00.0,34,0,0, evanderwesthuizen, nnet3-chain-train, 441488 441489
+20200615 13:40, gpu2005, 2, 00000000:D8:00.0,33,0,0, evanderwesthuizen, nnet3-chain-train, 441488 441489
+20200615 13:45, gpu2005, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200615 13:45, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 13:45, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 13:50, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 13:50, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 13:50, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 13:55, gpu2005, 0, 00000000:3B:00.0,30,0,0, null, null, null
+20200615 13:55, gpu2005, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200615 13:55, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 14:00, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 14:00, gpu2005, 1, 00000000:AF:00.0,41,53,7, sndlovu, pmemd.cuda, 442857
+20200615 14:00, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 14:05, gpu2005, 0, 00000000:3B:00.0,42,42,6, sndlovu, pmemd.cuda, 442742
+20200615 14:05, gpu2005, 1, 00000000:AF:00.0,40,88,12, sndlovu, pmemd.cuda, 442857
+20200615 14:05, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 14:10, gpu2005, 0, 00000000:3B:00.0,43,23,3, sndlovu, pmemd.cuda, 442742
+20200615 14:10, gpu2005, 1, 00000000:AF:00.0,41,61,8, sndlovu, pmemd.cuda, 442857
+20200615 14:10, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 14:15, gpu2005, 0, 00000000:3B:00.0,42,72,10, sndlovu, pmemd.cuda, 442742
+20200615 14:15, gpu2005, 1, 00000000:AF:00.0,41,31,4, sndlovu, pmemd.cuda, 442857
+20200615 14:15, gpu2005, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200615 14:20, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 14:20, gpu2005, 1, 00000000:AF:00.0,40,78,10, sndlovu, pmemd.cuda, 442857
+20200615 14:20, gpu2005, 2, 00000000:D8:00.0,32,0,0, coosthuizen, python3, 444768 444796
+20200615 14:25, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 14:25, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 14:25, gpu2005, 2, 00000000:D8:00.0,43,86,26, coosthuizen, python3, 445483 445511
+20200615 14:30, gpu2005, 0, 00000000:3B:00.0,41,95,13, sndlovu, pmemd.cuda, 442742
+20200615 14:30, gpu2005, 1, 00000000:AF:00.0,40,60,8, sndlovu, pmemd.cuda, 442857
+20200615 14:30, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 14:35, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 14:35, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 14:35, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 14:40, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 14:40, gpu2005, 1, 00000000:AF:00.0,40,46,6, sndlovu, pmemd.cuda, 442857
+20200615 14:40, gpu2005, 2, 00000000:D8:00.0,46,86,25, coosthuizen, python3, 445483 445511
+20200615 14:45, gpu2005, 0, 00000000:3B:00.0,42,83,11, sndlovu, pmemd.cuda, 442742
+20200615 14:45, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 14:45, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 14:50, gpu2005, 0, 00000000:3B:00.0,43,68,9, sndlovu, pmemd.cuda, 442742
+20200615 14:50, gpu2005, 1, 00000000:AF:00.0,40,68,9, sndlovu, pmemd.cuda, 442857
+20200615 14:50, gpu2005, 2, 00000000:D8:00.0,46,86,26, coosthuizen, python3, 445483 445511
+20200615 14:55, gpu2005, 0, 00000000:3B:00.0,41,95,13, sndlovu, pmemd.cuda, 442742
+20200615 14:55, gpu2005, 1, 00000000:AF:00.0,40,52,7, sndlovu, pmemd.cuda, 442857
+20200615 14:55, gpu2005, 2, 00000000:D8:00.0,46,86,25, coosthuizen, python3, 445483 445511
+20200615 15:00, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 15:00, gpu2005, 1, 00000000:AF:00.0,40,56,7, sndlovu, pmemd.cuda, 442857
+20200615 15:00, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 15:05, gpu2005, 0, 00000000:3B:00.0,43,61,8, sndlovu, pmemd.cuda, 442742
+20200615 15:05, gpu2005, 1, 00000000:AF:00.0,40,77,10, sndlovu, pmemd.cuda, 442857
+20200615 15:05, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 15:10, gpu2005, 0, 00000000:3B:00.0,41,42,6, sndlovu, pmemd.cuda, 442742
+20200615 15:10, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 15:10, gpu2005, 2, 00000000:D8:00.0,46,86,25, coosthuizen, python3, 445483 445511
+20200615 15:15, gpu2005, 0, 00000000:3B:00.0,42,81,11, sndlovu, pmemd.cuda, 442742
+20200615 15:15, gpu2005, 1, 00000000:AF:00.0,41,95,12, sndlovu, pmemd.cuda, 442857
+20200615 15:15, gpu2005, 2, 00000000:D8:00.0,46,86,25, coosthuizen, python3, 445483 445511
+20200615 15:20, gpu2005, 0, 00000000:3B:00.0,41,52,7, sndlovu, pmemd.cuda, 442742
+20200615 15:20, gpu2005, 1, 00000000:AF:00.0,41,17,2, sndlovu, pmemd.cuda, 442857
+20200615 15:20, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 15:25, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 15:25, gpu2005, 1, 00000000:AF:00.0,41,31,4, sndlovu, pmemd.cuda, 442857
+20200615 15:25, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 15:30, gpu2005, 0, 00000000:3B:00.0,43,89,12, sndlovu, pmemd.cuda, 442742
+20200615 15:30, gpu2005, 1, 00000000:AF:00.0,41,46,6, sndlovu, pmemd.cuda, 442857
+20200615 15:30, gpu2005, 2, 00000000:D8:00.0,46,86,25, coosthuizen, python3, 445483 445511
+20200615 15:35, gpu2005, 0, 00000000:3B:00.0,42,95,13, sndlovu, pmemd.cuda, 442742
+20200615 15:35, gpu2005, 1, 00000000:AF:00.0,40,69,9, sndlovu, pmemd.cuda, 442857
+20200615 15:35, gpu2005, 2, 00000000:D8:00.0,45,87,26, coosthuizen, python3, 445483 445511
+20200615 15:40, gpu2005, 0, 00000000:3B:00.0,41,69,9, sndlovu, pmemd.cuda, 442742
+20200615 15:40, gpu2005, 1, 00000000:AF:00.0,41,94,12, sndlovu, pmemd.cuda, 442857
+20200615 15:40, gpu2005, 2, 00000000:D8:00.0,46,86,25, coosthuizen, python3, 445483 445511
+20200615 15:45, gpu2005, 0, 00000000:3B:00.0,42,47,6, sndlovu, pmemd.cuda, 442742
+20200615 15:45, gpu2005, 1, 00000000:AF:00.0,37,0,0, sndlovu, pmemd.cuda, 442857
+20200615 15:45, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 15:50, gpu2005, 0, 00000000:3B:00.0,41,95,13, sndlovu, pmemd.cuda, 442742
+20200615 15:50, gpu2005, 1, 00000000:AF:00.0,41,38,5, sndlovu, pmemd.cuda, 442857
+20200615 15:50, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 15:55, gpu2005, 0, 00000000:3B:00.0,43,36,5, sndlovu, pmemd.cuda, 442742
+20200615 15:55, gpu2005, 1, 00000000:AF:00.0,40,95,12, sndlovu, pmemd.cuda, 442857
+20200615 15:55, gpu2005, 2, 00000000:D8:00.0,46,86,26, coosthuizen, python3, 445483 445511
+20200615 16:00, gpu2005, 0, 00000000:3B:00.0,42,95,13, sndlovu, pmemd.cuda, 442742
+20200615 16:00, gpu2005, 1, 00000000:AF:00.0,41,31,4, sndlovu, pmemd.cuda, 442857
+20200615 16:00, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 16:05, gpu2005, 0, 00000000:3B:00.0,42,75,10, sndlovu, pmemd.cuda, 442742
+20200615 16:05, gpu2005, 1, 00000000:AF:00.0,40,78,10, sndlovu, pmemd.cuda, 442857
+20200615 16:05, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 16:10, gpu2005, 0, 00000000:3B:00.0,43,31,4, sndlovu, pmemd.cuda, 442742
+20200615 16:10, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 16:10, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 16:15, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 16:15, gpu2005, 1, 00000000:AF:00.0,40,75,10, sndlovu, pmemd.cuda, 442857
+20200615 16:15, gpu2005, 2, 00000000:D8:00.0,46,85,25, coosthuizen, python3, 445483 445511
+20200615 16:20, gpu2005, 0, 00000000:3B:00.0,43,68,9, sndlovu, pmemd.cuda, 442742
+20200615 16:20, gpu2005, 1, 00000000:AF:00.0,42,95,13, sndlovu, pmemd.cuda, 442857
+20200615 16:20, gpu2005, 2, 00000000:D8:00.0,46,86,25, coosthuizen, python3, 445483 445511
+20200615 16:25, gpu2005, 0, 00000000:3B:00.0,42,61,8, sndlovu, pmemd.cuda, 442742
+20200615 16:25, gpu2005, 1, 00000000:AF:00.0,41,56,7, sndlovu, pmemd.cuda, 442857
+20200615 16:25, gpu2005, 2, 00000000:D8:00.0,45,86,26, coosthuizen, python3, 445483 445511
+20200615 16:30, gpu2005, 0, 00000000:3B:00.0,43,22,3, sndlovu, pmemd.cuda, 442742
+20200615 16:30, gpu2005, 1, 00000000:AF:00.0,42,87,12, sndlovu, pmemd.cuda, 442857
+20200615 16:30, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 16:35, gpu2005, 0, 00000000:3B:00.0,41,95,13, sndlovu, pmemd.cuda, 442742
+20200615 16:35, gpu2005, 1, 00000000:AF:00.0,41,51,7, sndlovu, pmemd.cuda, 442857
+20200615 16:35, gpu2005, 2, 00000000:D8:00.0,46,86,26, coosthuizen, python3, 445483 445511
+20200615 16:40, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 16:40, gpu2005, 1, 00000000:AF:00.0,41,95,12, sndlovu, pmemd.cuda, 442857
+20200615 16:40, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 16:45, gpu2005, 0, 00000000:3B:00.0,42,19,3, sndlovu, pmemd.cuda, 442742
+20200615 16:45, gpu2005, 1, 00000000:AF:00.0,41,44,6, sndlovu, pmemd.cuda, 442857
+20200615 16:45, gpu2005, 2, 00000000:D8:00.0,45,87,26, coosthuizen, python3, 445483 445511
+20200615 16:50, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 16:50, gpu2005, 1, 00000000:AF:00.0,39,56,7, sndlovu, pmemd.cuda, 442857
+20200615 16:50, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 16:55, gpu2005, 0, 00000000:3B:00.0,42,23,3, sndlovu, pmemd.cuda, 442742
+20200615 16:55, gpu2005, 1, 00000000:AF:00.0,41,75,10, sndlovu, pmemd.cuda, 442857
+20200615 16:55, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 17:00, gpu2005, 0, 00000000:3B:00.0,42,24,3, sndlovu, pmemd.cuda, 442742
+20200615 17:00, gpu2005, 1, 00000000:AF:00.0,41,87,12, sndlovu, pmemd.cuda, 442857
+20200615 17:00, gpu2005, 2, 00000000:D8:00.0,46,86,25, coosthuizen, python3, 445483 445511
+20200615 17:05, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 17:05, gpu2005, 1, 00000000:AF:00.0,41,15,2, sndlovu, pmemd.cuda, 442857
+20200615 17:05, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 17:10, gpu2005, 0, 00000000:3B:00.0,42,95,13, sndlovu, pmemd.cuda, 442742
+20200615 17:10, gpu2005, 1, 00000000:AF:00.0,41,91,12, sndlovu, pmemd.cuda, 442857
+20200615 17:10, gpu2005, 2, 00000000:D8:00.0,46,86,26, coosthuizen, python3, 445483 445511
+20200615 17:15, gpu2005, 0, 00000000:3B:00.0,41,95,13, sndlovu, pmemd.cuda, 442742
+20200615 17:15, gpu2005, 1, 00000000:AF:00.0,40,38,5, sndlovu, pmemd.cuda, 442857
+20200615 17:15, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 17:20, gpu2005, 0, 00000000:3B:00.0,43,21,3, sndlovu, pmemd.cuda, 442742
+20200615 17:20, gpu2005, 1, 00000000:AF:00.0,41,59,8, sndlovu, pmemd.cuda, 442857
+20200615 17:20, gpu2005, 2, 00000000:D8:00.0,46,86,26, coosthuizen, python3, 445483 445511
+20200615 17:25, gpu2005, 0, 00000000:3B:00.0,43,64,9, sndlovu, pmemd.cuda, 442742
+20200615 17:25, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 17:25, gpu2005, 2, 00000000:D8:00.0,46,86,25, coosthuizen, python3, 445483 445511
+20200615 17:30, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 17:30, gpu2005, 1, 00000000:AF:00.0,41,41,6, sndlovu, pmemd.cuda, 442857
+20200615 17:30, gpu2005, 2, 00000000:D8:00.0,46,86,26, coosthuizen, python3, 445483 445511
+20200615 17:35, gpu2005, 0, 00000000:3B:00.0,42,38,5, sndlovu, pmemd.cuda, 442742
+20200615 17:35, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 17:35, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 17:40, gpu2005, 0, 00000000:3B:00.0,41,86,12, sndlovu, pmemd.cuda, 442742
+20200615 17:40, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 17:40, gpu2005, 2, 00000000:D8:00.0,46,86,26, coosthuizen, python3, 445483 445511
+20200615 17:45, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 17:45, gpu2005, 1, 00000000:AF:00.0,41,61,8, sndlovu, pmemd.cuda, 442857
+20200615 17:45, gpu2005, 2, 00000000:D8:00.0,45,87,26, coosthuizen, python3, 445483 445511
+20200615 17:50, gpu2005, 0, 00000000:3B:00.0,43,45,6, sndlovu, pmemd.cuda, 442742
+20200615 17:50, gpu2005, 1, 00000000:AF:00.0,41,21,3, sndlovu, pmemd.cuda, 442857
+20200615 17:50, gpu2005, 2, 00000000:D8:00.0,46,86,26, coosthuizen, python3, 445483 445511
+20200615 17:55, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 17:55, gpu2005, 1, 00000000:AF:00.0,41,23,3, sndlovu, pmemd.cuda, 442857
+20200615 17:55, gpu2005, 2, 00000000:D8:00.0,46,87,26, coosthuizen, python3, 445483 445511
+20200615 18:00, gpu2005, 0, 00000000:3B:00.0,43,20,3, sndlovu, pmemd.cuda, 442742
+20200615 18:00, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 18:00, gpu2005, 2, 00000000:D8:00.0,46,86,26, coosthuizen, python3, 445483 445511
+20200615 18:05, gpu2005, 0, 00000000:3B:00.0,43,95,13, sndlovu, pmemd.cuda, 442742
+20200615 18:05, gpu2005, 1, 00000000:AF:00.0,41,95,13, sndlovu, pmemd.cuda, 442857
+20200615 18:05, gpu2005, 2, 00000000:D8:00.0,32,0,0, null, null, null
+20200615 18:10, gpu2005, 0, 00000000:3B:00.0,41,69,9, sabramowitz, python, 4643 442742
+20200615 18:10, gpu2005, 1, 00000000:AF:00.0,41,95,13, sabramowitz, python, 4643 442857
+20200615 18:10, gpu2005, 2, 00000000:D8:00.0,35,23,14, sabramowitz, python, 4586 4643 4719
+20200615 18:15, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 18:15, gpu2005, 1, 00000000:AF:00.0,41,63,8, sabramowitz, python, 4643 442857
+20200615 18:15, gpu2005, 2, 00000000:D8:00.0,37,63,24, sabramowitz, python, 4586 4643 4719
+20200615 18:20, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 18:20, gpu2005, 1, 00000000:AF:00.0,41,95,13, sabramowitz, python, 4643 442857
+20200615 18:20, gpu2005, 2, 00000000:D8:00.0,33,13,3, sabramowitz, python, 4586 4643 4719
+20200615 18:25, gpu2005, 0, 00000000:3B:00.0,43,56,7, sabramowitz, python, 4643 442742
+20200615 18:25, gpu2005, 1, 00000000:AF:00.0,41,56,7, sabramowitz, python, 4643 442857
+20200615 18:25, gpu2005, 2, 00000000:D8:00.0,35,23,14, sabramowitz, python, 4586 4643 4719
+20200615 18:30, gpu2005, 0, 00000000:3B:00.0,42,53,7, sabramowitz, python, 4643 442742
+20200615 18:30, gpu2005, 1, 00000000:AF:00.0,40,95,12, sabramowitz, python, 4643 442857
+20200615 18:30, gpu2005, 2, 00000000:D8:00.0,37,53,19, sabramowitz, python, 4586 4643 4719
+20200615 18:35, gpu2005, 0, 00000000:3B:00.0,42,82,11, sabramowitz, python, 4643 442742
+20200615 18:35, gpu2005, 1, 00000000:AF:00.0,41,82,11, sabramowitz, python, 4643 442857
+20200615 18:35, gpu2005, 2, 00000000:D8:00.0,35,24,9, sabramowitz, python, 4586 4643 4719
+20200615 18:40, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 18:40, gpu2005, 1, 00000000:AF:00.0,42,95,13, sabramowitz, python, 4643 442857
+20200615 18:40, gpu2005, 2, 00000000:D8:00.0,33,9,2, sabramowitz, python, 4586 4643 4719
+20200615 18:45, gpu2005, 0, 00000000:3B:00.0,41,95,13, sabramowitz, python, 4643 442742
+20200615 18:45, gpu2005, 1, 00000000:AF:00.0,41,92,12, sabramowitz, python, 4643 442857
+20200615 18:45, gpu2005, 2, 00000000:D8:00.0,37,23,11, sabramowitz, python, 4586 4643 4719
+20200615 18:50, gpu2005, 0, 00000000:3B:00.0,43,95,12, sabramowitz, python, 4643 442742
+20200615 18:50, gpu2005, 1, 00000000:AF:00.0,41,25,3, sabramowitz, python, 4643 442857
+20200615 18:50, gpu2005, 2, 00000000:D8:00.0,37,17,12, sabramowitz, python, 4586 4643 4719
+20200615 18:55, gpu2005, 0, 00000000:3B:00.0,43,85,11, sabramowitz, python, 4643 442742
+20200615 18:55, gpu2005, 1, 00000000:AF:00.0,41,95,13, sabramowitz, python, 4643 442857
+20200615 18:55, gpu2005, 2, 00000000:D8:00.0,37,47,23, sabramowitz, python, 4586 4643 4719
+20200615 19:00, gpu2005, 0, 00000000:3B:00.0,43,93,12, sabramowitz, python, 4643 442742
+20200615 19:00, gpu2005, 1, 00000000:AF:00.0,41,18,2, sabramowitz, python, 4643 442857
+20200615 19:00, gpu2005, 2, 00000000:D8:00.0,36,23,14, sabramowitz, python, 4586 4643 4719
+20200615 19:05, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 19:05, gpu2005, 1, 00000000:AF:00.0,41,95,13, sabramowitz, python, 4643 442857
+20200615 19:05, gpu2005, 2, 00000000:D8:00.0,39,62,24, sabramowitz, python, 4586 4643 4719
+20200615 19:10, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 19:10, gpu2005, 1, 00000000:AF:00.0,41,95,12, sabramowitz, python, 4643 442857
+20200615 19:10, gpu2005, 2, 00000000:D8:00.0,34,30,11, sabramowitz, python, 4586 4643 4719
+20200615 19:15, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 19:15, gpu2005, 1, 00000000:AF:00.0,41,95,12, sabramowitz, python, 4643 442857
+20200615 19:15, gpu2005, 2, 00000000:D8:00.0,34,21,10, sabramowitz, python, 4586 4643 4719
+20200615 19:20, gpu2005, 0, 00000000:3B:00.0,43,63,8, sabramowitz, python, 4643 442742
+20200615 19:20, gpu2005, 1, 00000000:AF:00.0,41,95,13, sabramowitz, python, 4643 442857
+20200615 19:20, gpu2005, 2, 00000000:D8:00.0,39,39,19, sabramowitz, python, 4586 4643 4719
+20200615 19:25, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 19:25, gpu2005, 1, 00000000:AF:00.0,40,15,2, sabramowitz, python, 4643 442857
+20200615 19:25, gpu2005, 2, 00000000:D8:00.0,39,62,24, sabramowitz, python, 4586 4643 4719
+20200615 19:30, gpu2005, 0, 00000000:3B:00.0,41,95,13, sabramowitz, python, 4643 442742
+20200615 19:30, gpu2005, 1, 00000000:AF:00.0,41,95,12, sabramowitz, python, 4643 442857
+20200615 19:30, gpu2005, 2, 00000000:D8:00.0,35,21,10, sabramowitz, python, 4586 4643 10705
+20200615 19:35, gpu2005, 0, 00000000:3B:00.0,43,62,8, sabramowitz, python, 4643 442742
+20200615 19:35, gpu2005, 1, 00000000:AF:00.0,41,95,13, sabramowitz, python, 4643 442857
+20200615 19:35, gpu2005, 2, 00000000:D8:00.0,36,29,12, sabramowitz, python, 4586 4643 10705
+20200615 19:40, gpu2005, 0, 00000000:3B:00.0,43,84,11, sabramowitz, python, 4643 442742
+20200615 19:40, gpu2005, 1, 00000000:AF:00.0,41,63,8, sabramowitz, python, 4643 442857
+20200615 19:40, gpu2005, 2, 00000000:D8:00.0,34,21,10, sabramowitz, python, 4586 4643 10705
+20200615 19:45, gpu2005, 0, 00000000:3B:00.0,43,45,6, sabramowitz, python, 4643 442742
+20200615 19:45, gpu2005, 1, 00000000:AF:00.0,40,95,12, sabramowitz, python, 4643 442857
+20200615 19:45, gpu2005, 2, 00000000:D8:00.0,35,23,8, sabramowitz, python, 4586 4643 10705
+20200615 19:50, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 19:50, gpu2005, 1, 00000000:AF:00.0,41,75,10, sabramowitz, python, 4643 442857
+20200615 19:50, gpu2005, 2, 00000000:D8:00.0,36,33,15, sabramowitz, python, 4586 4643 10705
+20200615 19:55, gpu2005, 0, 00000000:3B:00.0,44,95,13, sabramowitz, python, 4643 442742
+20200615 19:55, gpu2005, 1, 00000000:AF:00.0,42,57,8, sabramowitz, python, 4643 442857
+20200615 19:55, gpu2005, 2, 00000000:D8:00.0,37,28,12, sabramowitz, python, 4586 4643 10705
+20200615 20:00, gpu2005, 0, 00000000:3B:00.0,42,95,13, sabramowitz, python, 4643 442742
+20200615 20:00, gpu2005, 1, 00000000:AF:00.0,41,95,13, sabramowitz, python, 4643 442857
+20200615 20:00, gpu2005, 2, 00000000:D8:00.0,35,20,10, sabramowitz, python, 4586 4643 10705
+20200615 20:05, gpu2005, 0, 00000000:3B:00.0,42,35,5, sabramowitz, python, 4643 442742
+20200615 20:05, gpu2005, 1, 00000000:AF:00.0,40,48,6, sabramowitz, python, 4643 442857
+20200615 20:05, gpu2005, 2, 00000000:D8:00.0,34,21,10, sabramowitz, python, 4586 4643 10705
+20200615 20:10, gpu2005, 0, 00000000:3B:00.0,41,95,13, sabramowitz, python, 4643 442742
+20200615 20:10, gpu2005, 1, 00000000:AF:00.0,39,95,13, sabramowitz, python, 4643 442857
+20200615 20:10, gpu2005, 2, 00000000:D8:00.0,33,22,8, sabramowitz, python, 4586 4643 10705
+20200615 20:15, gpu2005, 0, 00000000:3B:00.0,44,26,3, sabramowitz, python, 4643 442742
+20200615 20:15, gpu2005, 1, 00000000:AF:00.0,41,59,8, sabramowitz, python, 4643 442857
+20200615 20:15, gpu2005, 2, 00000000:D8:00.0,35,13,5, sabramowitz, python, 4586 4643 10705
+20200615 20:20, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 20:20, gpu2005, 1, 00000000:AF:00.0,41,55,7, sabramowitz, python, 4643 442857
+20200615 20:20, gpu2005, 2, 00000000:D8:00.0,35,21,10, sabramowitz, python, 4586 4643 10705
+20200615 20:25, gpu2005, 0, 00000000:3B:00.0,44,95,13, sabramowitz, python, 4643 442742
+20200615 20:25, gpu2005, 1, 00000000:AF:00.0,42,61,8, sabramowitz, python, 4643 442857
+20200615 20:25, gpu2005, 2, 00000000:D8:00.0,35,28,12, sabramowitz, python, 4586 4643 10705
+20200615 20:30, gpu2005, 0, 00000000:3B:00.0,43,46,6, sabramowitz, python, 4643 442742
+20200615 20:30, gpu2005, 1, 00000000:AF:00.0,40,65,9, sabramowitz, python, 4643 442857
+20200615 20:30, gpu2005, 2, 00000000:D8:00.0,35,21,8, sabramowitz, python, 4586 4643 10705
+20200615 20:35, gpu2005, 0, 00000000:3B:00.0,42,95,13, sabramowitz, python, 4643 442742
+20200615 20:35, gpu2005, 1, 00000000:AF:00.0,40,82,11, sabramowitz, python, 4643 442857
+20200615 20:35, gpu2005, 2, 00000000:D8:00.0,34,24,10, sabramowitz, python, 4586 4643 10705
+20200615 20:40, gpu2005, 0, 00000000:3B:00.0,42,71,9, sabramowitz, python, 4643 442742
+20200615 20:40, gpu2005, 1, 00000000:AF:00.0,40,33,4, sabramowitz, python, 4643 442857
+20200615 20:40, gpu2005, 2, 00000000:D8:00.0,34,21,10, sabramowitz, python, 4586 4643 10705
+20200615 20:45, gpu2005, 0, 00000000:3B:00.0,42,95,13, sabramowitz, python, 4643 442742
+20200615 20:45, gpu2005, 1, 00000000:AF:00.0,41,70,9, sabramowitz, python, 4643 442857
+20200615 20:45, gpu2005, 2, 00000000:D8:00.0,38,32,11, sabramowitz, python, 4586 4643 16498
+20200615 20:50, gpu2005, 0, 00000000:3B:00.0,42,95,13, sabramowitz, python, 4643 442742
+20200615 20:50, gpu2005, 1, 00000000:AF:00.0,39,95,12, sabramowitz, python, 4643 442857
+20200615 20:50, gpu2005, 2, 00000000:D8:00.0,38,30,13, sabramowitz, python, 4586 4643 16498
+20200615 20:55, gpu2005, 0, 00000000:3B:00.0,43,24,3, sabramowitz, python, 4643 442742
+20200615 20:55, gpu2005, 1, 00000000:AF:00.0,42,95,12, sabramowitz, python, 4643 442857
+20200615 20:55, gpu2005, 2, 00000000:D8:00.0,40,45,17, sabramowitz, python, 4586 4643 16498
+20200615 21:00, gpu2005, 0, 00000000:3B:00.0,42,95,13, sabramowitz, python, 4643 442742
+20200615 21:00, gpu2005, 1, 00000000:AF:00.0,41,78,10, sabramowitz, python, 4643 442857
+20200615 21:00, gpu2005, 2, 00000000:D8:00.0,40,36,14, sabramowitz, python, 4586 4643 16498
+20200615 21:05, gpu2005, 0, 00000000:3B:00.0,41,95,13, sabramowitz, python, 4643 442742
+20200615 21:05, gpu2005, 1, 00000000:AF:00.0,40,95,12, sabramowitz, python, 4643 442857
+20200615 21:05, gpu2005, 2, 00000000:D8:00.0,39,28,10, sabramowitz, python, 4586 4643 16498
+20200615 21:10, gpu2005, 0, 00000000:3B:00.0,43,94,13, sabramowitz, python, 4643 442742
+20200615 21:10, gpu2005, 1, 00000000:AF:00.0,41,84,11, sabramowitz, python, 4643 442857
+20200615 21:10, gpu2005, 2, 00000000:D8:00.0,38,36,16, sabramowitz, python, 4586 4643 16498
+20200615 21:15, gpu2005, 0, 00000000:3B:00.0,41,95,13, sabramowitz, python, 4643 442742
+20200615 21:15, gpu2005, 1, 00000000:AF:00.0,41,95,12, sabramowitz, python, 4643 442857
+20200615 21:15, gpu2005, 2, 00000000:D8:00.0,39,36,14, sabramowitz, python, 4586 4643 16498
+20200615 21:20, gpu2005, 0, 00000000:3B:00.0,42,33,4, sabramowitz, python, 4643 442742
+20200615 21:20, gpu2005, 1, 00000000:AF:00.0,40,90,12, sabramowitz, python, 4643 442857
+20200615 21:20, gpu2005, 2, 00000000:D8:00.0,39,45,17, sabramowitz, python, 4586 4643 16498
+20200615 21:25, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 21:25, gpu2005, 1, 00000000:AF:00.0,40,20,3, sabramowitz, python, 4643 442857
+20200615 21:25, gpu2005, 2, 00000000:D8:00.0,38,36,14, sabramowitz, python, 4586 4643 16498
+20200615 21:30, gpu2005, 0, 00000000:3B:00.0,43,61,8, sabramowitz, python, 4643 442742
+20200615 21:30, gpu2005, 1, 00000000:AF:00.0,41,93,12, sabramowitz, python, 4643 442857
+20200615 21:30, gpu2005, 2, 00000000:D8:00.0,35,29,13, sabramowitz, python, 4586 4643 16498
+20200615 21:35, gpu2005, 0, 00000000:3B:00.0,43,54,7, sabramowitz, python, 4643 442742
+20200615 21:35, gpu2005, 1, 00000000:AF:00.0,41,16,2, sabramowitz, python, 4643 442857
+20200615 21:35, gpu2005, 2, 00000000:D8:00.0,36,38,14, sabramowitz, python, 4586 4643 16498
+20200615 21:40, gpu2005, 0, 00000000:3B:00.0,43,88,12, sabramowitz, python, 4643 442742
+20200615 21:40, gpu2005, 1, 00000000:AF:00.0,41,95,12, sabramowitz, python, 4643 442857
+20200615 21:40, gpu2005, 2, 00000000:D8:00.0,35,28,12, sabramowitz, python, 4586 4643 16498
+20200615 21:45, gpu2005, 0, 00000000:3B:00.0,42,72,10, sabramowitz, python, 4643 442742
+20200615 21:45, gpu2005, 1, 00000000:AF:00.0,40,64,9, sabramowitz, python, 4643 442857
+20200615 21:45, gpu2005, 2, 00000000:D8:00.0,36,51,16, sabramowitz, python, 4586 4643 16498
+20200615 21:50, gpu2005, 0, 00000000:3B:00.0,43,80,11, sabramowitz, python, 4643 442742
+20200615 21:50, gpu2005, 1, 00000000:AF:00.0,40,47,6, sabramowitz, python, 4643 442857
+20200615 21:50, gpu2005, 2, 00000000:D8:00.0,40,42,15, sabramowitz, python, 4586 4643 16498
+20200615 21:55, gpu2005, 0, 00000000:3B:00.0,42,95,13, sabramowitz, python, 4643 442742
+20200615 21:55, gpu2005, 1, 00000000:AF:00.0,41,50,7, sabramowitz, python, 4643 442857
+20200615 21:55, gpu2005, 2, 00000000:D8:00.0,39,30,13, sabramowitz, python, 4586 4643 16498
+20200615 22:00, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 22:00, gpu2005, 1, 00000000:AF:00.0,41,36,5, sabramowitz, python, 4643 442857
+20200615 22:00, gpu2005, 2, 00000000:D8:00.0,40,29,12, sabramowitz, python, 4586 4643 16498
+20200615 22:05, gpu2005, 0, 00000000:3B:00.0,42,52,7, sabramowitz, python, 4643 442742
+20200615 22:05, gpu2005, 1, 00000000:AF:00.0,41,53,7, sabramowitz, python, 4643 442857
+20200615 22:05, gpu2005, 2, 00000000:D8:00.0,34,13,4, sabramowitz, python, 4586 4643 16498
+20200615 22:10, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 22:10, gpu2005, 1, 00000000:AF:00.0,41,44,6, sabramowitz, python, 4643 442857
+20200615 22:10, gpu2005, 2, 00000000:D8:00.0,39,44,17, sabramowitz, python, 4586 4643 16498
+20200615 22:15, gpu2005, 0, 00000000:3B:00.0,41,29,4, sabramowitz, python, 4643 442742
+20200615 22:15, gpu2005, 1, 00000000:AF:00.0,39,27,4, sabramowitz, python, 4643 442857
+20200615 22:15, gpu2005, 2, 00000000:D8:00.0,44,62,35, sabramowitz, python, 4586 4643 23072
+20200615 22:20, gpu2005, 0, 00000000:3B:00.0,42,48,6, sabramowitz, python, 4643 442742
+20200615 22:20, gpu2005, 1, 00000000:AF:00.0,40,72,10, sabramowitz, python, 4643 442857
+20200615 22:20, gpu2005, 2, 00000000:D8:00.0,37,0,0, sabramowitz, python, 4586 4643 23072
+20200615 22:25, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 22:25, gpu2005, 1, 00000000:AF:00.0,41,26,3, sabramowitz, python, 4643 442857
+20200615 22:25, gpu2005, 2, 00000000:D8:00.0,34,10,4, sabramowitz, python, 4586 4643 23072
+20200615 22:30, gpu2005, 0, 00000000:3B:00.0,43,51,7, sabramowitz, python, 4643 442742
+20200615 22:30, gpu2005, 1, 00000000:AF:00.0,41,95,13, sabramowitz, python, 4643 442857
+20200615 22:30, gpu2005, 2, 00000000:D8:00.0,38,31,11, sabramowitz, python, 4586 4643 23072
+20200615 22:35, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 22:35, gpu2005, 1, 00000000:AF:00.0,41,64,8, sabramowitz, python, 4643 442857
+20200615 22:35, gpu2005, 2, 00000000:D8:00.0,35,21,10, sabramowitz, python, 4586 4643 23072
+20200615 22:40, gpu2005, 0, 00000000:3B:00.0,43,75,10, sabramowitz, python, 4643 442742
+20200615 22:40, gpu2005, 1, 00000000:AF:00.0,41,94,12, sabramowitz, python, 4643 442857
+20200615 22:40, gpu2005, 2, 00000000:D8:00.0,40,45,17, sabramowitz, python, 4586 4643 23072
+20200615 22:45, gpu2005, 0, 00000000:3B:00.0,42,57,8, sabramowitz, python, 4643 442742
+20200615 22:45, gpu2005, 1, 00000000:AF:00.0,40,31,4, sabramowitz, python, 4643 442857
+20200615 22:45, gpu2005, 2, 00000000:D8:00.0,33,21,7, sabramowitz, python, 4586 4643 23072
+20200615 22:50, gpu2005, 0, 00000000:3B:00.0,43,50,7, sabramowitz, python, 4643 442742
+20200615 22:50, gpu2005, 1, 00000000:AF:00.0,40,94,13, sabramowitz, python, 4643 442857
+20200615 22:50, gpu2005, 2, 00000000:D8:00.0,39,43,16, sabramowitz, python, 4586 4643 23072
+20200615 22:55, gpu2005, 0, 00000000:3B:00.0,43,46,6, sabramowitz, python, 4643 442742
+20200615 22:55, gpu2005, 1, 00000000:AF:00.0,41,53,7, sabramowitz, python, 4643 442857
+20200615 22:55, gpu2005, 2, 00000000:D8:00.0,35,21,10, sabramowitz, python, 4586 4643 23072
+20200615 23:00, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 23:00, gpu2005, 1, 00000000:AF:00.0,40,80,11, sabramowitz, python, 4643 442857
+20200615 23:00, gpu2005, 2, 00000000:D8:00.0,39,45,17, sabramowitz, python, 4586 4643 23072
+20200615 23:05, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 23:05, gpu2005, 1, 00000000:AF:00.0,40,95,12, sabramowitz, python, 4643 442857
+20200615 23:05, gpu2005, 2, 00000000:D8:00.0,34,20,9, sabramowitz, python, 4586 4643 23072
+20200615 23:10, gpu2005, 0, 00000000:3B:00.0,43,56,7, sabramowitz, python, 4643 442742
+20200615 23:10, gpu2005, 1, 00000000:AF:00.0,40,77,10, sabramowitz, python, 4643 442857
+20200615 23:10, gpu2005, 2, 00000000:D8:00.0,38,32,14, sabramowitz, python, 4586 4643 23072
+20200615 23:15, gpu2005, 0, 00000000:3B:00.0,41,94,12, sabramowitz, python, 4643 442742
+20200615 23:15, gpu2005, 1, 00000000:AF:00.0,40,20,3, sabramowitz, python, 4643 442857
+20200615 23:15, gpu2005, 2, 00000000:D8:00.0,35,21,10, sabramowitz, python, 4586 4643 23072
+20200615 23:20, gpu2005, 0, 00000000:3B:00.0,41,93,12, sabramowitz, python, 4643 442742
+20200615 23:20, gpu2005, 1, 00000000:AF:00.0,41,94,12, sabramowitz, python, 4643 442857
+20200615 23:20, gpu2005, 2, 00000000:D8:00.0,39,35,12, sabramowitz, python, 4586 4643 23072
+20200615 23:25, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 23:25, gpu2005, 1, 00000000:AF:00.0,40,86,12, sabramowitz, python, 4643 442857
+20200615 23:25, gpu2005, 2, 00000000:D8:00.0,34,20,7, sabramowitz, python, 4586 4643 23072
+20200615 23:30, gpu2005, 0, 00000000:3B:00.0,42,21,3, sabramowitz, python, 4643 442742
+20200615 23:30, gpu2005, 1, 00000000:AF:00.0,41,95,13, sabramowitz, python, 4643 442857
+20200615 23:30, gpu2005, 2, 00000000:D8:00.0,39,45,17, sabramowitz, python, 4586 4643 23072
+20200615 23:35, gpu2005, 0, 00000000:3B:00.0,42,27,4, sabramowitz, python, 4643 442742
+20200615 23:35, gpu2005, 1, 00000000:AF:00.0,41,19,3, sabramowitz, python, 4643 442857
+20200615 23:35, gpu2005, 2, 00000000:D8:00.0,37,26,10, sabramowitz, python, 4586 4643 29234
+20200615 23:40, gpu2005, 0, 00000000:3B:00.0,43,95,13, sabramowitz, python, 4643 442742
+20200615 23:40, gpu2005, 1, 00000000:AF:00.0,41,90,12, sabramowitz, python, 4643 442857
+20200615 23:40, gpu2005, 2, 00000000:D8:00.0,35,28,11, sabramowitz, python, 4586 4643 29234
+20200615 23:45, gpu2005, 0, 00000000:3B:00.0,42,19,3, sabramowitz, python, 4643 442742
+20200615 23:45, gpu2005, 1, 00000000:AF:00.0,41,92,12, sabramowitz, python, 4643 442857
+20200615 23:45, gpu2005, 2, 00000000:D8:00.0,37,31,18, sabramowitz, python, 4586 4643 29234
+20200615 23:50, gpu2005, 0, 00000000:3B:00.0,42,79,11, sabramowitz, python, 4643 442742
+20200615 23:50, gpu2005, 1, 00000000:AF:00.0,40,90,12, sabramowitz, python, 4643 442857
+20200615 23:50, gpu2005, 2, 00000000:D8:00.0,39,41,15, sabramowitz, python, 4586 4643 29234
+20200615 23:55, gpu2005, 0, 00000000:3B:00.0,43,51,7, sabramowitz, python, 4643 442742
+20200615 23:55, gpu2005, 1, 00000000:AF:00.0,40,95,13, sabramowitz, python, 4643 442857
+20200615 23:55, gpu2005, 2, 00000000:D8:00.0,35,22,10, sabramowitz, python, 4586 4643 29234

@@ -1,0 +1,864 @@
+20200630 00:00, gpu2002, 0, 00000000:3B:00.0,32,0,0, null, null, null
+20200630 00:00, gpu2002, 1, 00000000:AF:00.0,40,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:00, gpu2002, 2, 00000000:D8:00.0,32,44,6, nwilkinson, python, 425088
+20200630 00:05, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 00:05, gpu2002, 1, 00000000:AF:00.0,43,22,5, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:05, gpu2002, 2, 00000000:D8:00.0,32,42,5, nwilkinson, python, 425088
+20200630 00:10, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 00:10, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:10, gpu2002, 2, 00000000:D8:00.0,32,43,5, nwilkinson, python, 425088
+20200630 00:15, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 00:15, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:15, gpu2002, 2, 00000000:D8:00.0,32,40,5, nwilkinson, python, 425088
+20200630 00:20, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 00:20, gpu2002, 1, 00000000:AF:00.0,45,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:20, gpu2002, 2, 00000000:D8:00.0,32,45,6, nwilkinson, python, 425088
+20200630 00:25, gpu2002, 0, 00000000:3B:00.0,32,0,0, null, null, null
+20200630 00:25, gpu2002, 1, 00000000:AF:00.0,45,38,8, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:25, gpu2002, 2, 00000000:D8:00.0,32,44,6, nwilkinson, python, 425088
+20200630 00:30, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 00:30, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:30, gpu2002, 2, 00000000:D8:00.0,32,44,5, nwilkinson, python, 425088
+20200630 00:35, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 00:35, gpu2002, 1, 00000000:AF:00.0,43,77,17, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:35, gpu2002, 2, 00000000:D8:00.0,32,44,5, nwilkinson, python, 425088
+20200630 00:40, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 00:40, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:40, gpu2002, 2, 00000000:D8:00.0,32,43,5, nwilkinson, python, 425088
+20200630 00:45, gpu2002, 0, 00000000:3B:00.0,32,0,0, null, null, null
+20200630 00:45, gpu2002, 1, 00000000:AF:00.0,46,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:45, gpu2002, 2, 00000000:D8:00.0,32,45,6, nwilkinson, python, 425088
+20200630 00:50, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 00:50, gpu2002, 1, 00000000:AF:00.0,43,33,7, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:50, gpu2002, 2, 00000000:D8:00.0,32,45,6, nwilkinson, python, 425088
+20200630 00:55, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 00:55, gpu2002, 1, 00000000:AF:00.0,44,73,16, fbadichiakher1, pmemd.cuda, 410091
+20200630 00:55, gpu2002, 2, 00000000:D8:00.0,32,43,5, nwilkinson, python, 425088
+20200630 01:00, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 01:00, gpu2002, 1, 00000000:AF:00.0,42,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:00, gpu2002, 2, 00000000:D8:00.0,32,45,5, nwilkinson, python, 425088
+20200630 01:05, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 01:05, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:05, gpu2002, 2, 00000000:D8:00.0,32,42,5, nwilkinson, python, 425088
+20200630 01:10, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 01:10, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:10, gpu2002, 2, 00000000:D8:00.0,32,45,5, nwilkinson, python, 425088
+20200630 01:15, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 01:15, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:15, gpu2002, 2, 00000000:D8:00.0,32,45,5, nwilkinson, python, 425088
+20200630 01:20, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 01:20, gpu2002, 1, 00000000:AF:00.0,43,33,7, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:20, gpu2002, 2, 00000000:D8:00.0,32,45,5, nwilkinson, python, 425088
+20200630 01:25, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 01:25, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:25, gpu2002, 2, 00000000:D8:00.0,32,44,5, nwilkinson, python, 425088
+20200630 01:30, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 01:30, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:30, gpu2002, 2, 00000000:D8:00.0,32,43,5, nwilkinson, python, 425088
+20200630 01:35, gpu2002, 0, 00000000:3B:00.0,32,0,0, null, null, null
+20200630 01:35, gpu2002, 1, 00000000:AF:00.0,43,10,2, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:35, gpu2002, 2, 00000000:D8:00.0,32,45,5, nwilkinson, python, 425088
+20200630 01:40, gpu2002, 0, 00000000:3B:00.0,37,79,25, evanderwesthuizen, nnet3-chain-train, 457646
+20200630 01:40, gpu2002, 1, 00000000:AF:00.0,42,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:40, gpu2002, 2, 00000000:D8:00.0,32,38,5, nwilkinson, python, 425088
+20200630 01:45, gpu2002, 0, 00000000:3B:00.0,40,81,26, evanderwesthuizen, nnet3-chain-train, 2794
+20200630 01:45, gpu2002, 1, 00000000:AF:00.0,44,62,14, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:45, gpu2002, 2, 00000000:D8:00.0,32,44,5, nwilkinson, python, 425088
+20200630 01:50, gpu2002, 0, 00000000:3B:00.0,32,0,0, null, null, null
+20200630 01:50, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:50, gpu2002, 2, 00000000:D8:00.0,32,45,5, nwilkinson, python, 425088
+20200630 01:55, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 01:55, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 01:55, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 02:00, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 02:00, gpu2002, 1, 00000000:AF:00.0,43,31,7, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:00, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 02:05, gpu2002, 0, 00000000:3B:00.0,31,0,0, null, null, null
+20200630 02:05, gpu2002, 1, 00000000:AF:00.0,44,69,15, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:05, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 02:10, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:10, gpu2002, 1, 00000000:AF:00.0,44,60,13, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:10, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 02:15, gpu2002, 0, 00000000:3B:00.0,41,5,2, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:15, gpu2002, 1, 00000000:AF:00.0,44,20,4, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:15, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 02:20, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:20, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:20, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 02:25, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:25, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:25, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 02:30, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:30, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:30, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 02:35, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:35, gpu2002, 1, 00000000:AF:00.0,43,76,17, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:35, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 02:40, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:40, gpu2002, 1, 00000000:AF:00.0,45,84,19, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:40, gpu2002, 2, 00000000:D8:00.0,35,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 02:45, gpu2002, 0, 00000000:3B:00.0,40,7,2, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:45, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:45, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 02:50, gpu2002, 0, 00000000:3B:00.0,42,91,28, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:50, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:50, gpu2002, 2, 00000000:D8:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 02:55, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 02:55, gpu2002, 1, 00000000:AF:00.0,43,61,13, fbadichiakher1, pmemd.cuda, 410091
+20200630 02:55, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:00, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:00, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:00, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:05, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:05, gpu2002, 1, 00000000:AF:00.0,44,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:05, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:10, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:10, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:10, gpu2002, 2, 00000000:D8:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:15, gpu2002, 0, 00000000:3B:00.0,41,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:15, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:15, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:20, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:20, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:20, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:25, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:25, gpu2002, 1, 00000000:AF:00.0,43,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:25, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:30, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:30, gpu2002, 1, 00000000:AF:00.0,43,3,1, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:30, gpu2002, 2, 00000000:D8:00.0,37,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:35, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:35, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:35, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:40, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:40, gpu2002, 1, 00000000:AF:00.0,44,23,5, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:40, gpu2002, 2, 00000000:D8:00.0,40,52,16, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:45, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:45, gpu2002, 1, 00000000:AF:00.0,45,49,11, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:45, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:50, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:50, gpu2002, 1, 00000000:AF:00.0,44,70,16, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:50, gpu2002, 2, 00000000:D8:00.0,37,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 03:55, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 03:55, gpu2002, 1, 00000000:AF:00.0,44,19,4, fbadichiakher1, pmemd.cuda, 410091
+20200630 03:55, gpu2002, 2, 00000000:D8:00.0,39,51,15, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:00, gpu2002, 0, 00000000:3B:00.0,43,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:00, gpu2002, 1, 00000000:AF:00.0,45,24,5, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:00, gpu2002, 2, 00000000:D8:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:05, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:05, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:05, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:10, gpu2002, 0, 00000000:3B:00.0,41,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:10, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:10, gpu2002, 2, 00000000:D8:00.0,39,79,24, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:15, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:15, gpu2002, 1, 00000000:AF:00.0,43,23,5, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:15, gpu2002, 2, 00000000:D8:00.0,40,50,15, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:20, gpu2002, 0, 00000000:3B:00.0,40,24,8, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:20, gpu2002, 1, 00000000:AF:00.0,43,27,6, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:20, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:25, gpu2002, 0, 00000000:3B:00.0,41,59,19, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:25, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:25, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:30, gpu2002, 0, 00000000:3B:00.0,41,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:30, gpu2002, 1, 00000000:AF:00.0,44,82,18, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:30, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:35, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:35, gpu2002, 1, 00000000:AF:00.0,44,93,20, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:35, gpu2002, 2, 00000000:D8:00.0,38,93,28, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:40, gpu2002, 0, 00000000:3B:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:40, gpu2002, 1, 00000000:AF:00.0,41,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:40, gpu2002, 2, 00000000:D8:00.0,36,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:45, gpu2002, 0, 00000000:3B:00.0,43,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:45, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:45, gpu2002, 2, 00000000:D8:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:50, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:50, gpu2002, 1, 00000000:AF:00.0,45,5,1, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:50, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 04:55, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 04:55, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 04:55, gpu2002, 2, 00000000:D8:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:00, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:00, gpu2002, 1, 00000000:AF:00.0,44,84,19, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:00, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:05, gpu2002, 0, 00000000:3B:00.0,41,90,28, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:05, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:05, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:10, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:10, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:10, gpu2002, 2, 00000000:D8:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:15, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:15, gpu2002, 1, 00000000:AF:00.0,46,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:15, gpu2002, 2, 00000000:D8:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:20, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:20, gpu2002, 1, 00000000:AF:00.0,46,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:20, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:25, gpu2002, 0, 00000000:3B:00.0,43,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:25, gpu2002, 1, 00000000:AF:00.0,44,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:25, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:30, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:30, gpu2002, 1, 00000000:AF:00.0,43,84,19, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:30, gpu2002, 2, 00000000:D8:00.0,39,18,5, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:35, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:35, gpu2002, 1, 00000000:AF:00.0,44,1,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:35, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:40, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:40, gpu2002, 1, 00000000:AF:00.0,43,5,1, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:40, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:45, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:45, gpu2002, 1, 00000000:AF:00.0,45,29,6, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:45, gpu2002, 2, 00000000:D8:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:50, gpu2002, 0, 00000000:3B:00.0,43,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:50, gpu2002, 1, 00000000:AF:00.0,44,33,7, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:50, gpu2002, 2, 00000000:D8:00.0,40,70,22, afarrokhzadeh, pmemd.cuda, 9200
+20200630 05:55, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 05:55, gpu2002, 1, 00000000:AF:00.0,43,1,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 05:55, gpu2002, 2, 00000000:D8:00.0,40,40,12, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:00, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:00, gpu2002, 1, 00000000:AF:00.0,46,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:00, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:05, gpu2002, 0, 00000000:3B:00.0,43,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:05, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:05, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:10, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:10, gpu2002, 1, 00000000:AF:00.0,44,34,8, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:10, gpu2002, 2, 00000000:D8:00.0,37,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:15, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:15, gpu2002, 1, 00000000:AF:00.0,45,92,20, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:15, gpu2002, 2, 00000000:D8:00.0,39,22,7, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:20, gpu2002, 0, 00000000:3B:00.0,43,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:20, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:20, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:25, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:25, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:25, gpu2002, 2, 00000000:D8:00.0,37,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:30, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:30, gpu2002, 1, 00000000:AF:00.0,46,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:30, gpu2002, 2, 00000000:D8:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:35, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:35, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:35, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:40, gpu2002, 0, 00000000:3B:00.0,41,53,17, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:40, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:40, gpu2002, 2, 00000000:D8:00.0,38,10,3, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:45, gpu2002, 0, 00000000:3B:00.0,42,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:45, gpu2002, 1, 00000000:AF:00.0,46,57,13, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:45, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:50, gpu2002, 0, 00000000:3B:00.0,40,10,3, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:50, gpu2002, 1, 00000000:AF:00.0,44,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:50, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 06:55, gpu2002, 0, 00000000:3B:00.0,44,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 06:55, gpu2002, 1, 00000000:AF:00.0,47,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 06:55, gpu2002, 2, 00000000:D8:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:00, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:00, gpu2002, 1, 00000000:AF:00.0,42,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:00, gpu2002, 2, 00000000:D8:00.0,37,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:05, gpu2002, 0, 00000000:3B:00.0,44,99,30, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:05, gpu2002, 1, 00000000:AF:00.0,45,75,17, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:05, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:10, gpu2002, 0, 00000000:3B:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:10, gpu2002, 1, 00000000:AF:00.0,44,86,19, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:10, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:15, gpu2002, 0, 00000000:3B:00.0,44,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:15, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:15, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:20, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:20, gpu2002, 1, 00000000:AF:00.0,44,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:20, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:25, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:25, gpu2002, 1, 00000000:AF:00.0,45,11,2, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:25, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:30, gpu2002, 0, 00000000:3B:00.0,40,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:30, gpu2002, 1, 00000000:AF:00.0,45,8,2, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:30, gpu2002, 2, 00000000:D8:00.0,37,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:35, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:35, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:35, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:40, gpu2002, 0, 00000000:3B:00.0,40,55,17, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:40, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:40, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:45, gpu2002, 0, 00000000:3B:00.0,42,92,29, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:45, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:45, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:50, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:50, gpu2002, 1, 00000000:AF:00.0,45,29,6, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:50, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 07:55, gpu2002, 0, 00000000:3B:00.0,43,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 07:55, gpu2002, 1, 00000000:AF:00.0,43,6,1, fbadichiakher1, pmemd.cuda, 410091
+20200630 07:55, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:00, gpu2002, 0, 00000000:3B:00.0,45,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:00, gpu2002, 1, 00000000:AF:00.0,47,93,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:00, gpu2002, 2, 00000000:D8:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:05, gpu2002, 0, 00000000:3B:00.0,41,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:05, gpu2002, 1, 00000000:AF:00.0,44,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:05, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:10, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:10, gpu2002, 1, 00000000:AF:00.0,45,27,6, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:10, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:15, gpu2002, 0, 00000000:3B:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:15, gpu2002, 1, 00000000:AF:00.0,44,36,8, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:15, gpu2002, 2, 00000000:D8:00.0,38,58,18, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:20, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:20, gpu2002, 1, 00000000:AF:00.0,46,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:20, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:25, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:25, gpu2002, 1, 00000000:AF:00.0,45,84,18, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:25, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:30, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:30, gpu2002, 1, 00000000:AF:00.0,45,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:30, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:35, gpu2002, 0, 00000000:3B:00.0,44,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:35, gpu2002, 1, 00000000:AF:00.0,47,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:35, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:40, gpu2002, 0, 00000000:3B:00.0,41,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:40, gpu2002, 1, 00000000:AF:00.0,44,77,17, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:40, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:45, gpu2002, 0, 00000000:3B:00.0,44,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:45, gpu2002, 1, 00000000:AF:00.0,46,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:45, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:50, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:50, gpu2002, 1, 00000000:AF:00.0,42,32,7, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:50, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 08:55, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 08:55, gpu2002, 1, 00000000:AF:00.0,46,37,8, fbadichiakher1, pmemd.cuda, 410091
+20200630 08:55, gpu2002, 2, 00000000:D8:00.0,40,11,3, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:00, gpu2002, 0, 00000000:3B:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:00, gpu2002, 1, 00000000:AF:00.0,43,31,7, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:00, gpu2002, 2, 00000000:D8:00.0,38,69,21, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:05, gpu2002, 0, 00000000:3B:00.0,44,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:05, gpu2002, 1, 00000000:AF:00.0,47,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:05, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:10, gpu2002, 0, 00000000:3B:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:10, gpu2002, 1, 00000000:AF:00.0,42,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:10, gpu2002, 2, 00000000:D8:00.0,37,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:15, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:15, gpu2002, 1, 00000000:AF:00.0,46,3,1, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:15, gpu2002, 2, 00000000:D8:00.0,40,60,19, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:20, gpu2002, 0, 00000000:3B:00.0,41,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:20, gpu2002, 1, 00000000:AF:00.0,44,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:20, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:25, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:25, gpu2002, 1, 00000000:AF:00.0,46,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:25, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:30, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:30, gpu2002, 1, 00000000:AF:00.0,42,7,2, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:30, gpu2002, 2, 00000000:D8:00.0,37,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:35, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:35, gpu2002, 1, 00000000:AF:00.0,46,12,3, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:35, gpu2002, 2, 00000000:D8:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:40, gpu2002, 0, 00000000:3B:00.0,41,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:40, gpu2002, 1, 00000000:AF:00.0,44,50,11, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:40, gpu2002, 2, 00000000:D8:00.0,39,99,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:45, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:45, gpu2002, 1, 00000000:AF:00.0,44,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:45, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:50, gpu2002, 0, 00000000:3B:00.0,41,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:50, gpu2002, 1, 00000000:AF:00.0,42,31,7, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:50, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 09:55, gpu2002, 0, 00000000:3B:00.0,44,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 09:55, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 410091
+20200630 09:55, gpu2002, 2, 00000000:D8:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:00, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:00, gpu2002, 1, 00000000:AF:00.0,42,68,15, fbadichiakher1, pmemd.cuda, 410091
+20200630 10:00, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:05, gpu2002, 0, 00000000:3B:00.0,44,99,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:05, gpu2002, 1, 00000000:AF:00.0,46,96,21, fbadichiakher1, pmemd.cuda, 410091
+20200630 10:05, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:10, gpu2002, 0, 00000000:3B:00.0,40,10,3, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:10, gpu2002, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200630 10:10, gpu2002, 2, 00000000:D8:00.0,38,6,2, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:15, gpu2002, 0, 00000000:3B:00.0,44,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:15, gpu2002, 1, 00000000:AF:00.0,33,0,0, null, null, null
+20200630 10:15, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:20, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:20, gpu2002, 1, 00000000:AF:00.0,31,0,0, null, null, null
+20200630 10:20, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:25, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:25, gpu2002, 1, 00000000:AF:00.0,33,0,0, null, null, null
+20200630 10:25, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:30, gpu2002, 0, 00000000:3B:00.0,41,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:30, gpu2002, 1, 00000000:AF:00.0,30,0,0, null, null, null
+20200630 10:30, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:35, gpu2002, 0, 00000000:3B:00.0,44,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:35, gpu2002, 1, 00000000:AF:00.0,33,0,0, null, null, null
+20200630 10:35, gpu2002, 2, 00000000:D8:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:40, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:40, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 10:40, gpu2002, 2, 00000000:D8:00.0,37,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:45, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:45, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 10:45, gpu2002, 2, 00000000:D8:00.0,39,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:50, gpu2002, 0, 00000000:3B:00.0,41,13,4, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:50, gpu2002, 1, 00000000:AF:00.0,46,29,7, fbadichiakher1, pmemd.cuda, 44468
+20200630 10:50, gpu2002, 2, 00000000:D8:00.0,39,82,25, afarrokhzadeh, pmemd.cuda, 9200
+20200630 10:55, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 10:55, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 10:55, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:00, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:00, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:00, gpu2002, 2, 00000000:D8:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:05, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:05, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:05, gpu2002, 2, 00000000:D8:00.0,38,61,19, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:10, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:10, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:10, gpu2002, 2, 00000000:D8:00.0,38,6,2, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:15, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:15, gpu2002, 1, 00000000:AF:00.0,44,33,8, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:15, gpu2002, 2, 00000000:D8:00.0,39,81,25, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:20, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:20, gpu2002, 1, 00000000:AF:00.0,45,37,9, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:20, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:25, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:25, gpu2002, 1, 00000000:AF:00.0,44,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:25, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:30, gpu2002, 0, 00000000:3B:00.0,41,77,24, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:30, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:30, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:35, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:35, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:35, gpu2002, 2, 00000000:D8:00.0,40,6,2, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:40, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:40, gpu2002, 1, 00000000:AF:00.0,43,6,2, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:40, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:45, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:45, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:45, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:50, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:50, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:50, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 11:55, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 7346
+20200630 11:55, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468
+20200630 11:55, gpu2002, 2, 00000000:D8:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 9200
+20200630 12:00, gpu2002, 0, 00000000:3B:00.0,40,10,3, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:00, gpu2002, 1, 00000000:AF:00.0,43,61,15, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:00, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 12:05, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:05, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:05, gpu2002, 2, 00000000:D8:00.0,39,85,26, afarrokhzadeh, pmemd.cuda, 9200
+20200630 12:10, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:10, gpu2002, 1, 00000000:AF:00.0,44,40,10, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:10, gpu2002, 2, 00000000:D8:00.0,39,39,12, afarrokhzadeh, pmemd.cuda, 9200
+20200630 12:15, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:15, gpu2002, 1, 00000000:AF:00.0,43,39,9, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:15, gpu2002, 2, 00000000:D8:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 12:20, gpu2002, 0, 00000000:3B:00.0,43,99,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:20, gpu2002, 1, 00000000:AF:00.0,43,16,4, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:20, gpu2002, 2, 00000000:D8:00.0,40,98,30, afarrokhzadeh, pmemd.cuda, 9200
+20200630 12:25, gpu2002, 0, 00000000:3B:00.0,41,99,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:25, gpu2002, 1, 00000000:AF:00.0,43,33,8, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:25, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 12:30, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:30, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:30, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 12:35, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:35, gpu2002, 1, 00000000:AF:00.0,44,68,16, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:35, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 12:40, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:40, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:40, gpu2002, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200630 12:45, gpu2002, 0, 00000000:3B:00.0,41,73,23, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:45, gpu2002, 1, 00000000:AF:00.0,45,0,0, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:45, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 12:50, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:50, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:50, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 12:55, gpu2002, 0, 00000000:3B:00.0,40,39,12, afarrokhzadeh, pmemd.cuda, 50365
+20200630 12:55, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 12:55, gpu2002, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200630 13:00, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:00, gpu2002, 1, 00000000:AF:00.0,43,2,1, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:00, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 13:05, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:05, gpu2002, 1, 00000000:AF:00.0,45,65,16, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:05, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 13:10, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:10, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:10, gpu2002, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200630 13:15, gpu2002, 0, 00000000:3B:00.0,42,82,25, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:15, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:15, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 13:20, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:20, gpu2002, 1, 00000000:AF:00.0,44,7,2, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:20, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 13:25, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:25, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:25, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 13:30, gpu2002, 0, 00000000:3B:00.0,44,98,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:30, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:30, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 13:35, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:35, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:35, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 13:40, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:40, gpu2002, 1, 00000000:AF:00.0,45,42,10, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:40, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 13:45, gpu2002, 0, 00000000:3B:00.0,43,99,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:45, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:45, gpu2002, 2, 00000000:D8:00.0,31,0,0, null, null, null
+20200630 13:50, gpu2002, 0, 00000000:3B:00.0,40,38,12, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:50, gpu2002, 1, 00000000:AF:00.0,45,67,16, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:50, gpu2002, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200630 13:55, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365
+20200630 13:55, gpu2002, 1, 00000000:AF:00.0,44,97,23, fbadichiakher1, pmemd.cuda, 44468
+20200630 13:55, gpu2002, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200630 14:00, gpu2002, 0, 00000000:3B:00.0,39,15,5, afarrokhzadeh, pmemd.cuda, 50365
+20200630 14:00, gpu2002, 1, 00000000:AF:00.0,43,32,8, fbadichiakher1, pmemd.cuda, 44468
+20200630 14:00, gpu2002, 2, 00000000:D8:00.0,30,0,0, null, null, null
+20200630 14:05, gpu2002, 0, 00000000:3B:00.0,41,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:05, gpu2002, 1, 00000000:AF:00.0,44,70,17, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:05, gpu2002, 2, 00000000:D8:00.0,31,26,2, ltoledo, python, 61179 61237 61333
+20200630 14:10, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:10, gpu2002, 1, 00000000:AF:00.0,45,95,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:10, gpu2002, 2, 00000000:D8:00.0,32,23,3, ltoledo, python, 61179 61237 61333
+20200630 14:15, gpu2002, 0, 00000000:3B:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:15, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:15, gpu2002, 2, 00000000:D8:00.0,32,14,4, ltoledo, python, 61179 61237 61333
+20200630 14:20, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:20, gpu2002, 1, 00000000:AF:00.0,45,52,12, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:20, gpu2002, 2, 00000000:D8:00.0,31,9,2, ltoledo, python, 61179 61237 61333
+20200630 14:25, gpu2002, 0, 00000000:3B:00.0,43,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:25, gpu2002, 1, 00000000:AF:00.0,44,28,7, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:25, gpu2002, 2, 00000000:D8:00.0,31,12,1, ltoledo, python, 61179 61237 61333
+20200630 14:30, gpu2002, 0, 00000000:3B:00.0,43,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:30, gpu2002, 1, 00000000:AF:00.0,43,40,10, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:30, gpu2002, 2, 00000000:D8:00.0,31,8,1, ltoledo, python, 61179 61237 61333
+20200630 14:35, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:35, gpu2002, 1, 00000000:AF:00.0,43,12,3, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:35, gpu2002, 2, 00000000:D8:00.0,32,19,6, ltoledo, python, 61179 61237 61333
+20200630 14:40, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:40, gpu2002, 1, 00000000:AF:00.0,43,55,13, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:40, gpu2002, 2, 00000000:D8:00.0,33,28,12, ltoledo, python, 61179 61237 61333
+20200630 14:45, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:45, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:45, gpu2002, 2, 00000000:D8:00.0,33,30,10, ltoledo, python, 61179 61237 61333
+20200630 14:50, gpu2002, 0, 00000000:3B:00.0,35,100,6, afarrokhzadeh, pmemd.cuda, 50365 61237 64612
+20200630 14:50, gpu2002, 1, 00000000:AF:00.0,45,62,15, fbadichiakher1, pmemd.cuda, 44468 61237 64612
+20200630 14:50, gpu2002, 2, 00000000:D8:00.0,31,4,0, ltoledo, python, 61179 61237 61333 64612
+20200630 14:55, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 14:55, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 14:55, gpu2002, 2, 00000000:D8:00.0,32,7,2, ltoledo, python, 61179 61237 61333
+20200630 15:00, gpu2002, 0, 00000000:3B:00.0,35,100,5, afarrokhzadeh, pmemd.cuda, 50365 61237 65302
+20200630 15:00, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237 65302
+20200630 15:00, gpu2002, 2, 00000000:D8:00.0,32,12,3, ltoledo, python, 61179 61237 61333 65302
+20200630 15:05, gpu2002, 0, 00000000:3B:00.0,34,100,2, afarrokhzadeh, pmemd.cuda, 50365 61237 65701
+20200630 15:05, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237 65701
+20200630 15:05, gpu2002, 2, 00000000:D8:00.0,32,7,2, ltoledo, python, 61179 61237 61333 65701
+20200630 15:10, gpu2002, 0, 00000000:3B:00.0,34,100,5, afarrokhzadeh, pmemd.cuda, 50365 61237 66008
+20200630 15:10, gpu2002, 1, 00000000:AF:00.0,45,24,6, fbadichiakher1, pmemd.cuda, 44468 61237 66008
+20200630 15:10, gpu2002, 2, 00000000:D8:00.0,32,11,3, ltoledo, python, 61179 61237 61333 66008
+20200630 15:15, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 15:15, gpu2002, 1, 00000000:AF:00.0,45,43,10, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 15:15, gpu2002, 2, 00000000:D8:00.0,31,8,2, ltoledo, python, 61179 61237 61333
+20200630 15:20, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 15:20, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 15:20, gpu2002, 2, 00000000:D8:00.0,33,22,14, ltoledo, python, 61179 61237 61333
+20200630 15:25, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 15:25, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 15:25, gpu2002, 2, 00000000:D8:00.0,32,9,3, ltoledo, python, 61179 61237 61333
+20200630 15:30, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 15:30, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 15:30, gpu2002, 2, 00000000:D8:00.0,33,26,12, ltoledo, python, 61179 61237 61333
+20200630 15:35, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 15:35, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 15:35, gpu2002, 2, 00000000:D8:00.0,32,12,4, ltoledo, python, 61179 61237 61333
+20200630 15:40, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 15:40, gpu2002, 1, 00000000:AF:00.0,45,66,16, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 15:40, gpu2002, 2, 00000000:D8:00.0,32,21,7, ltoledo, python, 61179 61237 61333
+20200630 15:45, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 15:45, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 15:45, gpu2002, 2, 00000000:D8:00.0,31,8,2, ltoledo, python, 61179 61237 61333
+20200630 15:50, gpu2002, 0, 00000000:3B:00.0,41,37,11, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 15:50, gpu2002, 1, 00000000:AF:00.0,43,50,12, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 15:50, gpu2002, 2, 00000000:D8:00.0,31,15,7, ltoledo, python, 61179 61237 61333
+20200630 15:55, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 15:55, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 15:55, gpu2002, 2, 00000000:D8:00.0,31,3,1, ltoledo, python, 61179 61237 61333
+20200630 16:00, gpu2002, 0, 00000000:3B:00.0,40,16,5, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:00, gpu2002, 1, 00000000:AF:00.0,45,75,18, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:00, gpu2002, 2, 00000000:D8:00.0,31,3,0, ltoledo, python, 61179 61237 61333
+20200630 16:05, gpu2002, 0, 00000000:3B:00.0,41,77,24, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:05, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:05, gpu2002, 2, 00000000:D8:00.0,31,4,1, ltoledo, python, 61179 61237 61333
+20200630 16:10, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:10, gpu2002, 1, 00000000:AF:00.0,43,3,1, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:10, gpu2002, 2, 00000000:D8:00.0,32,24,4, ltoledo, python, 61179 61237 70541
+20200630 16:15, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:15, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:15, gpu2002, 2, 00000000:D8:00.0,32,16,6, ltoledo, python, 61179 61237 70541
+20200630 16:20, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:20, gpu2002, 1, 00000000:AF:00.0,43,42,10, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:20, gpu2002, 2, 00000000:D8:00.0,32,12,4, ltoledo, python, 61179 61237 70541
+20200630 16:25, gpu2002, 0, 00000000:3B:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:25, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:25, gpu2002, 2, 00000000:D8:00.0,31,8,2, ltoledo, python, 61179 61237 70541
+20200630 16:30, gpu2002, 0, 00000000:3B:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:30, gpu2002, 1, 00000000:AF:00.0,45,70,17, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:30, gpu2002, 2, 00000000:D8:00.0,32,4,0, ltoledo, python, 61179 61237 70541
+20200630 16:35, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:35, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:35, gpu2002, 2, 00000000:D8:00.0,38,21,13, ltoledo, python, 61179 61237 70541
+20200630 16:40, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:40, gpu2002, 1, 00000000:AF:00.0,44,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:40, gpu2002, 2, 00000000:D8:00.0,31,3,0, ltoledo, python, 61179 61237 70541
+20200630 16:45, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:45, gpu2002, 1, 00000000:AF:00.0,45,38,9, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:45, gpu2002, 2, 00000000:D8:00.0,34,26,13, ltoledo, python, 61179 61237 70541
+20200630 16:50, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:50, gpu2002, 1, 00000000:AF:00.0,47,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:50, gpu2002, 2, 00000000:D8:00.0,33,16,8, ltoledo, python, 61179 61237 70541
+20200630 16:55, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 16:55, gpu2002, 1, 00000000:AF:00.0,44,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 16:55, gpu2002, 2, 00000000:D8:00.0,33,8,2, ltoledo, python, 61179 61237 70541
+20200630 17:00, gpu2002, 0, 00000000:3B:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:00, gpu2002, 1, 00000000:AF:00.0,44,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:00, gpu2002, 2, 00000000:D8:00.0,30,6,2, ltoledo, python, 61179 61237 70541
+20200630 17:05, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:05, gpu2002, 1, 00000000:AF:00.0,44,24,6, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:05, gpu2002, 2, 00000000:D8:00.0,33,17,6, ltoledo, python, 61179 61237 70541
+20200630 17:10, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:10, gpu2002, 1, 00000000:AF:00.0,44,20,5, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:10, gpu2002, 2, 00000000:D8:00.0,33,10,2, ltoledo, python, 61179 61237 70541
+20200630 17:15, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:15, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:15, gpu2002, 2, 00000000:D8:00.0,36,41,24, ltoledo, python, 61179 61237 70541
+20200630 17:20, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:20, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:20, gpu2002, 2, 00000000:D8:00.0,32,24,4, ltoledo, python, 61179 61237 70541
+20200630 17:25, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:25, gpu2002, 1, 00000000:AF:00.0,45,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:25, gpu2002, 2, 00000000:D8:00.0,32,3,1, ltoledo, python, 61179 61237 70541
+20200630 17:30, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:30, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:30, gpu2002, 2, 00000000:D8:00.0,32,15,4, ltoledo, python, 61179 61237 70541
+20200630 17:35, gpu2002, 0, 00000000:3B:00.0,42,81,25, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:35, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:35, gpu2002, 2, 00000000:D8:00.0,31,5,1, ltoledo, python, 61179 61237 70541
+20200630 17:40, gpu2002, 0, 00000000:3B:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:40, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:40, gpu2002, 2, 00000000:D8:00.0,32,14,3, ltoledo, python, 61179 61237 70541
+20200630 17:45, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:45, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:45, gpu2002, 2, 00000000:D8:00.0,31,7,2, ltoledo, python, 61179 61237 70541
+20200630 17:50, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:50, gpu2002, 1, 00000000:AF:00.0,44,62,15, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:50, gpu2002, 2, 00000000:D8:00.0,31,2,0, ltoledo, python, 61179 61237 70541
+20200630 17:55, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 17:55, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 17:55, gpu2002, 2, 00000000:D8:00.0,34,22,9, ltoledo, python, 61179 61237 70541
+20200630 18:00, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:00, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:00, gpu2002, 2, 00000000:D8:00.0,43,43,27, ltoledo, python, 61179 61237 70541
+20200630 18:05, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:05, gpu2002, 1, 00000000:AF:00.0,43,35,8, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:05, gpu2002, 2, 00000000:D8:00.0,42,68,43, ltoledo, python, 61179 61237 70541
+20200630 18:10, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:10, gpu2002, 1, 00000000:AF:00.0,45,90,21, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:10, gpu2002, 2, 00000000:D8:00.0,31,4,1, ltoledo, python, 61179 61237 70541
+20200630 18:15, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:15, gpu2002, 1, 00000000:AF:00.0,44,78,19, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:15, gpu2002, 2, 00000000:D8:00.0,31,11,3, ltoledo, python, 61179 61237 70541
+20200630 18:20, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:20, gpu2002, 1, 00000000:AF:00.0,43,4,1, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:20, gpu2002, 2, 00000000:D8:00.0,31,0,0, ltoledo, python, 61179 61237 70541
+20200630 18:25, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:25, gpu2002, 1, 00000000:AF:00.0,43,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:25, gpu2002, 2, 00000000:D8:00.0,33,22,12, ltoledo, python, 61179 61237 81532
+20200630 18:30, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:30, gpu2002, 1, 00000000:AF:00.0,43,40,10, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:30, gpu2002, 2, 00000000:D8:00.0,31,6,1, ltoledo, python, 61179 61237 81532
+20200630 18:35, gpu2002, 0, 00000000:3B:00.0,40,7,2, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:35, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:35, gpu2002, 2, 00000000:D8:00.0,32,6,1, ltoledo, python, 61179 61237 81532
+20200630 18:40, gpu2002, 0, 00000000:3B:00.0,43,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:40, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:40, gpu2002, 2, 00000000:D8:00.0,31,14,4, ltoledo, python, 61179 61237 81532
+20200630 18:45, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:45, gpu2002, 1, 00000000:AF:00.0,43,14,3, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:45, gpu2002, 2, 00000000:D8:00.0,36,60,28, ltoledo, python, 61179 61237 81532
+20200630 18:50, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:50, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:50, gpu2002, 2, 00000000:D8:00.0,31,18,2, ltoledo, python, 61179 61237 81532
+20200630 18:55, gpu2002, 0, 00000000:3B:00.0,42,17,5, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 18:55, gpu2002, 1, 00000000:AF:00.0,43,3,1, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 18:55, gpu2002, 2, 00000000:D8:00.0,31,5,1, ltoledo, python, 61179 61237 81532
+20200630 19:00, gpu2002, 0, 00000000:3B:00.0,41,76,24, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:00, gpu2002, 1, 00000000:AF:00.0,44,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:00, gpu2002, 2, 00000000:D8:00.0,32,7,3, ltoledo, python, 61179 61237 81532
+20200630 19:05, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:05, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:05, gpu2002, 2, 00000000:D8:00.0,31,16,1, ltoledo, python, 61179 61237 81532
+20200630 19:10, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:10, gpu2002, 1, 00000000:AF:00.0,45,73,17, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:10, gpu2002, 2, 00000000:D8:00.0,33,17,6, ltoledo, python, 61179 61237 81532
+20200630 19:15, gpu2002, 0, 00000000:3B:00.0,43,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:15, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:15, gpu2002, 2, 00000000:D8:00.0,33,25,8, ltoledo, python, 61179 61237 81532
+20200630 19:20, gpu2002, 0, 00000000:3B:00.0,43,99,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:20, gpu2002, 1, 00000000:AF:00.0,45,77,18, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:20, gpu2002, 2, 00000000:D8:00.0,32,19,5, ltoledo, python, 61179 61237 81532
+20200630 19:25, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:25, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:25, gpu2002, 2, 00000000:D8:00.0,35,36,18, ltoledo, python, 61179 61237 81532
+20200630 19:30, gpu2002, 0, 00000000:3B:00.0,43,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:30, gpu2002, 1, 00000000:AF:00.0,44,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:30, gpu2002, 2, 00000000:D8:00.0,31,9,4, ltoledo, python, 61179 61237 81532
+20200630 19:35, gpu2002, 0, 00000000:3B:00.0,43,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:35, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:35, gpu2002, 2, 00000000:D8:00.0,34,21,12, ltoledo, python, 61179 61237 81532
+20200630 19:40, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:40, gpu2002, 1, 00000000:AF:00.0,44,73,17, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:40, gpu2002, 2, 00000000:D8:00.0,32,11,4, ltoledo, python, 61179 61237 81532
+20200630 19:45, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:45, gpu2002, 1, 00000000:AF:00.0,44,86,20, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:45, gpu2002, 2, 00000000:D8:00.0,32,11,3, ltoledo, python, 61179 61237 81532
+20200630 19:50, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:50, gpu2002, 1, 00000000:AF:00.0,45,37,9, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:50, gpu2002, 2, 00000000:D8:00.0,31,16,1, ltoledo, python, 61179 61237 81532
+20200630 19:55, gpu2002, 0, 00000000:3B:00.0,40,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 19:55, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 19:55, gpu2002, 2, 00000000:D8:00.0,31,17,1, ltoledo, python, 61179 61237 81532
+20200630 20:00, gpu2002, 0, 00000000:3B:00.0,38,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:00, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:00, gpu2002, 2, 00000000:D8:00.0,32,24,4, ltoledo, python, 61179 61237 81532
+20200630 20:05, gpu2002, 0, 00000000:3B:00.0,43,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:05, gpu2002, 1, 00000000:AF:00.0,44,91,22, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:05, gpu2002, 2, 00000000:D8:00.0,31,5,2, ltoledo, python, 61179 61237 81532
+20200630 20:10, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:10, gpu2002, 1, 00000000:AF:00.0,45,96,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:10, gpu2002, 2, 00000000:D8:00.0,33,13,4, ltoledo, python, 61179 61237 81532
+20200630 20:15, gpu2002, 0, 00000000:3B:00.0,41,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:15, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:15, gpu2002, 2, 00000000:D8:00.0,32,12,4, ltoledo, python, 61179 61237 81532
+20200630 20:20, gpu2002, 0, 00000000:3B:00.0,43,99,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:20, gpu2002, 1, 00000000:AF:00.0,45,46,11, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:20, gpu2002, 2, 00000000:D8:00.0,37,46,17, ltoledo, python, 61179 61237 81532
+20200630 20:25, gpu2002, 0, 00000000:3B:00.0,41,79,25, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:25, gpu2002, 1, 00000000:AF:00.0,45,54,13, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:25, gpu2002, 2, 00000000:D8:00.0,33,25,7, ltoledo, python, 61179 61237 81532
+20200630 20:30, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:30, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:30, gpu2002, 2, 00000000:D8:00.0,32,9,3, ltoledo, python, 61179 61237 81532
+20200630 20:35, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:35, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:35, gpu2002, 2, 00000000:D8:00.0,31,3,0, ltoledo, python, 61179 61237 81532
+20200630 20:40, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:40, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:40, gpu2002, 2, 00000000:D8:00.0,32,5,0, ltoledo, python, 61179 61237 91087
+20200630 20:45, gpu2002, 0, 00000000:3B:00.0,41,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:45, gpu2002, 1, 00000000:AF:00.0,44,43,10, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:45, gpu2002, 2, 00000000:D8:00.0,32,0,0, ltoledo, python, 61179 61237 91087
+20200630 20:50, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:50, gpu2002, 1, 00000000:AF:00.0,45,68,16, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:50, gpu2002, 2, 00000000:D8:00.0,31,16,1, ltoledo, python, 61179 61237 91087
+20200630 20:55, gpu2002, 0, 00000000:3B:00.0,42,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 20:55, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 20:55, gpu2002, 2, 00000000:D8:00.0,31,2,0, ltoledo, python, 61179 61237 91087
+20200630 21:00, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:00, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:00, gpu2002, 2, 00000000:D8:00.0,32,16,7, ltoledo, python, 61179 61237 91087
+20200630 21:05, gpu2002, 0, 00000000:3B:00.0,42,98,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:05, gpu2002, 1, 00000000:AF:00.0,44,85,20, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:05, gpu2002, 2, 00000000:D8:00.0,32,17,4, ltoledo, python, 61179 61237 91087
+20200630 21:10, gpu2002, 0, 00000000:3B:00.0,41,82,25, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:10, gpu2002, 1, 00000000:AF:00.0,43,13,3, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:10, gpu2002, 2, 00000000:D8:00.0,31,10,1, ltoledo, python, 61179 61237 91087
+20200630 21:15, gpu2002, 0, 00000000:3B:00.0,43,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:15, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:15, gpu2002, 2, 00000000:D8:00.0,31,9,1, ltoledo, python, 61179 61237 91087
+20200630 21:20, gpu2002, 0, 00000000:3B:00.0,41,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:20, gpu2002, 1, 00000000:AF:00.0,44,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:20, gpu2002, 2, 00000000:D8:00.0,31,4,1, ltoledo, python, 61179 61237 91087
+20200630 21:25, gpu2002, 0, 00000000:3B:00.0,42,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:25, gpu2002, 1, 00000000:AF:00.0,45,32,8, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:25, gpu2002, 2, 00000000:D8:00.0,32,7,3, ltoledo, python, 61179 61237 91087
+20200630 21:30, gpu2002, 0, 00000000:3B:00.0,43,98,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:30, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:30, gpu2002, 2, 00000000:D8:00.0,31,13,4, ltoledo, python, 61179 61237 91087
+20200630 21:35, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:35, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:35, gpu2002, 2, 00000000:D8:00.0,32,22,6, ltoledo, python, 61179 61237 91087
+20200630 21:40, gpu2002, 0, 00000000:3B:00.0,42,99,31, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:40, gpu2002, 1, 00000000:AF:00.0,44,28,7, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:40, gpu2002, 2, 00000000:D8:00.0,32,12,4, ltoledo, python, 61179 61237 91087
+20200630 21:45, gpu2002, 0, 00000000:3B:00.0,41,99,30, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:45, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:45, gpu2002, 2, 00000000:D8:00.0,31,15,1, ltoledo, python, 61179 61237 91087
+20200630 21:50, gpu2002, 0, 00000000:3B:00.0,39,0,0, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:50, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:50, gpu2002, 2, 00000000:D8:00.0,32,6,2, ltoledo, python, 61179 61237 91087
+20200630 21:55, gpu2002, 0, 00000000:3B:00.0,41,92,28, afarrokhzadeh, pmemd.cuda, 50365 61237
+20200630 21:55, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 21:55, gpu2002, 2, 00000000:D8:00.0,31,4,1, ltoledo, python, 61179 61237 91087
+20200630 22:00, gpu2002, 0, 00000000:3B:00.0,36,89,25, ltoledo, python, 61237 97658 97687
+20200630 22:00, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 22:00, gpu2002, 2, 00000000:D8:00.0,32,6,2, ltoledo, python, 61179 61237 91087
+20200630 22:05, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 22:05, gpu2002, 1, 00000000:AF:00.0,46,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 22:05, gpu2002, 2, 00000000:D8:00.0,31,2,0, ltoledo, python, 61179 61237 91087
+20200630 22:10, gpu2002, 0, 00000000:3B:00.0,43,88,25, ltoledo, python, 61237 97932 97963
+20200630 22:10, gpu2002, 1, 00000000:AF:00.0,45,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 22:10, gpu2002, 2, 00000000:D8:00.0,32,13,4, ltoledo, python, 61179 61237 91087
+20200630 22:15, gpu2002, 0, 00000000:3B:00.0,43,89,25, ltoledo, python, 61237 97932 97963
+20200630 22:15, gpu2002, 1, 00000000:AF:00.0,45,81,19, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 22:15, gpu2002, 2, 00000000:D8:00.0,32,19,6, ltoledo, python, 61179 61237 91087
+20200630 22:20, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 22:20, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 22:20, gpu2002, 2, 00000000:D8:00.0,32,19,4, ltoledo, python, 61179 61237 91087
+20200630 22:25, gpu2002, 0, 00000000:3B:00.0,44,89,25, ltoledo, python, 61237 97932 97963
+20200630 22:25, gpu2002, 1, 00000000:AF:00.0,44,97,23, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 22:25, gpu2002, 2, 00000000:D8:00.0,31,4,0, ltoledo, python, 61179 61237 91087
+20200630 22:30, gpu2002, 0, 00000000:3B:00.0,44,89,25, ltoledo, python, 61237 97932 97963
+20200630 22:30, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 22:30, gpu2002, 2, 00000000:D8:00.0,33,27,8, ltoledo, python, 61179 61237 91087
+20200630 22:35, gpu2002, 0, 00000000:3B:00.0,44,89,25, ltoledo, python, 61237 97932 97963
+20200630 22:35, gpu2002, 1, 00000000:AF:00.0,43,0,0, fbadichiakher1, pmemd.cuda, 44468 61237
+20200630 22:35, gpu2002, 2, 00000000:D8:00.0,32,10,3, ltoledo, python, 61179 61237 91087
+20200630 22:40, gpu2002, 0, 00000000:3B:00.0,43,89,25, ltoledo, python, 61237 97932 97963
+20200630 22:40, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 22:40, gpu2002, 2, 00000000:D8:00.0,31,4,0, ltoledo, python, 61179 61237 100963
+20200630 22:45, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 22:45, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 22:45, gpu2002, 2, 00000000:D8:00.0,32,9,4, ltoledo, python, 61179 61237 100963
+20200630 22:50, gpu2002, 0, 00000000:3B:00.0,43,90,25, ltoledo, python, 61237 97932 97963
+20200630 22:50, gpu2002, 1, 00000000:AF:00.0,53,90,30, ltoledo, python, 61237 100911
+20200630 22:50, gpu2002, 2, 00000000:D8:00.0,34,22,7, ltoledo, python, 61179 61237 100963
+20200630 22:55, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 22:55, gpu2002, 1, 00000000:AF:00.0,54,98,32, ltoledo, python, 61237 100911
+20200630 22:55, gpu2002, 2, 00000000:D8:00.0,33,20,9, ltoledo, python, 61179 61237 100963
+20200630 23:00, gpu2002, 0, 00000000:3B:00.0,44,88,25, ltoledo, python, 61237 97932 97963
+20200630 23:00, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 23:00, gpu2002, 2, 00000000:D8:00.0,35,14,7, ltoledo, python, 61179 61237 100963
+20200630 23:05, gpu2002, 0, 00000000:3B:00.0,44,88,25, ltoledo, python, 61237 97932 97963
+20200630 23:05, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 23:05, gpu2002, 2, 00000000:D8:00.0,32,17,6, ltoledo, python, 61179 61237 100963
+20200630 23:10, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 23:10, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 23:10, gpu2002, 2, 00000000:D8:00.0,33,17,6, ltoledo, python, 61179 61237 100963
+20200630 23:15, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 23:15, gpu2002, 1, 00000000:AF:00.0,53,90,30, ltoledo, python, 61237 100911
+20200630 23:15, gpu2002, 2, 00000000:D8:00.0,31,2,0, ltoledo, python, 61179 61237 100963
+20200630 23:20, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 23:20, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 23:20, gpu2002, 2, 00000000:D8:00.0,32,18,3, ltoledo, python, 61179 61237 100963
+20200630 23:25, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 23:25, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 23:25, gpu2002, 2, 00000000:D8:00.0,32,8,3, ltoledo, python, 61179 61237 100963
+20200630 23:30, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 23:30, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 23:30, gpu2002, 2, 00000000:D8:00.0,35,57,31, ltoledo, python, 61179 61237 100963
+20200630 23:35, gpu2002, 0, 00000000:3B:00.0,43,89,25, ltoledo, python, 61237 97932 97963
+20200630 23:35, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 23:35, gpu2002, 2, 00000000:D8:00.0,31,2,0, ltoledo, python, 61179 61237 100963
+20200630 23:40, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 23:40, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 23:40, gpu2002, 2, 00000000:D8:00.0,32,13,5, ltoledo, python, 61179 61237 100963
+20200630 23:45, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 23:45, gpu2002, 1, 00000000:AF:00.0,53,90,30, ltoledo, python, 61237 100911
+20200630 23:45, gpu2002, 2, 00000000:D8:00.0,31,3,0, ltoledo, python, 61179 61237 100963
+20200630 23:50, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 23:50, gpu2002, 1, 00000000:AF:00.0,53,98,32, ltoledo, python, 61237 100911
+20200630 23:50, gpu2002, 2, 00000000:D8:00.0,32,11,4, ltoledo, python, 61179 61237 100963
+20200630 23:55, gpu2002, 0, 00000000:3B:00.0,44,90,25, ltoledo, python, 61237 97932 97963
+20200630 23:55, gpu2002, 1, 00000000:AF:00.0,53,89,29, ltoledo, python, 61237 100911
+20200630 23:55, gpu2002, 2, 00000000:D8:00.0,31,5,0, ltoledo, python, 61179 61237 100963

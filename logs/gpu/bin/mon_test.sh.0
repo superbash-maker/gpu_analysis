@@ -1,0 +1,59 @@
+#!/bin/bash
+
+LOGROOT=/mnt/lustre/logs/gpu 
+HOSTNAME=$(hostname)
+LOGDIR=$LOGROOT/${HOSTNAME}
+TIMESTAMP=$(date "+%Y%m%d %H:%M"); 
+LOGFILE=${LOGDIR}/$TIMESTAMP
+
+
+# Iterate over all GPU's on node
+
+COUNT=$(nvidia-smi -L | wc -l  );
+
+PIDS=$(lsof -n -w -t /dev/nvidia*)
+
+for  ((i=0; i<$COUNT; i++)); do 
+  NVIDIA=$(nvidia-smi -i $i --query-gpu=pci.bus_id,temperature.gpu,utilization.gpu,utilization.memory --format=csv | tr -d " % " | tail -1  )
+
+  #echo DEBUG PIDS: $HOSTNAME :  $PIDS
+  echo -n  "$TIMESTAMP, $HOSTNAME, $i, $NVIDIA, "
+#  printf  "$TIMESTAMP, $HOSTNAME, $i, $NVIDIA,"
+
+  #ps -o user:20,pgrp,pid,pcpu,pmem,start,time,command -p $(lsof -n -w -t /dev/nvidia*) | grep -v ^USER 
+  if [ "${PIDS}" != "" ] ; then
+      for p in $PIDS; do
+	  #echo "DEBUG ==================> $PIDS <<<<<<<,"
+	  PSSTAT=$(ps -o user:20,pgrp,pid,pcpu,pmem,start,time,command -p $p | grep -v ^USER  )
+	  #echo
+	  #echo "DEBUG ==================> $PSSTAT <<<<<<<,"
+	  #echo
+
+	  #UPID=$(ps -o user:20,pgrp,pid,pcpu,pmem,start,time,command -p $p | grep -v ^USER  | awk '{ print $3 }' )
+	  UPID=$( echo $PSSTAT  | awk '{ print $3 }' )
+	  #USER=$(ps -o user:20,pgrp,pid,pcpu,pmem,start,time,command -p $p | grep -v ^USER |  awk '{ print $1 }' )
+	  #USER=$(ps -o user:20,pgrp,pid,pcpu,pmem,start,time,command -p $p | grep -v ^USER |  awk '{ print $1 }' )
+	  USER=$( echo $PSSTAT  | awk '{ print $1 }' )
+	  #APP=$(basename $(ps -o user:20,pgrp,pid,pcpu,pmem,start,time,command -p $p | grep -v ^USER  | awk '{ print $8 }' ) )
+	  APP=$(basename $(echo $PSSTAT  | awk '{ print $8 }' ) )
+
+#	  echo -n  "DEBUG UPID =>" $UPID "<= "
+#	  echo -n  "DEBUG =>" $APP "<= "
+#	  echo User: $USER, App: $APP
+	  #printf "$USER, $APP \n"
+          if [ "$p" == "${UPID}" ] ; then 
+		  #echo $TIMESTAMP, $HOSTNAME, $i, $NVIDIA, $USER, $APP
+		  echo  $USER, $APP, $p 
+		  echo "DEBUG ^^^^^^^^------------------", p=$p, UPID=$UPID, PIDS=$PIDS
+	  fi 
+      done
+   else
+#	  printf "\n" 
+	  echo   null, null, null
+	echo ""
+  fi
+
+#| awk '{ print $1 ",\t" $3 ",\t" $6 }'
+#  ps -o user:20,pid,pcpu,pmem,start,time,command -p $(lsof -n -w -t /dev/nvidia*) | grep -v ^USER | awk '{ print $1 ",\t" $2 ",\t" $7 }'
+done
+
