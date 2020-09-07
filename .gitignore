@@ -1,0 +1,2 @@
+# ignore all synced log files
+logs/*
