@@ -7,8 +7,8 @@ import subprocess
 
 # Get the date range that you want to process
 form=np.array([])
-start_date = date(2020, 3, 1)
-end_date = date(2020, 8, 31)
+start_date = date(2020, 6, 1)
+end_date = date(2020, 6, 2)
 daterange = pd.date_range(start_date, end_date)
 for single_day in daterange:
     form=np.append(form, single_day.strftime("%Y%m%d"))
@@ -36,7 +36,7 @@ for i in range(1,7):
     df1 = pd.read_csv("logs/gpu/gpu200"+j+"/all", names=cols, header=None, low_memory=False)
     df1['date'] = pd.to_datetime(df1["date"], format="%Y%m%d %H:%M")
     # Count the number of times a specific user appears per day
-    df1['day'] = df1['date'].apply(lambda x: "%d-%d-%d" % (x.year,x.month,x.day))
+    df1['day'] = df1['date'].apply(lambda x: "%d-%02d-%d" % (x.year,x.month,x.day))
     # Group all codes that are considered MD codes
     df1['code'] = df1.code.str.replace(r'(^.*pmemd.cuda.*$)|(^.*gmx.*$)|(^.*namd2.*$)|(^.*desmond.*$)|(^.*charmm.*$)', 'MD')
     # Group all codes that are considered ML codes
@@ -62,7 +62,7 @@ for i in range(1,4):
     df1 = pd.read_csv("logs/gpu/gpu400"+j+"/all", names=cols, header=None, low_memory=False)
     df1['date'] = pd.to_datetime(df1["date"], format="%Y%m%d %H:%M")
     # Count the number of times a specific user appears per day
-    df1['day'] = df1['date'].apply(lambda x: "%d-%d-%d" % (x.year,x.month,x.day))
+    df1['day'] = df1['date'].apply(lambda x: "%d-%02d-%d" % (x.year,x.month,x.day))
     # Group all codes that are considered MD codes
     df1['code'] = df1.code.str.replace(r'(^.*pmemd.cuda.*$)|(^.*gmx.*$)|(^.*namd2.*$)|(^.*desmond.*$)|(^.*charmm.*$)', 'MD')
     # Group all codes that are considered ML codes
@@ -81,11 +81,11 @@ for i in range(1,4):
     appended_data=appended_data.append(df2,ignore_index=True)
 
 # Get the year and month and store in new column on appended_data dataframe
-appended_data['yearmonth'] = appended_data['day'].astype(str).str[:6]
+appended_data['yearmonth'] = appended_data['day'].astype(str).str[:7]
 # Store the months that have 30, 31 and 28 days, respectively
-options1 = ['2020-4', '2020-6', '2020-9', '2020-11']
-options2 = ['2020-1', '2020-3', '2020-5', '2020-7', '2020-8', '2020-10', '2020-12']
-options3 = ['2020-2']
+options1 = ['2020-04', '2020-06', '2020-09', '2020-11']
+options2 = ['2020-01', '2020-03', '2020-05', '2020-07', '2020-08', '2020-10', '2020-12']
+options3 = ['2020-02']
 # Compute the GPU percentage usage per month by summing up all percentages per day
 # And divide by total number of GPU nodes on the cluster (9 nodes) and the number of days in a month
 # Keep in mind Feb was a leap year in 2020, so use 29 days instead of 28
@@ -107,8 +107,8 @@ fig.update_layout(
 title='GPU_USAGE',
 xaxis_title='Month',
 yaxis_title='Percent Usage',
-xaxis_ticktext=["Mar 2020", "Apr 2020", "May 2020", "Jun 2020", "Jul 2020", "Aug 2020"],
-xaxis_tickvals=["2020-3", "2020-4", "2020-5", "2020-6", "2020-7", "2020-8"],
+xaxis_ticktext=["Jun 2020", "Jul 2020", "Aug 2020", "Sep 2020", "Oct 2020", "Nov 2020"],
+xaxis_tickvals=["2020-6", "2020-7", "2020-8", "2020-9", "2020-10", "2020-11"],
 font=dict(family='Times New Roman', size=14, color='black'))
-fig.write_html('overall_percent_gpu_usage_code.html')
-#fig.show()
+#fig.write_html('overall_percent_gpu_usage_code.html')
+fig.show()
