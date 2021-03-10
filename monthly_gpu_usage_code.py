@@ -7,8 +7,8 @@ import subprocess
 
 # Get the date range that you want to process
 form=np.array([])
-start_date = date(2020, 6, 1)
-end_date = date(2020, 6, 2)
+start_date = date(2020, 10, 1)
+end_date = date(2021, 2, 28)
 daterange = pd.date_range(start_date, end_date)
 for single_day in daterange:
     form=np.append(form, single_day.strftime("%Y%m%d"))
@@ -83,9 +83,9 @@ for i in range(1,4):
 # Get the year and month and store in new column on appended_data dataframe
 appended_data['yearmonth'] = appended_data['day'].astype(str).str[:7]
 # Store the months that have 30, 31 and 28 days, respectively
-options1 = ['2020-04', '2020-06', '2020-09', '2020-11']
-options2 = ['2020-01', '2020-03', '2020-05', '2020-07', '2020-08', '2020-10', '2020-12']
-options3 = ['2020-02']
+options1 = ['2021-04', '2021-06', '2020-09', '2020-11']
+options2 = ['2021-01', '2021-03', '2021-05', '2021-07', '2021-08', '2020-10', '2020-12']
+options3 = ['2021-02']
 # Compute the GPU percentage usage per month by summing up all percentages per day
 # And divide by total number of GPU nodes on the cluster (9 nodes) and the number of days in a month
 # Keep in mind Feb was a leap year in 2020, so use 29 days instead of 28
@@ -94,7 +94,7 @@ monthly_percent1 = (monthly_percent1.groupby(['yearmonth','code']).sum()/(9*30))
 monthly_percent2 = appended_data[appended_data['yearmonth'].isin(options2)]
 monthly_percent2 = (monthly_percent2.groupby(['yearmonth','code']).sum()/(9*31)).round(1).reset_index()
 monthly_percent3 = appended_data[appended_data['yearmonth'].isin(options3)]
-monthly_percent3 = (monthly_percent3.groupby(['yearmonth','code']).sum()/(9*29)).round(1).reset_index()
+monthly_percent3 = (monthly_percent3.groupby(['yearmonth','code']).sum()/(9*28)).round(1).reset_index()
 # Put all dataframes for each month together
 combine_percent = [monthly_percent1, monthly_percent2, monthly_percent3]
 merge_percent = pd.concat(combine_percent)
@@ -107,8 +107,8 @@ fig.update_layout(
 title='GPU_USAGE',
 xaxis_title='Month',
 yaxis_title='Percent Usage',
-xaxis_ticktext=["Jun 2020", "Jul 2020", "Aug 2020", "Sep 2020", "Oct 2020", "Nov 2020"],
-xaxis_tickvals=["2020-6", "2020-7", "2020-8", "2020-9", "2020-10", "2020-11"],
+xaxis_ticktext=["Sep 2020", "Oct 2020", "Nov 2020", "Dec 2020", "Jan 2021", "Feb 2021"],
+xaxis_tickvals=["2020-9", "2020-10", "2020-11", "2020-12", "2021-01", "2021-02"],
 font=dict(family='Times New Roman', size=14, color='black'))
-#fig.write_html('overall_percent_gpu_usage_code.html')
-fig.show()
+fig.write_html('overall_percent_gpu_usage_code.html')
+#fig.show()
