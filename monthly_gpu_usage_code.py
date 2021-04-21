@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 import plotly.express as px
 import numpy as np
 from datetime import date
@@ -110,5 +109,5 @@ yaxis_title='Percent Usage',
 xaxis_ticktext=["Sep 2020", "Oct 2020", "Nov 2020", "Dec 2020", "Jan 2021", "Feb 2021"],
 xaxis_tickvals=["2020-9", "2020-10", "2020-11", "2020-12", "2021-01", "2021-02"],
 font=dict(family='Times New Roman', size=14, color='black'))
-fig.write_html('overall_percent_gpu_usage_code.html')
-#fig.show()
+#fig.write_html('overall_percent_gpu_usage_code.html')
+fig.show()
