@@ -1,2 +1,4 @@
-# ignore all synced log files
+# ignore all synced log files and html generated files
 logs/*
+*.html
+dates
