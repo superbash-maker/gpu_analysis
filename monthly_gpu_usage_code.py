@@ -107,6 +107,6 @@ xaxis_title='Month',
 yaxis_title='Percent Usage',
 xaxis_ticktext=["Dec 2020", "Jan 2021", "Feb 2021", "Mar 2021", "Apr 2021", "May 2021"],
 xaxis_tickvals=["2020-12", "2021-01", "2021-02", "2021-03", "2021-04", "2021-05"],
-font=dict(family='Times New Roman', size=14, color='black'))
-#fig.write_html('overall_percent_gpu_usage_code.html')
-fig.show()
+font=dict(family='Arial', size=16, color='black'))
+fig.write_html('GPU_usage_Dec_2020-May_2021.html')
+#fig.show()
