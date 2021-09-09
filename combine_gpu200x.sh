@@ -1,6 +1,5 @@
 #!/bin/bash
 # Used to combine files for multiple dates into a single file per GPU node
-# And get the research programme name per user
 
 # Make sure folders are clean of files from previous runs
 for j in `seq 1 6`
@@ -13,27 +12,21 @@ for i in `cat dates`
 do 
 	for j in `seq 1 6`
 	do
-		cat logs/gpu/gpu200$j/$i >> logs/gpu/gpu200$j/all 
+		# Check if data has been obtained for all dates in range
+		if [ -f "logs/gpu/gpu200"$j"/"$i ]
+		then
+			cat logs/gpu/gpu200$j/$i >> logs/gpu/gpu200$j/all 
+		else
+			# If no data present generate with null information
+			for hour in {00..23}
+			do
+				for min in {00..55..5}
+				do
+					echo $i" "$hour":"$min", gpu200"$j", 0, 00000000:3B:00.0,32,0,0, null, null, null" >> logs/gpu/gpu200$j/all
+					echo $i" "$hour":"$min", gpu200"$j", 1, 00000000:AF:00.0,31,0,0, null, null, null" >> logs/gpu/gpu200$j/all
+					echo $i" "$hour":"$min", gpu200"$j", 2, 00000000:D8:00.0,29,0,0, null, null, null" >> logs/gpu/gpu200$j/all
+				done
+			done
+		fi
 	done 
 done
-
-# Replace the all file per GPU node with an equivalent file that has the research programmes per user included
-#for i in '1' #`seq 1 6`
-#do
-#	user=[]
-#	user=(`awk -F',' '{print $8}' logs/gpu/gpu200$i/all`)
-#	for((j=0;j<${#user[@]};j++))
-#	do
-#		hits=`grep ${user[$j]} users.csv`
-#		if [[ -n $hits ]]
-#		then
-#			prog=`echo $hits | awk -F',' '{print $2}'`
-#			printf '%s %s\n' ','$prog
-#		else
-#			echo ",null"
-#		fi 
-#	done > new
-#	paste logs/gpu/gpu200$i/all new > check
-#	mv check logs/gpu/gpu200$i/all
-#done
-#rm new

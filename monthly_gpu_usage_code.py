@@ -6,8 +6,8 @@ import subprocess
 
 # Get the date range that you want to process
 form=np.array([])
-start_date = date(2020, 12, 1)
-end_date = date(2021, 5, 31)
+start_date = date(2021, 8, 1)
+end_date = date(2021, 8, 30)
 daterange = pd.date_range(start_date, end_date)
 for single_day in daterange:
     form=np.append(form, single_day.strftime("%Y%m%d"))
@@ -37,17 +37,17 @@ for i in range(1,7):
     # Count the number of times a specific user appears per day
     df1['day'] = df1['date'].apply(lambda x: "%d-%02d-%d" % (x.year,x.month,x.day))
     # Group all codes that are considered MD codes
-    df1['code'] = df1.code.str.replace(r'(^.*pmemd.cuda.*$)|(^.*gmx.*$)|(^.*namd2.*$)|(^.*desmond.*$)|(^.*charmm.*$)', 'MD')
+    df1['code'] = df1.code.str.replace(r'(^.*pmemd.cuda.*$)|(^.*gmx.*$)|(^.*namd2.*$)|(^.*desmond.*$)|(^.*charmm.*$)', 'MD', True)
     # Group all codes that are considered ML codes
-    df1['code'] = df1.code.str.replace(r'(^.*python.*$)|(^.*net3.*$)|(^.*imaging.*$)|(^.*dnls.*$)', 'ML')
+    df1['code'] = df1.code.str.replace(r'(^.*python.*$)|(^.*net3.*$)|(^.*imaging.*$)|(^.*dnls.*$)', 'ML', True)
     # Group all codes that are considered DEM codes
-    df1['code'] = df1.code.str.replace(r'(^.*Rocky.*$)', 'DEM')
+    df1['code'] = df1.code.str.replace(r'(^.*Rocky.*$)', 'DEM', True)
     # Group all codes that are considered Cryo-EM codes
-    df1['code'] = df1.code.str.replace(r'(^.*relion.*$)', 'RELION')
+    df1['code'] = df1.code.str.replace(r'(^.*relion.*$)', 'RELION', True)
     # Group everything that is not using the GPU
-    df1['code'] = df1.code.str.replace(r'(^.*null.*$)', 'NULL')
+    df1['code'] = df1.code.str.replace(r'(^.*null.*$)', 'NULL', True)
     # Everything else
-    df1['code'] = df1.code.str.replace(r'(^.*a.out.*$)|(^.*lmp.*$)|(^.*nvidia.*$)|(^.* .*$)', 'OTHER')
+    df1['code'] = df1.code.str.replace(r'(^.*a.out.*$)|(^.*lmp.*$)|(^.*nvidia.*$)|(^.* .*$)', 'OTHER', True)
     # Count the number of times a specific code appears per day and get percentage
     # Remember that GPU200x nodes have 864 entries per day
     df2 = (df1.groupby(['day', 'code']).size()*100/864).round(1).reset_index(name='percent')
@@ -63,17 +63,17 @@ for i in range(1,4):
     # Count the number of times a specific user appears per day
     df1['day'] = df1['date'].apply(lambda x: "%d-%02d-%d" % (x.year,x.month,x.day))
     # Group all codes that are considered MD codes
-    df1['code'] = df1.code.str.replace(r'(^.*pmemd.cuda.*$)|(^.*gmx.*$)|(^.*namd2.*$)|(^.*desmond.*$)|(^.*charmm.*$)', 'MD')
+    df1['code'] = df1.code.str.replace(r'(^.*pmemd.cuda.*$)|(^.*gmx.*$)|(^.*namd2.*$)|(^.*desmond.*$)|(^.*charmm.*$)', 'MD', True)
     # Group all codes that are considered ML codes
-    df1['code'] = df1.code.str.replace(r'(^.*python.*$)|(^.*net3.*$)|(^.*imaging.*$)|(^.*dnls.*$)', 'ML')
+    df1['code'] = df1.code.str.replace(r'(^.*python.*$)|(^.*net3.*$)|(^.*imaging.*$)|(^.*dnls.*$)', 'ML', True)
     # Group all codes that are considered DEM codes
-    df1['code'] = df1.code.str.replace(r'(^.*Rocky.*$)', 'DEM')
+    df1['code'] = df1.code.str.replace(r'(^.*Rocky.*$)', 'DEM', True)
     # Group all codes that are considered Cryo-EM codes
-    df1['code'] = df1.code.str.replace(r'(^.*relion.*$)', 'RELION')
+    df1['code'] = df1.code.str.replace(r'(^.*relion.*$)', 'RELION', True)
     # Group everything that is not using the GPU
-    df1['code'] = df1.code.str.replace(r'(^.*null.*$)', 'NULL')
+    df1['code'] = df1.code.str.replace(r'(^.*null.*$)', 'NULL', True)
     # Everything else
-    df1['code'] = df1.code.str.replace(r'(^.*a.out.*$)|(^.*lmp.*$)|(^.*nvidia.*$)|(^.* .*$)', 'OTHER')
+    df1['code'] = df1.code.str.replace(r'(^.*a.out.*$)|(^.*lmp.*$)|(^.*nvidia.*$)|(^.* .*$)', 'OTHER', True)
     # Count the number of times a specific code appears per day and get percentage
     # Remember that GPU400x nodes have 1152 entries per day
     df2 = (df1.groupby(['day', 'code']).size()*100/1152).round(1).reset_index(name='percent')
@@ -83,7 +83,7 @@ for i in range(1,4):
 appended_data['yearmonth'] = appended_data['day'].astype(str).str[:7]
 # Store the months that have 30, 31 and 28 days, respectively
 options1 = ['2021-04', '2021-06', '2021-09', '2021-11']
-options2 = ['2021-01', '2021-03', '2021-05', '2021-07', '2021-08', '2021-10', '2020-12']
+options2 = ['2021-01', '2021-03', '2021-05', '2021-07', '2021-08', '2021-10', '2021-12']
 options3 = ['2021-02']
 # Compute the GPU percentage usage per month by summing up all percentages per day
 # And divide by total number of GPU nodes on the cluster (9 nodes) and the number of days in a month
@@ -105,8 +105,8 @@ fig.update_layout(
 title='GPU_USAGE',
 xaxis_title='Month',
 yaxis_title='Percent Usage',
-xaxis_ticktext=["Dec 2020", "Jan 2021", "Feb 2021", "Mar 2021", "Apr 2021", "May 2021"],
-xaxis_tickvals=["2020-12", "2021-01", "2021-02", "2021-03", "2021-04", "2021-05"],
-font=dict(family='Arial', size=16, color='black'))
-fig.write_html('GPU_usage_Dec_2020-May_2021.html')
+xaxis_ticktext=["Jan 2021", "Feb 2021", "Mar 2021", "Apr 2021", "May 2021", "Jun 2021"],
+xaxis_tickvals=["2021-01", "2021-02", "2021-03", "2021-04", "2021-05", "2021-06"],
+font=dict(family='Arial', size=26, color='black'))
+fig.write_html('GPU_usage_Jan-Jun_2021.html')
 #fig.show()
