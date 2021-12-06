@@ -13,6 +13,13 @@ for i in `cat dates`
 do 
 	for j in `seq 1 3`
 	do
+		# Count the lines for each file and ensure everything is present
+		count=`cat logs/gpu/gpu400$j/$i | wc -l`
+		# Should we have count less then 864 remove file
+		if [ $count -lt 1152 ]
+		then	
+			rm logs/gpu/gpu400$j/$i
+		fi
 		# Check if data has been obtained for all dates in range
 		if [ -f "logs/gpu/gpu400"$j"/"$i ]
 		then

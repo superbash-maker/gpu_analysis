@@ -6,8 +6,8 @@ import subprocess
 
 # Get the date range that you want to process
 form=np.array([])
-start_date = date(2021, 8, 1)
-end_date = date(2021, 8, 30)
+start_date = date(2021, 6, 1)
+end_date = date(2021, 11, 30)
 daterange = pd.date_range(start_date, end_date)
 for single_day in daterange:
     form=np.append(form, single_day.strftime("%Y%m%d"))
@@ -105,8 +105,8 @@ fig.update_layout(
 title='GPU_USAGE',
 xaxis_title='Month',
 yaxis_title='Percent Usage',
-xaxis_ticktext=["Jan 2021", "Feb 2021", "Mar 2021", "Apr 2021", "May 2021", "Jun 2021"],
-xaxis_tickvals=["2021-01", "2021-02", "2021-03", "2021-04", "2021-05", "2021-06"],
+xaxis_ticktext=["Mar 2021", "Apr 2021", "May 2021", "Jun 2021", "Jul 2021", "Aug 2021"],
+xaxis_tickvals=["2021-03", "2021-04", "2021-05", "2021-06", "2021-07", "2021-08"],
 font=dict(family='Arial', size=26, color='black'))
-fig.write_html('GPU_usage_Jan-Jun_2021.html')
-#fig.show()
+#fig.write_html('GPU_usage_Mar-Aug_2021.html')
+fig.show()
